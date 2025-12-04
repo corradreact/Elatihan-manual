@@ -1,7 +1,7 @@
 # Panduan Kemaskini Profil
 
 ::: info Tujuan
-Membantu pengguna untuk mengemaskini maklumat profil dalam sistem MyReCourt bagi memudahkan pengisian borang permohonan.
+Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan bagi memudahkan pengisian borang permohonan.
 :::
 
 ## Langkah-langkah Kemaskini Profil
@@ -9,8 +9,8 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem MyReCourt bagi
 ### 1. Akses Menu Kemaskini Profil
 
 ::: tip Langkah 1
-1. Log masuk ke dalam sistem MyReCourt
-2. Pada paparan Dashboard, klik pada kad **Kemaskini Profil**
+1. Log masuk ke dalam sistem E-Latihan
+2. Pada paparan Dashboard, klik pada kad **Profil**
 3. Kad ini membolehkan anda mengemaskini maklumat profil anda
 :::
 <!-- 
@@ -20,10 +20,9 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem MyReCourt bagi
 
 ::: tip Langkah 2
 Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
-- Nama Pemohon
-- Status Warganegara
-- No Kad Pengenalan/No Pasport
-- Nombor Telefon Bimbit
+- Nama Pengguna
+- Nama
+- Email
 :::
 
 <!-- ![Paparan Maklumat Sedia Ada](./image/kemaskini-profil/image2.png) -->
