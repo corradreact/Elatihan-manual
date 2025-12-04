@@ -24,7 +24,7 @@ Halaman ini memaparkan jadual berikut dengan lajur-lajur:
 | **Status Permohonan** | Penapis untuk melihat permohonan mengikut status (Semua, Menunggu Kelulusan, Selesai, Ditolak) |
 | **Tarikh Mula Latihan (dari)** | Penapis berdasarkan tarikh mula latihan |
 
-![Halaman Senarai Permohonan](./image/senarai-permohonan/image1.png)
+<!-- ![Halaman Senarai Permohonan](./image/senarai-permohonan/image1.png) -->
 
 ### 3. Jadual Senarai Permohonan
 
@@ -97,7 +97,7 @@ Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
 - Lampiran dokumen yang dimuat naik
 :::
 
-![Butang Lihat Butiran](./image/senarai-permohonan/image2.png)
+<!-- ![Butang Lihat Butiran](./image/senarai-permohonan/image2.png) -->
 
 ---
 
@@ -111,7 +111,7 @@ Setelah klik butang **"Lihat Butiran"**, anda akan melihat modal atau halaman ba
 Modal menunjukkan tajuk permohonan di atas dengan status kelulusan semasa. Terdapat beberapa bahagian yang boleh diperluaskan untuk melihat detail lengkap.
 :::
 
-![Halaman Lihat Butiran](./image/senarai-permohonan/image3.png)
+<!-- ![Halaman Lihat Butiran](./image/senarai-permohonan/image3.png) -->
 
 ### 2. Bahagian-Bahagian dalam Lihat Butiran
 
@@ -129,8 +129,8 @@ Menunjukkan maklumat peribadi yang telah anda isi:
 
 **Status:** Maklumat ini diambil daripada profil anda yang telah dikemaskini sebelumnya.
 :::
-
-![Bahagian A: Keterangan Diri Kakitangan](./image/senarai-permohonan/image4.png)
+<!-- 
+![Bahagian A: Keterangan Diri Kakitangan](./image/senarai-permohonan/image4.png) -->
 
 #### Bahagian B: Butir-Butir Latihan Luaran
 
@@ -146,7 +146,7 @@ Menunjukkan semua maklumat latihan yang anda daftar:
 **Penting:** Maklumat ini tidak boleh diubah setelah permohonan dihantar.
 :::
 
-![Bahagian B: Butir-Butir Latihan Luaran](./image/senarai-permohonan/image5.png)
+<!-- ![Bahagian B: Butir-Butir Latihan Luaran](./image/senarai-permohonan/image5.png) -->
 
 #### Bahagian C: Faedah Latihan
 
@@ -160,7 +160,7 @@ Contoh manfaat yang mungkin anda nyatakan:
 - Meningkatkan pengetahuan tentang sistem maklumat terbaru
 :::
 
-![Bahagian C: Faedah Latihan](./image/senarai-permohonan/image6.png)
+<!-- ![Bahagian C: Faedah Latihan](./image/senarai-permohonan/image6.png) -->
 
 #### Bahagian E: Semakan Permohonan
 
@@ -172,8 +172,8 @@ Menunjukkan status penyediaan dokumen:
 
 **Catatan:** Jika anda memilih "Tidak Bersedia", anda masih boleh melanjutkan permohonan, tetapi pengurusan akan meminta dokumen tambahan kemudian.
 :::
-
-![Bahagian E: Semakan Permohonan](./image/senarai-permohonan/image7.png)
+<!-- 
+![Bahagian E: Semakan Permohonan](./image/senarai-permohonan/image7.png) -->
 
 #### Status Kelulusan
 
@@ -184,9 +184,9 @@ Menunjukkan status semasa permohonan:
 - **Ditolak** - Permohonan telah ditolak
 
 **Catatan:** Sistem akan mengemas kini status ini secara real-time apabila keputusan telah dibuat oleh pihak pengurusan.
-:::
+<!-- :::
 
-![Status Kelulusan](./image/senarai-permohonan/image8.png)
+![Status Kelulusan](./image/senarai-permohonan/image8.png) -->
 
 #### Lampiran Permohonan
 
@@ -199,8 +199,8 @@ Bagian ini menunjukkan semua dokumen sokongan yang telah anda muat naik:
 
 **Tiada lampiran dihantar untuk permohonan ini** - Jika tiada dokumen, pesan ini akan dipaparkan. Anda perlu mengklik butang **"Pilih Fail"** dan muat naik dokumen sokongan sebelum menghantar permohonan.
 :::
-
-![Lampilan Permohonan](./image/senarai-permohonan/image9.png)
+<!-- 
+![Lampilan Permohonan](./image/senarai-permohonan/image9.png) -->
 
 ---
 

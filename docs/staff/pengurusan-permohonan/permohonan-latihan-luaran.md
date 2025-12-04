@@ -29,7 +29,7 @@ Isi keterangan diri anda dengan maklumat berikut:
 Pastikan semua maklumat peribadi adalah tepat dan terkini sebelum meneruskan.
 :::
 
-![Bahagian A: Keterangan Diri Pekerja/Staf](./image/permohonan-latihan-luaran/image1.png)
+<!-- ![Bahagian A: Keterangan Diri Pekerja/Staf](./image/permohonan-latihan-luaran/image1.png) -->
 
 ## Bahagian B: Butir-Butir Latihan Luaran
 
@@ -50,7 +50,7 @@ Pilih salah satu:
 - **Temu Duga/Persidangan** - Jika melibatkan sesi temu duga atau persidangan
 :::
 
-![Bahagian B: Butir-Butir Latihan Luaran](./image/permohonan-latihan-luaran/image2.png)
+<!-- ![Bahagian B: Butir-Butir Latihan Luaran](./image/permohonan-latihan-luaran/image2.png) -->
 
 ## Bahagian C: Faedah Latihan
 
@@ -66,8 +66,8 @@ Tulis dengan jelas dan ringkas tentang manfaat yang relevan dengan tugas kerja a
 - Mendapat sertifikasi profesional
 - Meningkatkan pengetahuan tentang sistem terbaru
 :::
-
-![Bahagian C: Faedah Latihan](./image/permohonan-latihan-luaran/image3.png)
+<!-- 
+![Bahagian C: Faedah Latihan](./image/permohonan-latihan-luaran/image3.png) -->
 
 ## Bahagian D: Pengesahan
 
@@ -83,7 +83,7 @@ Dokumen yang biasanya diperlukan:
 - Syarat kehadiran latihan
 :::
 
-![Bahagian D: Pengesahan](./image/permohonan-latihan-luaran/image4.png)
+<!-- ![Bahagian D: Pengesahan](./image/permohonan-latihan-luaran/image4.png) -->
 
 ## Bahagian E: Muat Naik Dokumen Sokongan
 
@@ -101,7 +101,7 @@ Dokumen yang biasanya dimuat naik:
 - Jadual dan agenda latihan
 :::
 
-![Bahagian E: Muat Naik Dokumen Sokongan](./image/permohonan-latihan-luaran/image5.png)
+<!-- ![Bahagian E: Muat Naik Dokumen Sokongan](./image/permohonan-latihan-luaran/image5.png) -->
 
 ## Langkah Akhir: Penyerahan Permohonan
 
@@ -131,8 +131,8 @@ Apabila permohonan berjaya dihantar:
 - Permohonan akan masuk ke dalam sistem untuk penelaahan oleh pengurusan
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan**
 :::
-
-![Butang Hantar Permohonan](./image/permohonan-latihan-luaran/image6.png)
+<!-- 
+![Butang Hantar Permohonan](./image/permohonan-latihan-luaran/image6.png) -->
 
 ## Maklumat Tambahan
 
