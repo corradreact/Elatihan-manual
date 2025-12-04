@@ -5,24 +5,34 @@ Membantu peserta latihan untuk mendaftar kehadiran dan memuat naik bukti kehadir
 ## Langkah-Langkah Daftar Hadir
 
 ### 1. Akses Dashboard
+::: tip Langkah 1
 1. Log masuk ke sistem
 2. Lihat senarai latihan di dashboard
+:::
 
 ### 2. Pilih Latihan
+::: tip Langkah 2
 1. Cari latihan yang ingin didaftar hadir
 2. Klik butang **"Kehadiran"** (biru)
+:::
 
 ### 3. Klik "Hadir"
+::: tip Langkah 3
 Modal akan muncul dengan pilihan. Klik butang biru **"Hadir"**.
+:::
 
 ### 4. Muat Naik Bukti Kehadiran
+::: tip Langkah 4
 - Klik **"Choose Files"** untuk memilih file
 - Format yang diterima: JPG, PNG, PDF, DOC, DOCX
 - Ukuran maksimum: 5MB
 - Contoh bukti: sertifikat, foto, surat pengesahan dari penyelenggara
+:::
 
 ### 5. Hantar
+::: tip Langkah 5
 Klik butang **"Hantar"** untuk menyelesaikan pendaftaran.
+:::
 
 ---
 
