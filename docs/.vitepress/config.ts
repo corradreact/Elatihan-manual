@@ -34,16 +34,7 @@ export default defineConfig({
     ],
 
     sidebar: {
-      // ==========================
-      // 📘 SIDEBAR MANUAL STAFF
-      // ==========================
       '/staff/': [
-        {
-          text: 'Manual Pengguna Staff',
-          items: [
-            { text: 'Utama', link: '/staff/' }
-          ]
-        },
         {
           text: 'Pengurusan Akaun',
           items: [
@@ -65,22 +56,12 @@ export default defineConfig({
             { text: 'Daftar Kedatangan', link: '/staff/latihan/daftar-kedatangan' },
             { text: 'Daftar Ketidakhadiran', link: '/staff/latihan/daftar-ketidakhadiran' },
             { text: 'Penilaian Latihan', link: '/staff/latihan/penilaian-latihan' },
-            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil-dalaman' },
+            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil'},
             { text: 'Senarai Latihan Terlibat', link: '/staff/latihan/senarai-latihan-terlibat' }
           ]
         }
       ],
-
-      // ==========================
-      // 📗 SIDEBAR MANUAL ADMIN
-      // ==========================
       '/admin/': [
-        {
-          text: 'Manual Pengguna Admin',
-          items: [
-            { text: 'Utama', link: '/admin/' }
-          ]
-        },
         {
           text: 'Laporan Latihan',
           items: [

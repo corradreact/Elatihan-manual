@@ -1,7 +1,9 @@
 /* Import font Inter */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
-/* Apply font globally */
+/* ======================================
+   GLOBAL VARIABLES & FONT
+   ====================================== */
 :root {
   --vp-font-family-base: 'Inter', sans-serif;
   --vp-font-family-mono: 'Inter', monospace;
@@ -11,29 +13,29 @@
   --vp-c-brand-light: #3b82f6;
   --vp-c-brand-lighter: #60a5fa;
 
-  /* =============== CUSTOM BLOCK (INFO BOX) WARNA HIJAU =============== */
-  --vp-custom-block-info-bg: #e8f3ec;        /* background hijau */
-  --vp-custom-block-info-border: #16a34a;    /* border hijau pekat */
-  --vp-custom-block-info-text: #065f46;      /* text hijau */
+  /* =============== CUSTOM BLOCK: INFO (TUJUAN) – KELABU =============== */
+  --vp-custom-block-info-bg: #f3f4f6;      /* background kelabu lembut */
+  --vp-custom-block-info-border: #e5e7eb;  /* border kelabu nipis */
+  --vp-custom-block-info-text: #111827;    /* teks gelap */
 
-  /* Jika anda nanti nak ubah warna TIP / WARNING / DANGER, tambah sini */
-  /* 
-  --vp-custom-block-tip-bg: #fefce8;
-  --vp-custom-block-tip-border: #facc15;
+  /* =============== CUSTOM BLOCK: NOTE (::: note) – BIRU =============== */
+  --vp-custom-block-note-bg: #eef2ff;
+  --vp-custom-block-note-border: #4f46e5;
+  --vp-custom-block-note-text: #111827;
 
-  --vp-custom-block-warning-bg: #fff7ed;
-  --vp-custom-block-warning-border: #fb923c;
-
-  --vp-custom-block-danger-bg: #fef2f2;
-  --vp-custom-block-danger-border: #f87171;
-  */
+  /* =============== CUSTOM BLOCK: TIP (::: tip) – BIRU LEMBUT =============== */
+  --vp-custom-block-tip-bg: #eef2ff;       /* biru lembut */
+  --vp-custom-block-tip-border: #3b82f6;   /* biru terang */
+  --vp-custom-block-tip-text: #1e3a8a;     /* biru gelap */
 }
 
 body {
   font-family: 'Inter', sans-serif !important;
 }
 
-/* =============== NAVBAR LOGO + TITLE =============== */
+/* ======================================
+   NAVBAR LOGO + TITLE
+   ====================================== */
 
 .VPNavBarTitle {
   display: flex;
@@ -47,7 +49,9 @@ body {
   object-fit: contain;
 }
 
-/* =============== HERO UTAMA =============== */
+/* ======================================
+   HERO UTAMA
+   ====================================== */
 
 .hero-utama {
   display: flex;
@@ -147,47 +151,100 @@ body {
   }
 }
 
-/* =============== SIDEBAR =============== */
+/* ======================================
+   SIDEBAR
+   ====================================== */
 
 .VPSidebar {
   border-right: 1px solid #eee;
 }
 
+/* Tajuk group – huruf kecil, ada arrow */
 .VPSidebar .group .title {
+  font-size: 0.82rem;
   font-weight: 600;
-  font-size: 13px;
+  letter-spacing: 0;
   text-transform: none;
+  color: var(--vp-c-text-1);
+  padding: 4px 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  cursor: pointer;
 }
 
-.VPSidebar .group .items .item a {
-  padding-left: 1rem;
-  font-size: 13px;
+/* Arrow for dropdown */
+.VPSidebar .group .title::after {
+  content: '▾'; /* boleh tukar ke ▼ atau ▸ */
+  font-size: 0.75rem;
+  opacity: 0.7;
+  transition: transform 0.2s ease;
 }
 
-/* Item aktif – line biru di tepi + teks biru */
-.VPSidebar .group .items .item.is-active a {
-  border-left: 3px solid var(--vp-c-brand);
-  padding-left: calc(1rem - 3px);
-  color: var(--vp-c-brand);
-  font-weight: 500;
+/* Arrow rotate when collapsed */
+.VPSidebar .group.collapsed .title::after {
+  transform: rotate(-90deg);
 }
 
-/* Hover effect lembut */
-.VPSidebar .group .items .item a:hover {
-  background-color: #f3f4f6;
-}
-/* ===========================
-   CUSTOM BLOCK: NOTE (::: note)
-   Jadikan biru lembut
-   =========================== */
-
-:root {
-  --vp-custom-block-note-bg: #eef2ff;        /* background biru lembut */
-  --vp-custom-block-note-border: #4f46e5;    /* border biru pekat */
-  --vp-custom-block-note-text: #111827;      /* teks gelap yang jelas */
+/* Single divider antara group */
+.VPSidebar .group {
+  padding-bottom: 6px;
+  margin-bottom: 16px;
+  position: relative;
 }
 
-/* Kalau browser tak guna CSS variable dengan betul, pakai backup selector */
+.VPSidebar .group:not(:last-child)::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 1px;
+  background-color: var(--vp-c-divider);
+}
+
+/* LIST ITEM STYLING */
+.VPSidebar .VPSidebarItem .link {
+  padding: 3px 4px;
+  border-radius: 4px;
+  transition: background 0.15s ease, color 0.15s ease;
+  font-size: 0.88rem;
+}
+
+/* Hover effect */
+.VPSidebar .VPSidebarItem .link:hover {
+  background: var(--vp-c-bg-soft);
+  color: var(--vp-c-brand-1);
+}
+
+/* Active item (sedang buka page tu) */
+.VPSidebar .VPSidebarItem .link.active {
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 6px;
+}
+
+/* ======================================
+   CUSTOM BLOCKS
+   ====================================== */
+
+/* INFO – untuk "Tujuan" (kelabu) */
+.custom-block.info {
+  background-color: var(--vp-custom-block-info-bg);
+  border: 1px solid var(--vp-custom-block-info-border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.custom-block.info .custom-block-title {
+  color: var(--vp-custom-block-info-text);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* NOTE – biru lembut */
 .custom-block.note {
   background-color: var(--vp-custom-block-note-bg);
   border-color: var(--vp-custom-block-note-border);
@@ -197,22 +254,16 @@ body {
   color: var(--vp-custom-block-note-text);
 }
 
-/* ===========================
-   CUSTOM BLOCK: TIP (::: tip)
-   Kekalkan hijau (jika nak slightly nicer)
-   =========================== */
-
-:root {
-  --vp-custom-block-tip-bg: #ecfdf3;         /* hijau lembut */
-  --vp-custom-block-tip-border: #16a34a;     /* hijau border */
-  --vp-custom-block-tip-text: #166534;       /* teks hijau gelap */
-}
-
+/* TIP – untuk "Langkah 1" (biru lembut) */
 .custom-block.tip {
   background-color: var(--vp-custom-block-tip-bg);
-  border-color: var(--vp-custom-block-tip-border);
+  border: 1px solid var(--vp-custom-block-tip-border);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  color: var(--vp-custom-block-tip-text);
 }
 
 .custom-block.tip .custom-block-title {
   color: var(--vp-custom-block-tip-text);
+  font-weight: 600;
 }
