@@ -71,4 +71,4 @@ Apabila permohonan berjaya dihantar:
 - Permohonan akan masuk ke dalam sistem untuk penelaahan oleh pengurusan
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
 
-![Success1](/image/staff/success1.png)
+![Success1](/image/staff/Success1.png)
