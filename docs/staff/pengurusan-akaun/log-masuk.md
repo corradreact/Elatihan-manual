@@ -26,7 +26,7 @@ Manual ini menerangkan dua cara log masuk ke sistem.
 5. Jika maklumat betul, sistem akan memaparkan papan pemuka (dashboard) staf.
 :::
 
-<!-- ![Paparan Log Masuk](./image/log-masuk.png) -->
+![Paparan Log Masuk](./image/log-masuk.png)
 
 ::: warning Tips Keselamatan
 - Jangan kongsikan kata laluan SIM MPS anda.
