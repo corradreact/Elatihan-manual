@@ -13,8 +13,7 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan bagi
 2. Pada paparan Dashboard, klik pada kad **Profil**
 3. Kad ini membolehkan anda mengemaskini maklumat profil anda
 :::
-<!-- 
-![Kad Kemaskini Profil](./image/kemaskini-profil/image1.png) -->
+
 
 ### 2. Semak Maklumat Sedia Ada
 
