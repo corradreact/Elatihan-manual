@@ -13,8 +13,8 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem MyReCourt bagi
 2. Pada paparan Dashboard, klik pada kad **Kemaskini Profil**
 3. Kad ini membolehkan anda mengemaskini maklumat profil anda
 :::
-
-![Kad Kemaskini Profil](./image/kemaskini-profil/image1.png)
+<!-- 
+![Kad Kemaskini Profil](./image/kemaskini-profil/image1.png) -->
 
 ### 2. Semak Maklumat Sedia Ada
 
@@ -26,7 +26,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 - Nombor Telefon Bimbit
 :::
 
-![Paparan Maklumat Sedia Ada](./image/kemaskini-profil/image2.png)
+<!-- ![Paparan Maklumat Sedia Ada](./image/kemaskini-profil/image2.png) -->
 
 ### 3. Kemaskini Maklumat
 
@@ -41,7 +41,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 2. Klik butang **Simpan** untuk menyimpan kemaskini
 :::
 
-![Kemaskini Maklumat Profil](./image/kemaskini-profil/image3.png)
+<!-- ![Kemaskini Maklumat Profil](./image/kemaskini-profil/image3.png) -->
 
 ### 4. Pengesahan Kemaskini
 
@@ -49,8 +49,8 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 1. Setelah berjaya dikemaskini, sistem akan memaparkan mesej pengesahan
 2. Klik butang **OK** untuk kembali ke paparan Dashboard
 :::
-
-![Pengesahan Kemaskini](./image/kemaskini-profil/image4.png)
+<!-- 
+![Pengesahan Kemaskini](./image/kemaskini-profil/image4.png) -->
 
 ::: warning Nota Penting
 - Pastikan semua maklumat yang diisi adalah tepat dan terkini
