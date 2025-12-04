@@ -13,9 +13,6 @@ Membantu Admin HQ untuk mendaftar dan mengurus pengguna admin daerah dalam siste
 2. Layari URL: [https://myrecourt.kedah.gov.my/](https://myrecourt.kedah.gov.my/)
 3. Log masuk sebagai Admin HQ
 :::
-<!-- 
-<img src="./image/admin/pendaftaran/image1.png" alt="Paparan Log Masuk" width="250">
-<br> -->
 
 >
 
@@ -25,9 +22,7 @@ Membantu Admin HQ untuk mendaftar dan mengurus pengguna admin daerah dalam siste
 1. Klik menu "Pentadbir Pengguna"
 2. Pilih submenu "Pengurusan Pengguna"
 3. Sistem akan memaparkan halaman pengurusan pengguna
-<!-- :::
 
-<img src="./image/admin/pendaftaran/image3.png" alt="Menu Pengurusan Pengguna" width="250"> -->
 
 ### 3. Paparan Senarai Pengguna
 
