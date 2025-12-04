@@ -1,7 +1,7 @@
 # Panduan Penilaian Latihan
-
+::: info Tujuan
 Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
-
+:::
 ## Membuat Penilaian
 
 ### 1. Klik "Buat Penilaian"

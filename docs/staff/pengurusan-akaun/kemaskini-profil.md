@@ -1,7 +1,7 @@
 # Panduan Kemaskini Profil
 
 ::: info Tujuan
-Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan bagi memudahkan pengisian borang permohonan.
+Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
 :::
 
 ## Langkah-langkah Kemaskini Profil

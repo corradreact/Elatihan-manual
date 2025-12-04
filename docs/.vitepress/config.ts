@@ -57,7 +57,7 @@ export default defineConfig({
             { text: 'Daftar Ketidakhadiran', link: '/staff/latihan/daftar-ketidakhadiran' },
             { text: 'Penilaian Latihan', link: '/staff/latihan/penilaian-latihan' },
             { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil'},
-            { text: 'Senarai Latihan Terlibat', link: '/staff/latihan/senarai-latihan-terlibat' }
+            { text: 'Senarai Latihan Terlibat', link: '/staff/latihan/senarai-latihan' }
           ]
         }
       ],

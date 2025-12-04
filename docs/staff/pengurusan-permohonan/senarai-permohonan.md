@@ -27,7 +27,7 @@ Sistem menggunakan beberapa status untuk permohonan:
 - **Menunggu Kelulusan** (Kelabu) - Permohonan masih dalam proses ulasan oleh pihak pengurusan
 - **Selesai** (Biru) - Permohonan telah diluluskan dan permohonan selesai
 - **Ditolak** (Merah) - Permohonan telah ditolak oleh pihak pengurusan
-- **Draf** - Permohonan berada dalam keadaan belum dihantar dan masih boleh dikemaskini oleh pengguna.
+- **Draf** (Putih)- Permohonan berada dalam keadaan belum dihantar dan masih boleh dikemaskini oleh pengguna.
 :::
 ![Status Permohonan](/image/staff/status-permohonan.png)
 
@@ -43,7 +43,7 @@ Klik butang biru **"Mohon Latihan Luar Baru"** di bahagian atas halaman untuk me
 #### Pencarian Tajuk
 
 ::: tip Mencari Permohonan
-Gunakan kolom "Cari Tajuk" untuk:
+Gunakan kolum "Cari Tajuk" untuk:
 - Mengetik nama atau sebahagian daripada tajuk latihan
 - Sistem akan menapis senarai secara automatik
 - Contoh: ketik "SEMINAR" untuk mencari semua permohonan berkaitan seminar
@@ -64,7 +64,7 @@ Gunakan kolom "Cari Tajuk" untuk:
 #### Penapis Tarikh
 
 ::: tip Menggunakan Penapis Tarikh
-1. Pada kolom **"Tarikh Mula Latihan (dari)"**
+1. Pada kolum **"Tarikh Mula Latihan (dari)"**
 2. Pilih tarikh menggunakan pemilih tarikh
 3. Sistem akan menampilkan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
 :::
@@ -81,8 +81,8 @@ Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
 :::
 
 ## Halaman Lihat Butiran Permohonan
-
+::: tip Butiran Permohonan
 Setelah klik butang **"Lihat Butiran"**, anda akan melihat modal atau halaman baru yang menunjukkan semua detail permohonan.
-
+:::
 ![Lihat Butiran](/image/staff/lihat-butiran.png)
 

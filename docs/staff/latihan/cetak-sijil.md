@@ -1,29 +1,26 @@
-# Cetak Sijil
 
-Peserta boleh memuat turun sijil penyertaan selepas penilaian diserahkan dan latihan berstatus **Selesai**.
+# Cetak Sijil
+::: info Tujuan
+Pemohon boleh memuat turun sijil penyertaan selepas penilaian diserahkan dan latihan berstatus **Selesai**.
+:::
 
 ## Cara Mendapatkan Sijil
-
-1. Pergi ke halaman **Penilaian yang Telah Dihantar** atau halaman latihan yang berkaitan.
+::: tip Langkah 1
+1. Pergi ke halaman **Penilaian** atau halaman latihan yang berkaitan.
 2. Cari kad latihan yang menunjukkan status **Selesai** dan tarikh penyerahan.
 3. Klik butang **Cetak Sijil** pada kad latihan.
 
 Butang akan memulakan muat turun sijil dalam format PDF secara automatik.
-
-<!-- ![Kad Penilaian Dihantar](./image/penilaian/submitted-card.png) -->
+:::
+ ![KCetak Sijil](/image/staff/cetak-sijil.png) 
 
 ## Contoh Sijil
+Berikut ialah contoh paparan sijil yang dijana dalam format PDF:
 
-Contoh sijil yang dijana (fail PDF) boleh kelihatan seperti berikut:
+![Sijil](/image/staff/sijil.png)
 
-<!-- ![Contoh Sijil](./image/penilaian/certificate-sample.png) -->
+::: warning Nota
+- Sijil biasanya dihantar sebagai fail PDF dari server dengan header `Content-Disposition: attachment; filename="sijil-<name>.pdf"` supaya browser memuat turun fail secara automatik.
+:::
 
-## Nota Teknikal (Opsional)
-
-- Sijil biasanya dihantar sebagai fail PDF dari server dengan header `Content-Disposition: attachment; filename="sijil-<id>.pdf"` supaya browser memuat turun fail secara automatik.
-- Jika sijil tidak dimuat turun, semak popup blocker, atau buka sijil dari halaman `Penilaian yang Telah Dihantar`.
-
----
-
-Untuk bantuan lanjut, hubungi Bahagian Sumber Manusia atau penyelaras latihan.
 

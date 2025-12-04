@@ -1,84 +1,86 @@
-# Panduan Daftar Ketidakhadiran Latihan
+# Panduan Daftar Kehadiran Latihan
 
-Membantu peserta latihan untuk mendaftar ketidakhadiran dengan alasan yang sah.
+::: info Tujuan
+Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
+::: 
 
-## Langkah-Langkah Daftar Tidak Hadir
+## Papan Pemuka Pengguna
 
-### 1. Akses Dashboard
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Lihat senarai latihan di dashboard
+2. Anda akan melihat **Papan Pemuka Pengguna** dengan tab-tab:
+   - **Hari Ini** - Latihan hari ini
+   - **Akan Datang** - Latihan yang akan datang
+   - **Sejarah** - Latihan yang telah selesai
+3. Di halaman ini, anda dapat melihat senarai latihan yang telah dicalonkan
+:::
+![Senarai Calon Latihan](/image/staff/senarai-dicalonkan.png)
+
+## Langkah-Langkah Mendaftar Kehadiran
+
+### 1. Pilih Latihan
+
+::: tip Langkah 1
+1. Pada papan pemuka, cari latihan yang ingin anda daftarkan kehadirannya
+2. Klik pada latihan atau butang **"Kehadiran"** 
+3. Satu modal akan muncul memaparkan maklumat latihan dan pilihan kehadiran
 :::
 
-### 2. Pilih Latihan
+<!-- ![Pilih Kehadiran](/image/staff/pilih-kehadiran.png) -->
+
+### 2. Pilih Status Kehadiran
+
 ::: tip Langkah 2
-1. Cari latihan yang tidak dapat dihadiri
-2. Klik butang **"Kehadiran"** (merah)
+Modal akan muncul dengan pertanyaan: **"Borang Pelepasan Tidak Menghadiri Latihan"**
+
+Pilih salah satu:
+- **Hadir** (Butang Biru) - Jika anda akan hadir atau telah hadir di latihan
+- **Tidak Hadir** (Butang Merah) - Jika anda tidak dapat hadir dan perlu memberikan alasan
 :::
 
-### 3. Klik "Tidak Hadir"
+![Pilih Kehadiran](/image/staff/pilih-kehadiran2.png)
+
+### 3. Muatnaik Bukti Kehadiran
+
 ::: tip Langkah 3
-Modal akan muncul. Klik butang merah **"Tidak Hadir"**.
+1. Pada bahagian **"Muatnaik Gambar Bukti Kehadiran"**
+2. Klik butang **"Pilih Fail"** untuk memilih fail.
+3. Pilih fail bukti kehadiran (format: JPG, PNG, PDF)
+4. Saiz maksimum: 5MB
+5. Fail yang dipilih akan dipaparkan di bawah butang (contoh: "Dokumen Sokogan [Contoh].pdf")
 :::
+![Bukti Hadir](/image/staff/bukti-hadir.png)
 
-### 4. Isi Borang Pelepasan
+### 4. Hantar Kehadiran
+
 ::: tip Langkah 4
-Pilih alasan ketidakhadiran:
-- **Sakit / Cuti Sakit** - Jika sakit atau tidak sihat
-- **Cuti Tahunan** - Jika sedang cuti yang diluluskan
-- **Urusan Pejabat Urgent** - Jika ada tugasan yang mendesak
-- **Alasan Lain** - Tulis alasan dengan jelas
+1. Setelah memilih fail bukti
+2. Klik butang **"Hantar"** (biru) untuk menghantar pendaftaran kehadiran
+![Hantar](/image/staff/btn-hntr.png)
+3. Sistem akan memproses data anda
+
+Jika berjaya:
+- Akan muncul mesej **"Kehadiran Direkodkan"**
+![Hantar](/image/staff/success2-hadir.png)
+- Status kehadiran akan berubah menjadi **"Hadir"** pada papan pemuka
+- Anda akan menerima pengesahan melalui sistem
+
+Jika ada ralat:
+- Akan muncul mesej ralat merah: **"Sila pilih gambar untuk dimuat naik"**
+![Ralat](/image/staff/ralat2.png)
+- Pastikan sudah memilih fail sebelum tekan butang hantar.
 :::
+## Status Kehadiran Pada Papan Pemuka
 
-### 5. Muat Naik Dokumen Sokongan (Opsional)
-::: tip Langkah 5
-- Surat sakit dari klinik/doktor
-- Surat permohonan cuti
-- Surat dari atasan
-- Format: PDF, DOC, DOCX (maksimum 5MB)
-:::
+Selepas berjaya menghantar, status akan berubah:
 
-### 6. Hantar
-::: tip Langkah 6
-Klik **"Hantar"** untuk mengirim borang kepada atasan untuk diluluskan.
-:::
-
----
-
-## Status Ketidakhadiran
-
-| Status | Keterangan |
-|--------|-----------|
-| **Menunggu Kelulusan** | Borang sedang diluluskan oleh atasan |
-| **Diluluskan** | Ketidakhadiran diterima dengan alasan sah |
-| **Ditolak** | Ketidakhadiran tidak diluluskan |
-
----
+![Status Kehadiran](/image/staff/.png)
 
 ## Perkara Penting
 
-::: warning Catatan
-- Berikan alasan yang **jujur dan jelas**
-- Dokumen sokongan membantu memperkuat alasan anda
-- Hantar segera setelah tahu tidak dapat menghadiri
-- Tidak boleh diubah setelah dihantar
-- Status kelulusan bergantung pada pihak atasan
+::: warning Catatan Penting
+- Bukti kehadiran **wajib** dimuat naik - sistem tidak akan menerima jika tiada fail
+- Pastikan fail yang dimuat naik jelas dan berkualiti
+- Format fail yang diterima: JPG, PNG, PDF, DOC, DOCX (maksimum 5MB)
+- Tidak boleh mengubah status selepas dihantar (hubungi pentadbir jika ada kesalahan)
 :::
-
-::: faq FAQ
-**Q: Berapa lama menunggu kelulusan?**
-A: Biasanya 1-3 hari kerja.
-
-**Q: Apa jika ketidakhadiran ditolak?**
-A: Boleh buat permohonan semula dengan alasan yang lebih jelas dan dokumen sokongan.
-
-**Q: Apa jika tidak ada dokumen sokongan?**
-A: Dokumen opsional. Alasan tertulis sudah cukup, tapi dokumen akan lebih kuat.
-
-**Q: Apakah kesan ketidakhadiran pada sertifikat?**
-A: Ketidakhadiran diluluskan biasanya tidak mempengaruhi sertifikat. Yang ditolak mungkin akan.
-:::
-
----
-
-Untuk bantuan: Hubungi Bahagian Sumber Manusia atau Penyelaras Latihan.
