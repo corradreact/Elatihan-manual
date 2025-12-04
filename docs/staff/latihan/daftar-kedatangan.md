@@ -73,7 +73,7 @@ Jika ada ralat:
 
 Selepas berjaya menghantar, status akan berubah:
 
-![Status Kehadiran](/image/staff/.png)
+<!-- ![Status Kehadiran](/image/staff/.png) -->
 
 ## Perkara Penting
 
