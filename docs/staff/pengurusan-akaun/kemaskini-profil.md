@@ -50,7 +50,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 <!-- 
 ![Pengesahan Kemaskini](./image/kemaskini-profil/image4.png) -->
 
-::: warning Nota Penting
+::: warning Nota
 - Pastikan semua maklumat yang diisi adalah tepat dan terkini
 - Maklumat ini akan digunakan untuk pengisian borang permohonan
 - Sesetengah maklumat seperti Nama, No. Kad Pengenalan dan Status Warganegara tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran

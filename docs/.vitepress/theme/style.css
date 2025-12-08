@@ -156,15 +156,14 @@ body {
    ====================================== */
 
 .VPSidebar {
-  border-right: 1px solid #eee;
+  border-right: none !important;
 }
 
-/* Tajuk group – huruf kecil, ada arrow */
+/* Tajuk gro
+/* Tajuk group */
 .VPSidebar .group .title {
   font-size: 0.82rem;
   font-weight: 600;
-  letter-spacing: 0;
-  text-transform: none;
   color: var(--vp-c-text-1);
   padding: 4px 0;
   display: flex;
@@ -186,29 +185,26 @@ body {
   transform: rotate(-90deg);
 }
 
-/* Single divider antara group */
-.VPSidebar .group {
-  padding-bottom: 6px;
-  margin-bottom: 16px;
-  position: relative;
+
+/* Arrow rotate bila collapse */
+.VPSidebar .group.collapsed .title::after {
+  transform: rotate(-90deg);
 }
 
-.VPSidebar .group:not(:last-child)::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  height: 1px;
-  background-color: var(--vp-c-divider);
+/* Arrow rotate bila collapse */
+.VPSidebar .group.collapsed .title::after {
+  transform: rotate(-90deg);
 }
 
-/* LIST ITEM STYLING */
-.VPSidebar .VPSidebarItem .link {
-  padding: 3px 4px;
-  border-radius: 4px;
-  transition: background 0.15s ease, color 0.15s ease;
-  font-size: 0.88rem;
+
+
+/* Active item */
+.VPSidebar .VPSidebarItem .link.active {
+  font-weight: 600;
+  color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 6px;
 }
 
 /* Hover effect */
@@ -267,3 +263,60 @@ body {
   color: var(--vp-custom-block-tip-text);
   font-weight: 600;
 }
+
+/* ======================================
+   FEATURE CARDS + BADGES (add color accents)
+   ====================================== */
+
+.features {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.features .feature {
+  background: linear-gradient(180deg, #ffffff 0%, #fbfdff 100%);
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 8px 20px rgba(2,6,23,0.04);
+  border: 1px solid rgba(15,23,42,0.04);
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+
+.features .feature .icon {
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #ffffff;
+  background: linear-gradient(135deg, var(--vp-c-brand-light), var(--vp-c-brand));
+  flex-shrink: 0;
+}
+
+.features .feature h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1.05rem;
+}
+
+.features .feature p {
+  margin: 0;
+  color: #475569;
+}
+
+/* status badges */
+.status-pill { display: inline-block; padding: 0.25rem 0.6rem; border-radius: 999px; font-size: 0.85rem; color: #fff; background: #10b981; }
+.status-pill.info { background: var(--vp-c-brand-light); }
+.status-pill.warn { background: #f97316; }
+.status-pill.danger { background: #ef4444; }
+
+/* small utilities */
+.card-accent { border-left: 4px solid var(--vp-c-brand); }
+
+/* links accent */
+a { color: var(--vp-c-brand); }
+

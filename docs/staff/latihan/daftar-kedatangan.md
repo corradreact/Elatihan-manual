@@ -77,7 +77,7 @@ Selepas berjaya menghantar, status akan berubah:
 
 ## Perkara Penting
 
-::: warning Catatan Penting
+::: warning Nota
 - Bukti kehadiran **wajib** dimuat naik - sistem tidak akan menerima jika tiada fail
 - Pastikan fail yang dimuat naik jelas dan berkualiti
 - Format fail yang diterima: JPG, PNG, PDF, DOC, DOCX (maksimum 5MB)

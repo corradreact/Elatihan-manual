@@ -14,13 +14,13 @@ Membantu pengguna staf untuk membuat permohonan latihan luaran dengan mengisi ma
 3. Sistem akan memaparkan borang permohonan Bahagian B, C dan dokumen sokogan untuk pengisian.
 :::
 
-## Bahagian A: Keterangan Diri Pekerja/Staf
+## Bahagian A: Keterangan Diri  Staf
 
 Maklumat dalam bahagian ini diisi secara automatik (autofill) berdasarkan profil sistem anda dan tidak boleh diubah oleh pengguna. 
 
 ![Borang A](/image/staff/bahagian-A.png)
 
-::: warning Nota Penting
+::: warning Nota
 Pastikan semua maklumat peribadi adalah tepat dan terkini sebelum meneruskan.
 :::
 

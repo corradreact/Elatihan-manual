@@ -14,6 +14,39 @@ hero:
       text: Manual Staff
       link: /staff/
     - theme: alt
-      text: Pendaftaran Pengguna
-      link: /staff/pengurusan-akaun/pendaftaran-pengguna
+      text: Manual Admin
+      link: /admin/
+
+# 👉 features letak sambung sini, jangan ada '---' lain
+features:
+  - icon: 👤
+    title: Pengurusan Akaun
+    details: Daftar akaun, log masuk, dan urus tetapan kata laluan dengan mudah.
+    link: /manual-pengguna#pengurusan-akaun
+
+  - icon: 📝
+    title: Pengurusan Permohonan
+    details: Mohon dan hantar permohonan dengan langkah-langkah yang jelas.
+    link: /borang-permohonan
+
+  - icon: ✅
+    title: Daftar Kehadiran 
+    details: Urus kehadiran peserta atau staf secara sistematik dan mudah.
+    link: /borang-permohonan
+
+# admin
+  - icon: 📄
+    title: Senarai Permohonan
+    details: Semak dan urus status permohonan anda dengan mudah.
+    link: /senarai-permohonan
+
+  - icon: 💳
+    title: Pembayaran
+    details: Proses pembayaran yang mudah dan selamat melalui iBayaq.
+    link: /pembayaran
+
+  - icon: 🔒
+    title: Keselamatan Terjamin
+    details: Data dan maklumat peribadi dilindungi dengan ciri keselamatan yang tinggi.
+    link: /keselamatan
 ---

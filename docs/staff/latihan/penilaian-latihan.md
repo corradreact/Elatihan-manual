@@ -83,10 +83,7 @@ Selepas klik **"Sahkan"**, penilaian berhasil diserahkan.
 :::
 
 ---
-
-## Perkara Penting
-
-::: warning Catatan
+::: warning Nota
 - Semua 4 bahagian **WAJIB** diisi
 - Tidak boleh ada soalan yang kosong
 - Tidak dapat diubah setelah diserahkan
