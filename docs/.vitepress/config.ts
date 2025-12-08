@@ -5,6 +5,9 @@ export default defineConfig({
   title: 'E-Latihan',
   description: 'Manual Pengguna Staff dan Admin untuk Sistem Latihan',
 
+  // 👇 sini kita beritahu VitePress: jangan bising kalau link /admin/... tak wujud dalam docs
+  ignoreDeadLinks: true,
+
   themeConfig: {
     logo: '/elatihan-logo.png',
 
@@ -56,7 +59,7 @@ export default defineConfig({
             { text: 'Daftar Kedatangan', link: '/staff/latihan/daftar-kedatangan' },
             { text: 'Daftar Ketidakhadiran', link: '/staff/latihan/daftar-ketidakhadiran' },
             { text: 'Penilaian Latihan', link: '/staff/latihan/penilaian-latihan' },
-            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil'},
+            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil' },
             { text: 'Senarai Latihan Terlibat', link: '/staff/latihan/senarai-latihan' }
           ]
         }
