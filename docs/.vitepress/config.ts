@@ -72,28 +72,28 @@ export default defineConfig({
           text: 'Laporan Latihan',
           items: [
             { text: 'Pengurusan Peserta', link: '/admin/laporan-latihan/pengurusan-peserta' },
-            { text: 'Pengurusan Penceramah (Latihan Dalaman)', link: '/admin/laporan-latihan/pengurusan-penceramah-dalaman' },
+            { text: 'Pengurusan Penceramah (Latihan Dalaman)', link: '/admin/laporan-latihan/pengurusan-penceramah' },
             { text: 'Pengurusan Penilaian', link: '/admin/laporan-latihan/pengurusan-penilaian' }
           ]
         },
         {
           text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Lihat Senarai Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai-permohonan' },
-            { text: 'Tetapan Tempoh Permohonan Latihan Luaran', link: '/admin/pengurusan-permohonan/tetapan-tempoh-permohonan-luaran' }
+            { text: 'Lihat Senarai Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai' },
+            { text: 'Tetapan Tempoh Permohonan Latihan Luaran', link: '/admin/pengurusan-permohonan/tempoh-permohonan' }
           ]
         },
         {
           text: 'Pengurusan Pengguna (Admin IT)',
           items: [
-            { text: 'Tambah Pengguna (Admin Jabatan Sahaja)', link: '/admin/pengurusan-pengguna/tambah-pengguna-admin-jabatan' },
+            { text: 'Tambah Pengguna (Admin Jabatan Sahaja)', link: '/admin/pengurusan-pengguna/tambah-pengguna' },
             { text: 'Kemaskini Pengguna', link: '/admin/pengurusan-pengguna/kemaskini-pengguna' }
           ]
         },
         {
           text: 'Pengurusan Emel',
           items: [
-            { text: 'Menambah Template Emel', link: '/admin/pengurusan-emel/tambah-template-emel' },
+            { text: 'Menambah Template Emel', link: '/admin/pengurusan-emel/template-emel' },
             { text: 'Blast Emel', link: '/admin/pengurusan-emel/blast-emel' }
           ]
         }
