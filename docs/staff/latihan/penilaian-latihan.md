@@ -91,5 +91,3 @@ Selepas klik **"Sahkan"**, penilaian berhasil diserahkan.
 :::
 
 ---
-
-Untuk bantuan: Hubungi Bahagian Sumber Manusia atau Penyelaras Latihan.

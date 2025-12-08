@@ -18,7 +18,7 @@ Manual ini menerangkan dua cara log masuk ke sistem.
 ::: tip Langkah 2
 1. Buka pelayar web (contohnya Google Chrome).
 2. Layari URL halaman log masuk sistem latihan.  
-   _Contoh:_ `https://latihan.mps.gov.my` (tukar ikut URL sebenar).
+   _Contoh:_ https://latihan.mps.gov.my.
 3. Masukkan:
    - **Username** SIM MPS anda
    - **Kata laluan** SIM MPS anda

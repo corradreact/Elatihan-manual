@@ -15,6 +15,8 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
 :::
 
 
+![Klik Profil](/image/staff/klikprofil.png)
+
 ### 2. Semak Maklumat Sedia Ada
 
 ::: tip Langkah 2
@@ -23,35 +25,23 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 - Nama
 - Email
 :::
-
-<!-- ![Paparan Maklumat Sedia Ada](./image/kemaskini-profil/image2.png) -->
+![Profil](/image/staff/profil.png)
 
 ### 3. Kemaskini Maklumat
 
 ::: tip Langkah 3
-1. Isi atau kemaskini maklumat yang diperlukan:
-   - Jantina
-   - Nombor Telefon Rumah (jika ada)
-   - Alamat Semasa
-   - Pekerjaan
-   - Pejabat (Jika Bekerja)
-   - Alamat Pejabat (Jika Bekerja)
-2. Klik butang **Simpan** untuk menyimpan kemaskini
+1. Isi atau kemaskini gambar pengguna klik butang **Choose Files**
+2. Klik butang **Upload** untuk menyimpan 
+3. Setelah berjaya dikemaskini, sistem akan memaparkan mesej "Avatar dikemas kini"
 :::
 
-<!-- ![Kemaskini Maklumat Profil](./image/kemaskini-profil/image3.png) -->
 
-### 4. Pengesahan Kemaskini
+![Upload](/image/staff/upload.png)
 
-::: tip Langkah 4
-1. Setelah berjaya dikemaskini, sistem akan memaparkan mesej pengesahan
-2. Klik butang **OK** untuk kembali ke paparan Dashboard
-:::
-<!-- 
-![Pengesahan Kemaskini](./image/kemaskini-profil/image4.png) -->
+![Avatar](/image/staff/success3-avatar.png)
 
 ::: warning Nota
-- Pastikan semua maklumat yang diisi adalah tepat dan terkini
-- Maklumat ini akan digunakan untuk pengisian borang permohonan
-- Sesetengah maklumat seperti Nama, No. Kad Pengenalan dan Status Warganegara tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran
+- Pastikan semua maklumat yang adalah tepat dan terkini.
+- Maklumat ini akan digunakan untuk pengisian borang permohonan.
+- Sesetengah maklumat seperti Nama Pengguna, Email tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran.
 ::: 
