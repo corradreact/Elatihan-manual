@@ -4,6 +4,9 @@ export default defineConfig({
   lang: 'ms-MY',
   title: 'E-Latihan',
   description: 'Manual Pengguna Staff dan Admin untuk Sistem Latihan',
+  // head: [
+  //   ['link', { rel: 'icon', href: '/ww.png' }]
+  // ],
 
   themeConfig: {
     logo: '/elatihan-logo.png',
