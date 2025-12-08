@@ -22,7 +22,6 @@ features:
   - icon: 👤
     title: Pengurusan Akaun
     details: Daftar akaun, log masuk, dan urus tetapan kata laluan dengan mudah.
-    # link: /manual-pengguna#pengurusan-akaun
 
   - icon: 📝
     title: Pengurusan Permohonan
