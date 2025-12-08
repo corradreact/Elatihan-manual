@@ -4,6 +4,9 @@ export default defineConfig({
   lang: 'ms-MY',
   title: 'E-Latihan',
   description: 'Manual Pengguna Staff dan Admin untuk Sistem Latihan',
+  head: [
+    ['link', { rel: 'icon', href: '/elatihan-logo.png' }] // icon tab
+  ],
 
   // 👇 sini kita beritahu VitePress: jangan bising kalau link /admin/... tak wujud dalam docs
   ignoreDeadLinks: true,
