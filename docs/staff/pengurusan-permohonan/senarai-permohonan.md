@@ -46,7 +46,6 @@ Klik butang biru **"Mohon Latihan Luar Baru"** di bahagian atas halaman untuk me
 Gunakan kolum "Cari Tajuk" untuk:
 - Mengetik nama atau sebahagian daripada tajuk latihan
 - Sistem akan menapis senarai secara automatik
-- Contoh: ketik "SEMINAR" untuk mencari semua permohonan berkaitan seminar
 :::
 
 #### Penapis Status

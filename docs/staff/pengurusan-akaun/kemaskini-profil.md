@@ -37,7 +37,6 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 
 
 ![Upload](/image/staff/upload.png)
-
 ![Avatar](/image/staff/success3-avatar.png)
 
 ::: warning Nota
