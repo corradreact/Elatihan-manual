@@ -10,7 +10,7 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 ::: tip Langkah 1
 
 1) Log masuk ke dalam sistem
-2) Pilih menu Kemaskini Pengguna
+2) Pilih menu **Senarai Pengguna**
 3) Sistem akan memaparkan senarai pengguna berserta tindakan yang boleh dilakukan
 :::
 ![kemaskini](/image/admin/menu-kemaskini.png)
@@ -19,6 +19,7 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 1) Pilih Pengguna Untuk Dikemaskini
 2) Admin hanya boleh mengedit pengguna yang mempunyai butang **Enable Edit**.
 :::
+
 ![Edit](/image/admin/btn-edit.png)
 
 ## Tindakan yang tersedia:

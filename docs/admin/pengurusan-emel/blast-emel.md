@@ -11,7 +11,7 @@ Membantu admin menghantar emel kursus secara pukal (blast) kepada pemohon berdas
 
 1. Log masuk ke dalam sistem
 
-2. Pilih menu **Blast Emel Kursus**
+2. Pilih menu **Blast Emel**
 
 3. Sistem akan memaparka senarai kursus, jenis template, protonton dan serta senarai pemohon 
 :::

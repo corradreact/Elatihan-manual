@@ -9,7 +9,6 @@ export default defineConfig({
   ],
 
   // 👇 sini kita beritahu VitePress: jangan bising kalau link /admin/... tak wujud dalam docs
-  ignoreDeadLinks: true,
 
   themeConfig: {
     logo: '/elatihan-logo.png',

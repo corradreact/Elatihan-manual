@@ -11,7 +11,7 @@ Membantu admin menambah template emel baharu yang akan digunakan untuk jemputan,
 ::: tip Langkah 1
 
 1) Log masuk ke dalam sistem
-2) Pilih menu Tetapan
+2) Pilih menu **Tetapan**
 3) Klik pada kad Template Emel untuk membuka borang tetapan
 :::
 ![Menu](/image/admin/menu-template.png)

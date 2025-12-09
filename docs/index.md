@@ -22,25 +22,31 @@ features:
   - icon: 👤
     title: Pengurusan Akaun
     details: Daftar akaun, log masuk, dan urus tetapan kata laluan dengan mudah.
+    link: /staff/pengurusan-akaun/log-masuk
 
   - icon: 📝
     title: Pengurusan Permohonan
     details: Mohon dan hantar permohonan dengan langkah-langkah yang jelas.
+    link: /staff/pengurusan-permohonan/permohonan-latihan-luaran
 
   - icon: ✅
     title: Daftar Kehadiran 
     details: Urus kehadiran peserta atau staf secara sistematik dan mudah.
-
+    link: /staff/latihan/daftar-kedatangan
 # admin
-  - icon: 📄
-    title: Senarai Permohonan
-    details: Semak dan urus status permohonan anda dengan mudah.
+  - icon: 📊
+    title: Laporan Latihan
+    details: Lihat, semak dan urus kehadiran, penilaian serta maklumat latihan dengan mudah.
+    link: /admin/laporan-latihan/pengurusan-peserta
 
-  - icon: 💳
-    title: Pembayaran
-    details: Proses pembayaran yang mudah dan selamat melalui iBayaq.
+  - icon: 👩🏻‍💻
+    title: Pengurusan Pengguna
+    details: Tambah, kemas kini dan urus akaun pengguna dalam sistem.
+    link: /admin/pengurusan-pengguna/kemaskini-pengguna
 
-  - icon: 🔒
-    title: Keselamatan Terjamin
-    details: Data dan maklumat peribadi dilindungi dengan ciri keselamatan yang tinggi.
+  - icon: 📩
+    title: Blast Emel
+    details: Hantar emel hebahan kursus secara pukal kepada peserta dengan pantas.
+    link: /admin/pengurusan-emel/blast-emel
+
 ---

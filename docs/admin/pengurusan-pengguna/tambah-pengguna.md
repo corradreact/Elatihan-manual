@@ -10,7 +10,7 @@ Membantu admin menambah pengguna baharu ke dalam sistem melalui modul Pengurusan
 ::: tip Langkah 1
 
 1) Log masuk ke dalam sistem
-2) Pilih menu **Tambah Pengguna** (Admin Jabatan Sahaja) 
+2) Pilih menu **Senarai Pengguna**  
 3) Sistem akan memaparkan senarai pengguna serta butang tindakan
 :::
 ![Senarai](/image/admin/senarai-pengguna.png)
