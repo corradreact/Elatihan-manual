@@ -11,50 +11,29 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 3. Klik butang **"Buat Penilaian"**
 
 :::
-
-### 2. Isi Informasi Latihan
-::: tip Langkah 2
-Borang akan menunjukkan informasi latihan:
-- Nama Latihan
-- Lokasi
-- Tarikh & Waktu
-- Tempoh
-- Penceramah
-:::
-
 ---
 
-## 4 Bahagian Wajib
 
-Semua bahagian **WAJIB** diisi sebelum diserahkan.
-
+### 2. Semua 4 bahagian **WAJIB** diisi sebelum diserahkan.
 ### Bahagian A: Pelaksanaan Kursus
 
-Nilai efektivitas kursus/latihan secara keseluruhan.
-<!-- 
-![Bahagian A](./image/penilaian/image2.png) -->
+![Bahagian A](/image/staff/bahagiana.png)
 
-### Bahagian B: Perkhidmatan dan Kemudahan
+### Bahagian B: Perkhidmatan dan Kemudahan Kursus/latihan (Jika Berkenaan)
 
-Nilai kualitas penginapan, makanan, dan fasilitas lainnya.
+![Bahagian B](/image/staff/bahagianb.png)
 
-<!-- ![Bahagian B](./image/penilaian/image3.png) -->
 
-### Bahagian C: Penilaian Penceramah
-
-Nilai kemampuan penceramah dalam menyampaikan materi.
-
-<!-- ![Bahagian C](./image/penilaian/image4.png) -->
+### Bahagian C: Penilaian Penceramah/Konsultan
+![Bahagian C](/image/staff/bahagianc.png)
 
 ### Bahagian D: Rumusan dan Cadangan Penambahbaikan
 
-Tulis rumusan dan cadangan untuk peningkatan kursus di masa depan.
-
-<!-- ![Bahagian D](./image/penilaian/image5.png) -->
+![Bahagian D](/image/staff/bahagiand.png)
 
 ---
 
-## Menyerahkan Penilaian
+## 3. Menyerahkan Penilaian
 
 ::: tip Langkah 3
 Setelah mengisi semua 4 bahagian:
@@ -62,24 +41,18 @@ Setelah mengisi semua 4 bahagian:
 2. Klik **"Sahkan dan Serah"**
 :::
 
-### Popup Pengesahan
+### 4. Popup Pengesahan
 
 ::: tip Langkah 4
-Sebuah popup akan muncul untuk pengesahan akhir:
-
+1. Popup akan muncul untuk pengesahan akhir:
 **"Sahkan Penyerahan Penilaian"**
-
-Mesej: "Adakah anda pasti mahu menyerahkan penilaian ini? Tindakan ini tidak boleh dibatalkan."
-
-Dengan mesej tambahan: "Dengan menekan butang 'Sahkan', anda mengesahkan bahawa maklumat yang diberikan adalah benar dan tepat."
-
-<!-- ![Popup Pengesahan](./image/penilaian/image-popup.png) -->
+![Sahkan](/image/staff/Sahkan.png)
 
 Pilih:
 - **Batal** - Kembali ke borang untuk ubah jawaban
 - **Sahkan** - Sahkan dan serahkan penilaian
-
-Selepas klik **"Sahkan"**, penilaian berhasil diserahkan.
+Selepas klik **"Sahkan"**, penilaian akan dihantar.
+![Sahlan](/image/staff/success4.png)
 :::
 
 ---
