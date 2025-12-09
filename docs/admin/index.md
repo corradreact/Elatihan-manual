@@ -34,6 +34,6 @@ Halaman ini mengandungi panduan untuk pengguna admin yang mengurus modul latihan
 ## Pengurusan Emel
 
 - [Tambah Template Emel](/admin/pengurusan-emel/template-emel)
-- [Blast Emel](/admin/pengurusan-emel/blast)
+- [Blast Emel](/admin/pengurusan-emel/blast-emel)
 
 Untuk sokongan lanjut, hubungi Admin Sistem.
