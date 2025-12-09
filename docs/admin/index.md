@@ -19,7 +19,7 @@ Halaman ini mengandungi panduan untuk pengguna admin yang mengurus modul latihan
 
 - [Pengurusan Peserta](/admin/laporan-latihan/pengurusan-peserta)
 - [Pengurusan Penceramah](/admin/laporan-latihan/pengurusan-penceramah)
-- [Pengurusan Penilaian](/admin//laporan-latihan/pengurusan-penilaian)
+- [Pengurusan Penilaian](/admin/laporan-latihan/pengurusan-penilaian)
 
 ## Pengurusan Permohonan
 
