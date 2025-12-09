@@ -31,9 +31,9 @@ export default defineConfig({
         items: [
           { text: 'Manual Admin (Utama)', link: '/admin/' },
           { text: 'Laporan Latihan', link: '/admin/laporan-latihan/pengurusan-peserta' },
-          { text: 'Pengurusan Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai-permohonan' },
-          { text: 'Pengurusan Pengguna', link: '/admin/pengurusan-pengguna/tambah-pengguna-admin-jabatan' },
-          { text: 'Pengurusan Emel', link: '/admin/pengurusan-emel/tambah-template-emel' }
+          { text: 'Pengurusan Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai' },
+          { text: 'Pengurusan Pengguna', link: '/admin/pengurusan-pengguna/tambah-pengguna' },
+          { text: 'Pengurusan Emel', link: '/admin/pengurusan-emel/template-emel' }
         ]
       }
     ],
