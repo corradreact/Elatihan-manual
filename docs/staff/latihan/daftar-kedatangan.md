@@ -7,7 +7,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Anda akan melihat **Papan Pemuka Pengguna** dengan tab-tab:
+2. Anda akan melihat **Dashboard** dengan tab-tab:
    - **Hari Ini** - Latihan hari ini
    - **Akan Datang** - Latihan yang akan datang
    - **Sejarah** - Latihan yang telah selesai

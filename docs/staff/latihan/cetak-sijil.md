@@ -9,10 +9,9 @@ Pemohon boleh memuat turun sijil penyertaan selepas penilaian diserahkan dan lat
 1. Pergi ke halaman **Penilaian** atau halaman latihan yang berkaitan.
 2. Cari kad latihan yang menunjukkan status **Selesai** dan tarikh penyerahan.
 3. Klik butang **Cetak Sijil** pada kad latihan.
-
-Butang akan memulakan muat turun sijil dalam format PDF secara automatik.
+4. Butang akan memulakan muat turun sijil dalam format PDF secara automatik.
 :::
- ![KCetak Sijil](/image/staff/cetak-sijil.png) 
+ ![Cetak Sijil](/image/staff/cetak-sijil.png) 
 
 ## Contoh Sijil
 Berikut ialah contoh paparan sijil yang dijana dalam format PDF:

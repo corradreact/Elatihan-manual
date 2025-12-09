@@ -7,7 +7,7 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 ### 1. Klik "Buat Penilaian"
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Pilih latihan yang ingin dinilai
+2) Pilih menu **Penilaian**
 3. Klik butang **"Buat Penilaian"**
 
 :::
