@@ -25,16 +25,27 @@ Klik butang **"Penilaian"** untuk mengurus senarai penceramah bagi latihan terse
 ### Pengurusan Penilaian
 ::: tip Langkah 2
 1. Setiap peserta mempunyai status penilaian seperti berikut:
+
+![Penilaian](/image/admin/senarai-penilaian.png)
 :::
 ::: info Status Penilaian
-- Belum – Peserta belum membuat penilaian atau penilaian belum diproses.
-- Selesai – Peserta telah selesai mengisi penilaian latihan.
+- **Belum** – Peserta belum membuat penilaian atau penilaian belum diproses.
+- **Selesai** – Peserta telah selesai mengisi penilaian latihan.
 Status ini membantu admin memantau peserta yang telah atau belum membuat penilaian.
 :::
-## Tindakan Penilaian
+
+## 3. Tindakan Penilaian
 ::: tip Langkah 3
-1) Melihat penilaian peserta (jika fungsi disediakan)
-2) Mengekstrak laporan penilaian (bergantung kepada modul laporan)
+1) Melihat penilaian peserta
+
+![Lihat](/image/admin/lihat-penilaian.png)
+
+2) Admin boleh melihat ringkasan penilaian bahagian A, B, C dan D yang diberikan oleh peserta
+
+![LRingkasan](/image/admin/ringkasan-penilaian.png)
+
+3) Memuat turun laporan penilaian.
+![Print](/image/admin/print.png)
 :::
 
 ::: warning Nota
