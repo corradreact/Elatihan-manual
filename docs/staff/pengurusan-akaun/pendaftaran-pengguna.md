@@ -15,6 +15,7 @@ Membantu pengguna baharu membuat pendaftaran ke dalam Sistem E-Latihan menggunak
 1. Isikan NRIC pengguna pada ruangan yang disediakan
 2. Pastikan NRIC dimasukkan tanpa simbol dan dalam format 12 digit
 3. Klik Daftar untuk menghantar permohonan pendaftaran
+
 ![daftar](/image/staff/pendaftaran-p.png)
 
 :::
