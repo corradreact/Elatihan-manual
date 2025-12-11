@@ -17,9 +17,9 @@ export default defineConfig({
       { text: 'Utama', link: '/' },
 
       {
-        text: 'kakitangan',
+        text: 'Kakitangan',
         items: [
-          { text: 'Manual kakitangan (Utama)', link: '/kakitangan/' },
+          { text: 'Manual Kakitangan (Utama)', link: '/kakitangan/' },
           { text: 'Pengurusan Akaun', link: '/kakitangan/pengurusan-akaun/pendaftaran-pengguna' },
           { text: 'Pengurusan Permohonan', link: '/kakitangan/pengurusan-permohonan/permohonan-latihan-luaran' },
           { text: 'Latihan Luaran / Dalaman', link: '/kakitangan/latihan/daftar-kedatangan' }
