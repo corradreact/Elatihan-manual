@@ -11,8 +11,8 @@ hero:
     alt: Logo Majlis Perbandaran Selayang
   actions:
     - theme: brand
-      text: Manual Staff
-      link: /staff/
+      text: Manual kakitangan
+      link: /kakitangan/
     - theme: alt
       text: Manual Admin
       link: /admin/
@@ -22,17 +22,17 @@ features:
   - icon: 👤
     title: Pengurusan Akaun
     details: Daftar akaun, log masuk, dan urus tetapan kata laluan dengan mudah.
-    link: /staff/pengurusan-akaun/log-masuk
+    link: /kakitangan/pengurusan-akaun/log-masuk
 
   - icon: 📝
     title: Pengurusan Permohonan
     details: Mohon dan hantar permohonan dengan langkah-langkah yang jelas.
-    link: /staff/pengurusan-permohonan/permohonan-latihan-luaran
+    link: /kakitangan/pengurusan-permohonan/permohonan-latihan-luaran
 
   - icon: ✅
     title: Daftar Kehadiran 
     details: Urus kehadiran peserta atau staf secara sistematik dan mudah.
-    link: /staff/latihan/daftar-kedatangan
+    link: /kakitangan/latihan/daftar-kedatangan
 # admin
   - icon: 📊
     title: Laporan Latihan

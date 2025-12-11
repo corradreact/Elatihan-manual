@@ -27,7 +27,7 @@ Manual ini menerangkan dua cara log masuk ke sistem.
 :::
 
 
-![Paparan Log Masuk](/image/staff/log-masuk.png)
+![Paparan Log Masuk](/image/kakitangan/log-masuk.png)
 
 ::: warning Tips Keselamatan
 - Jangan kongsikan kata laluan SIM MPS anda.

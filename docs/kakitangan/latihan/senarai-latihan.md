@@ -12,13 +12,13 @@ Pemohon boleh melihat senarai latihan yang pernah terlibat.
 4. Klik tab **"Sejarah"** pada dashboard
 5. Anda akan melihat senarai latihan yang sudah dilalui dengan maklumat berikut:
 :::
-![Senarai Latihan](/image/staff/senarai-latihan.png)
+![Senarai Latihan](/image/kakitangan/senarai-latihan.png)
 
 ::: tip Langkah 2
 1. Untuk latihan yang telah direkodkan kehadirannya, anda boleh:
    - Klik **Lihat Butiran** untuk melihat bukti kehadiran yang telah dimuat naik
 :::
-![Senarai Sejarah](/image/staff/sejarah.png)
+![Senarai Sejarah](/image/kakitangan/sejarah.png)
 
 ::: warning Nota 
 

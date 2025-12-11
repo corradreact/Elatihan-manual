@@ -17,7 +17,7 @@ Membantu pengguna staf untuk melihat senarai semua permohonan latihan mereka dan
 ### 2. Paparan Halaman Senarai Permohonan
 
 Halaman ini memaparkan jadual berikut dengan lajur-lajur:
-![Senarai Permohonan](/image/staff/senarai-permohonan.png)
+![Senarai Permohonan](/image/kakitangan/senarai-permohonan.png)
 
 ### 3. Status Permohonan
 
@@ -29,7 +29,7 @@ Sistem menggunakan beberapa status untuk permohonan:
 - **Ditolak** (Merah) - Permohonan telah ditolak oleh pihak pengurusan
 - **Draf** (Putih)- Permohonan berada dalam keadaan belum dihantar dan masih boleh dikemaskini oleh pengguna.
 :::
-![Status Permohonan](/image/staff/status-permohonan.png)
+![Status Permohonan](/image/kakitangan/status-permohonan.png)
 
 ### 4. Fungsi-Fungsi Pada Halaman Senarai
 
@@ -38,7 +38,7 @@ Sistem menggunakan beberapa status untuk permohonan:
 ::: tip Membuat Permohonan Baru
 Klik butang biru **"Mohon Latihan Luar Baru"** di bahagian atas halaman untuk membuat permohonan latihan yang baru.
 :::
-![Button Permohonan](/image/staff/button-permohonan.png)
+![Button Permohonan](/image/kakitangan/button-permohonan.png)
 
 #### Pencarian Tajuk
 
@@ -67,7 +67,7 @@ Gunakan kolum "Cari Tajuk" untuk:
 2. Pilih tarikh menggunakan pemilih tarikh
 3. Sistem akan menampilkan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
 :::
-![Carian1](/image/staff/Carian1.png)
+![Carian1](/image/kakitangan/Carian1.png)
 
 #### Butang Lihat Butiran
 
@@ -83,5 +83,5 @@ Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
 ::: tip Butiran Permohonan
 Setelah klik butang **"Lihat Butiran"**, anda akan melihat modal atau halaman baru yang menunjukkan semua detail permohonan.
 :::
-![Lihat Butiran](/image/staff/lihat-butiran.png)
+![Lihat Butiran](/image/kakitangan/lihat-butiran.png)
 

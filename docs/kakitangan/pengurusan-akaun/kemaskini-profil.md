@@ -15,7 +15,7 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
 :::
 
 
-![Klik Profil](/image/staff/klikprofil.png)
+![Klik Profil](/image/kakitangan/klikprofil.png)
 
 ### 2. Semak Maklumat Sedia Ada
 
@@ -25,7 +25,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 - Nama
 - Email
 :::
-![Profil](/image/staff/profil.png)
+![Profil](/image/kakitangan/profil.png)
 
 ### 3. Kemaskini Maklumat
 
@@ -36,8 +36,8 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 :::
 
 
-![Upload](/image/staff/upload.png)
-![Avatar](/image/staff/success3-avatar.png)
+![Upload](/image/kakitangan/upload.png)
+![Avatar](/image/kakitangan/success3-avatar.png)
 
 ::: warning Nota
 - Pastikan semua maklumat yang adalah tepat dan terkini.

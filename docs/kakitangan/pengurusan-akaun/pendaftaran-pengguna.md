@@ -16,14 +16,14 @@ Membantu pengguna baharu membuat pendaftaran ke dalam Sistem E-Latihan menggunak
 2. Pastikan NRIC dimasukkan tanpa simbol dan dalam format 12 digit
 3. Klik Daftar untuk menghantar permohonan pendaftaran
 
-![daftar](/image/staff/pendaftaran-p.png)
+![daftar](/image/kakitangan/pendaftaran-p.png)
 
 :::
 
 ## 3. Pengesahan Pendaftaran
 ::: tip Nota
 1) Setelah menekan butang Daftar:
-![Button daftar](/image/staff/btn-dftr.png)
+![Button daftar](/image/kakitangan/btn-dftr.png)
 - Sistem akan menyemak NRIC
 - Jika NRIC sah dan belum pernah didaftarkan, sistem akan mencipta akaun pengguna baharu
 2) Sistem akan memaparkan mesej seperti berikut:

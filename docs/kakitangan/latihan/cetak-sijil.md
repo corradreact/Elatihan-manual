@@ -11,12 +11,12 @@ Pemohon boleh memuat turun sijil penyertaan selepas penilaian diserahkan dan lat
 3. Klik butang **Cetak Sijil** pada kad latihan.
 4. Butang akan memulakan muat turun sijil dalam format PDF secara automatik.
 :::
- ![Cetak Sijil](/image/staff/cetak-sijil.png) 
+ ![Cetak Sijil](/image/kakitangan/cetak-sijil.png) 
 
 ## Contoh Sijil
 Berikut ialah contoh paparan sijil yang dijana dalam format PDF:
 
-![Sijil](/image/staff/sijil.png)
+![Sijil](/image/kakitangan/sijil.png)
 
 ::: warning Nota
 - Sijil biasanya dihantar sebagai fail PDF dari server dengan header `Content-Disposition: attachment; filename="sijil-<name>.pdf"` supaya browser memuat turun fail secara automatik.

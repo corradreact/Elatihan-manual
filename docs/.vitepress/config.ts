@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'ms-MY',
   title: 'E-Latihan',
-  description: 'Manual Pengguna Staff dan Admin untuk Sistem Latihan',
+  description: 'Manual Pengguna kakitangan dan Admin untuk Sistem Latihan',
   head: [
     ['link', { rel: 'icon', href: '/elatihan-logo.png' }] // icon tab
   ],
@@ -17,12 +17,12 @@ export default defineConfig({
       { text: 'Utama', link: '/' },
 
       {
-        text: 'Staff',
+        text: 'kakitangan',
         items: [
-          { text: 'Manual Staff (Utama)', link: '/staff/' },
-          { text: 'Pengurusan Akaun', link: '/staff/pengurusan-akaun/pendaftaran-pengguna' },
-          { text: 'Pengurusan Permohonan', link: '/staff/pengurusan-permohonan/permohonan-latihan-luaran' },
-          { text: 'Latihan Luaran / Dalaman', link: '/staff/latihan/daftar-kedatangan' }
+          { text: 'Manual kakitangan (Utama)', link: '/kakitangan/' },
+          { text: 'Pengurusan Akaun', link: '/kakitangan/pengurusan-akaun/pendaftaran-pengguna' },
+          { text: 'Pengurusan Permohonan', link: '/kakitangan/pengurusan-permohonan/permohonan-latihan-luaran' },
+          { text: 'Latihan Luaran / Dalaman', link: '/kakitangan/latihan/daftar-kedatangan' }
         ]
       },
 
@@ -39,30 +39,30 @@ export default defineConfig({
     ],
 
     sidebar: {
-      '/staff/': [
+      '/kakitangan/': [
         {
           text: 'Pengurusan Akaun',
           items: [
-            { text: 'Pendaftaran Pengguna', link: '/staff/pengurusan-akaun/pendaftaran-pengguna' },
-            { text: 'Log Masuk', link: '/staff/pengurusan-akaun/log-masuk' },
-            { text: 'Kemaskini Profil', link: '/staff/pengurusan-akaun/kemaskini-profil' }
+            { text: 'Pendaftaran Pengguna', link: '/kakitangan/pengurusan-akaun/pendaftaran-pengguna' },
+            { text: 'Log Masuk', link: '/kakitangan/pengurusan-akaun/log-masuk' },
+            { text: 'Kemaskini Profil', link: '/kakitangan/pengurusan-akaun/kemaskini-profil' }
           ]
         },
         {
           text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Permohonan Latihan Luaran', link: '/staff/pengurusan-permohonan/permohonan-latihan-luaran' },
-            { text: 'Senarai Permohonan', link: '/staff/pengurusan-permohonan/senarai-permohonan' }
+            { text: 'Permohonan Latihan Luaran', link: '/kakitangan/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/kakitangan/pengurusan-permohonan/senarai-permohonan' }
           ]
         },
         {
           text: 'Latihan Luaran / Dalaman',
           items: [
-            { text: 'Daftar Kedatangan', link: '/staff/latihan/daftar-kedatangan' },
-            { text: 'Daftar Ketidakhadiran', link: '/staff/latihan/daftar-ketidakhadiran' },
-            { text: 'Penilaian Latihan', link: '/staff/latihan/penilaian-latihan' },
-            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/staff/latihan/cetak-sijil' },
-            { text: 'Senarai Latihan Terlibat', link: '/staff/latihan/senarai-latihan' }
+            { text: 'Daftar Kedatangan', link: '/kakitangan/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran', link: '/kakitangan/latihan/daftar-ketidakhadiran' },
+            { text: 'Penilaian Latihan', link: '/kakitangan/latihan/penilaian-latihan' },
+            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/kakitangan/latihan/cetak-sijil' },
+            { text: 'Senarai Latihan Terlibat', link: '/kakitangan/latihan/senarai-latihan' }
           ]
         }
       ],

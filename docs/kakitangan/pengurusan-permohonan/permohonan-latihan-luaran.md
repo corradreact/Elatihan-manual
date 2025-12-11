@@ -18,7 +18,7 @@ Membantu pengguna staf untuk membuat permohonan latihan luaran dengan mengisi ma
 
 Maklumat dalam bahagian ini diisi secara automatik (autofill) berdasarkan profil sistem anda dan tidak boleh diubah oleh pengguna. 
 
-![Borang A](/image/staff/bahagian-A.png)
+![Borang A](/image/kakitangan/bahagian-A.png)
 
 ::: warning Nota
 Pastikan semua maklumat peribadi adalah tepat dan terkini sebelum meneruskan.
@@ -29,11 +29,11 @@ Pastikan semua maklumat peribadi adalah tepat dan terkini sebelum meneruskan.
 Lengkapkan maklumat latihan yang ingin diikuti:
 
 ### Medan-Medan Wajib:
-![Borang B](/image/staff/bahagian-B.png)
+![Borang B](/image/kakitangan/bahagian-B.png)
 
 ## Bahagian C: Faedah Latihan
 Nyatakan faedah dan manfaat yang akan diperolehi daripada latihan ini:
-![Borang C](/image/staff/bahagian-C.png)
+![Borang C](/image/kakitangan/bahagian-C.png)
 
 
 ::: tip Tips Pengisian
@@ -53,7 +53,7 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 3. Saiz maksimum fail: 5MB
 4. Klik **Muat Naik** untuk memulai pemindahan fail
 :::
-![Dokumen Sokongan](/image/staff/dokumen-sokongan.png)
+![Dokumen Sokongan](/image/kakitangan/dokumen-sokongan.png)
 
 ### Hantar Permohonan
 
@@ -61,7 +61,7 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 2. Sistem akan mengesahkan semua medan wajib
 3. Jika ada medan yang belum diisi, sistem akan menunjukkan mesej ralat
 
-![Ralat1](/image/staff/ralat1.png)
+![Ralat1](/image/kakitangan/ralat1.png)
 
 ### Pengesahan Penyerahan
 
@@ -71,4 +71,4 @@ Apabila permohonan berjaya dihantar:
 - Permohonan akan masuk ke dalam sistem untuk penelaahan oleh pengurusan
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
 
-![Success1](/image/staff/Success1.png)
+![Success1](/image/kakitangan/Success1.png)
