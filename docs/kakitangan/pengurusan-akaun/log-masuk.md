@@ -23,7 +23,7 @@ Manual ini menerangkan dua cara log masuk ke sistem.
    - **Username** SIM MPS anda
    - **Kata laluan** SIM MPS anda
 4. Klik butang **Log Masuk**.
-5. Jika maklumat betul, sistem akan memaparkan papan pemuka (dashboard) staf.
+5. Jika maklumat betul, sistem akan memaparkan papan pemuka (dashboard) kakitangan.
 :::
 
 

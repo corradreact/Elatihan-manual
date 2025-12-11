@@ -53,5 +53,5 @@ Klik pada butang "Peserta" untuk melihat senarai peserta yang hadir bagi latihan
 :::
 
 ::: warning Nota
-Pastikan maklumat kehadiran adalah tepat kerana ia akan digunakan untuk laporan HR dan pengesahan latihan staf.
+Pastikan maklumat kehadiran adalah tepat kerana ia akan digunakan untuk laporan HR dan pengesahan latihan kakitangan.
 :::

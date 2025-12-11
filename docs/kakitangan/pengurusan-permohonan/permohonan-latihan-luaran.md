@@ -1,7 +1,7 @@
 # Panduan Permohonan Latihan Luaran
 
 ::: info Tujuan
-Membantu pengguna staf untuk membuat permohonan latihan luaran dengan mengisi maklumat yang diperlukan dan menyerahkan dokumen sokongan.
+Membantu pengguna kakitangan untuk membuat permohonan latihan luaran dengan mengisi maklumat yang diperlukan dan menyerahkan dokumen sokongan.
 :::
 
 ## Langkah-langkah Permohonan Latihan Luaran
@@ -14,7 +14,7 @@ Membantu pengguna staf untuk membuat permohonan latihan luaran dengan mengisi ma
 3. Sistem akan memaparkan borang permohonan Bahagian B, C dan dokumen sokogan untuk pengisian.
 :::
 
-## Bahagian A: Keterangan Diri  Staf
+## Bahagian A: Keterangan Diri  Kakitangan
 
 Maklumat dalam bahagian ini diisi secara automatik (autofill) berdasarkan profil sistem anda dan tidak boleh diubah oleh pengguna. 
 

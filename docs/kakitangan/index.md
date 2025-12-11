@@ -1,14 +1,14 @@
 ---
-title: Manual Pengguna Staf
+title: Manual Pengguna Kakitangan
 ---
 
-# Manual Pengguna Staf
+# Manual Pengguna Kakitangan
 
-Selamat datang ke Manual Pengguna Sistem E-Latihan. Halaman ini mengandungi pautan cepat untuk modul-modul yang paling kerap digunakan oleh pegawai/staf.
+Selamat datang ke Manual Pengguna Sistem E-Latihan. Halaman ini mengandungi pautan cepat untuk modul-modul yang paling kerap digunakan oleh pegawai/kakitangan.
 
 ## Utama
 
-Ringkasan modul penting untuk staf:
+Ringkasan modul penting untuk kakitangan:
 
 - **Pengurusan Akaun**: Pendaftaran pengguna, log masuk, kemaskini profil
 - **Pengurusan Permohonan**: Borang permohonan latihan luaran, semak senarai permohonan

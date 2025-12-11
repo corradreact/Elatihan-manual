@@ -5,13 +5,13 @@ title: E-Latihan
 hero:
   name: E-Latihan
   text: Manual Pengguna Sistem E-Latihan
-  tagline: Panduan lengkap penggunaan Sistem E-Latihan untuk staf dan admin.
+  tagline: Panduan lengkap penggunaan Sistem E-Latihan untuk Kkai dan admin.
   image:
     src: /elatihan-logo.png
     alt: Logo Majlis Perbandaran Selayang
   actions:
     - theme: brand
-      text: Manual kakitangan
+      text: Manual Kakitangan
       link: /kakitangan/
     - theme: alt
       text: Manual Admin
@@ -31,7 +31,7 @@ features:
 
   - icon: ✅
     title: Daftar Kehadiran 
-    details: Urus kehadiran peserta atau staf secara sistematik dan mudah.
+    details: Urus kehadiran peserta atau kakitangan secara sistematik dan mudah.
     link: /kakitangan/latihan/daftar-kedatangan
 # admin
   - icon: 📊
