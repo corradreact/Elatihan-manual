@@ -11,7 +11,11 @@ Membantu pengguna kakitangan untuk membuat permohonan latihan luaran dengan meng
 ::: tip Langkah 1
 1. Log masuk ke dalam sistem
 2. Pilih menu **Permohonan Latihan Luaran**
-3. Sistem akan memaparkan borang permohonan Bahagian B, C dan dokumen sokogan untuk pengisian.
+3. Sistem akan memaparkan borang permohonan Bahagian A, B, C.​
+:::
+::: warning Nota
+- Bahagian A memaparkan maklumat pemohon yang diambil automatik dari Sistem SIM.​
+- Pengguna perlu mengisi ruangan Bahagian B dan C serta memuat naik dokumen sokongan.
 :::
 
 ## Bahagian A: Keterangan Diri  Kakitangan
@@ -49,9 +53,8 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 
 ::: tip Langkah Muat Naik
 1. Klik butang **Choose Files** untuk memilih dokumen dari komputer anda
-2. Pilih fail yang akan dimuat naik (format: PDF, DOC, DOCX, JPG, PNG)
+2. Pilih fail yang akan dimuat naik (format: PDF, JPG, PNG)
 3. Saiz maksimum fail: 5MB
-4. Klik **Muat Naik** untuk memulai pemindahan fail
 :::
 ![Dokumen Sokongan](/image/kakitangan/dokumen-sokongan.png)
 
@@ -66,9 +69,9 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 ### Pengesahan Penyerahan
 
 Apabila permohonan berjaya dihantar:
-- Sistem akan memaparkan mesej "Permohonan latihan luar dihanatar untuk kelulusan"
-- Anda akan menerima emel pengesahan di alamat emel terdaftar
-- Permohonan akan masuk ke dalam sistem untuk penelaahan oleh pengurusan
+- Sistem akan memaparkan mesej "Permohonan latihan luar dihantar untuk kelulusan"
+- Anda akan menerima emel pengesahan di alamat emel berdaftar
+- Permohonan akan masuk ke dalam sistem untuk semakan oleh pengurusan
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
 
 ![Success1](/image/kakitangan/Success1.png)

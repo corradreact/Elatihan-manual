@@ -23,7 +23,7 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
 Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 - Nama Pengguna
 - Nama
-- Email
+- Emel
 :::
 ![Profil](/image/kakitangan/profil.png)
 
@@ -42,5 +42,5 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 ::: warning Nota
 - Pastikan semua maklumat yang adalah tepat dan terkini.
 - Maklumat ini akan digunakan untuk pengisian borang permohonan.
-- Sesetengah maklumat seperti Nama Pengguna, Email tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran.
+- Sesetengah maklumat seperti Nama Pengguna, Emel tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran.
 ::: 

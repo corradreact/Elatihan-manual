@@ -27,7 +27,7 @@ Sistem menggunakan beberapa status untuk permohonan:
 - **Menunggu Kelulusan** (Kelabu) - Permohonan masih dalam proses ulasan oleh pihak pengurusan
 - **Selesai** (Biru) - Permohonan telah diluluskan dan permohonan selesai
 - **Ditolak** (Merah) - Permohonan telah ditolak oleh pihak pengurusan
-- **Draf** (Putih)- Permohonan berada dalam keadaan belum dihantar dan masih boleh dikemaskini oleh pengguna.
+- **Draf** (Putih)- Permohonan berada dalam keadaan belum dihantar dan boleh dipadam oleh pengguna
 :::
 ![Status Permohonan](/image/kakitangan/status-permohonan.png)
 

@@ -1,7 +1,7 @@
 # Panduan Menambah Template Emel
 
 ::: info Tujuan
-Membantu admin menambah template emel baharu yang akan digunakan untuk jemputan, hebahan, atau pemberitahuan sistem.
+Membantu admin menambah template emel baharu yang akan digunakan untuk jemputan atau hebahan latihan dalaman atau luaran kepada peserta.
 :::
 
 

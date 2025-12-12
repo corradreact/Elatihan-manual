@@ -10,7 +10,7 @@ Selamat datang ke Manual Pengguna Sistem E-Latihan. Halaman ini mengandungi paut
 
 Ringkasan modul penting untuk kakitangan:
 
-- **Pengurusan Akaun**: Pendaftaran pengguna, log masuk, kemaskini profil
+- **Pengurusan Akaun**: Pendaftaran pengguna, log masuk, kemaskini gambar profil
 - **Pengurusan Permohonan**: Borang permohonan latihan luaran, semak senarai permohonan
 - **Latihan (Kehadiran & Penilaian)**: Daftar kedatangan, daftar ketidakhadiran, penilaian latihan, cetak sijil
 

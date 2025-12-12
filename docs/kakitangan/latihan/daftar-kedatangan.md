@@ -30,7 +30,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 ### 2. Pilih Status Kehadiran
 
 ::: tip Langkah 2
-Modal akan muncul dengan pertanyaan: **"Borang Pelepasan Tidak Menghadiri Latihan"**
+Modal akan muncul dengan pertanyaan: **"Pengesahan Kehadiran Latihan"**
 
 Pilih salah satu:
 - **Hadir** (Butang Biru) - Jika anda akan hadir atau telah hadir di latihan
@@ -62,7 +62,6 @@ Jika berjaya:
 - Akan muncul mesej **"Kehadiran Direkodkan"**
 ![Hantar](/image/kakitangan/success2-hadir.png)
 - Status kehadiran akan berubah menjadi **"Hadir"** pada papan pemuka
-- Anda akan menerima pengesahan melalui sistem
 
 Jika ada ralat:
 - Akan muncul mesej ralat merah: **"Sila pilih gambar untuk dimuat naik"**
@@ -78,8 +77,8 @@ Selepas berjaya menghantar, status akan berubah:
 ## Perkara Penting
 
 ::: warning Nota
-- Bukti kehadiran **wajib** dimuat naik - sistem tidak akan menerima jika tiada fail
+- Sistem tidak akan menerima pengesahan kehadiran jika tiada fail dimuat naik​
 - Pastikan fail yang dimuat naik jelas dan berkualiti
-- Format fail yang diterima: JPG, PNG, PDF, DOC, DOCX (maksimum 5MB)
+- Format fail yang diterima: JPG, PNG, PDF (maksimum 5MB)
 - Tidak boleh mengubah status selepas dihantar (hubungi pentadbir jika ada kesalahan)
 :::

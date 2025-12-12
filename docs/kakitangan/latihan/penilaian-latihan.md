@@ -37,7 +37,7 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 
 ::: tip Langkah 3
 Setelah mengisi semua 4 bahagian:
-1. Periksa semua jawaban
+1. Periksa semua jawapan
 2. Klik **"Sahkan dan Serah"**
 :::
 

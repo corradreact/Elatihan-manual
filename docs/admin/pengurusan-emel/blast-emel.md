@@ -1,7 +1,7 @@
 # Panduan Blast Emel Kursus
 
 ::: info Tujuan
-Membantu admin menghantar emel kursus secara pukal (blast) kepada pemohon berdasarkan tarikh kursus dan jenis kursus yang dipilih.
+Membantu admin menghantar emel kursus secara pukal (blast) kepada peserta latihan dalam atau luaran berdasarkan tarikh kursus dan jenis kursus yang dipilih.
 :::
 
 ## Langkah-langkah Blast Emel Kursus
@@ -17,15 +17,15 @@ Membantu admin menghantar emel kursus secara pukal (blast) kepada pemohon berdas
 
 ### 2. Pilih Tarikh & Jenis Kursus
 ::: tip Langkah 2
-1. Admin perlu memilih **Bulan , Tahun dan Jenis Kursus (dalaman / luaran )** untuk mendapatkan senarai pemohon yang berkaitan.
+1. Admin perlu memilih **Bulan , Tahun dan Jenis Kursus (dalaman / luaran )** untuk mendapatkan senarai peserta yang berkaitan.
 2. Sistem akan memaparkan senarai kursus berdasarkan pilihan tersebut.
 3. Admin boleh memilih kursus yang ingin dihantar 
 ![Pilih Kursus](/image/admin/pilih-kursus.png)
 :::
 
 ::: tip Langkah 3 
-1. Setelah memilih kurus alamat emel penerima akan diisi secara automatik di bahagian Penerima (Email)
-2.Admin boleh:
+1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Email)
+2. Admin boleh:
 - Menyemak alamat emel penerima
 - Mengubah emel jika terdapat maklumat tidak tepat
 - Menambah penerima tambahan jika perlu
@@ -53,7 +53,7 @@ Template boleh:
 ### 4. Tambah CC & Lampiran
 ::: tip Langkah 5
 1) Admin boleh memasukkan penerima tambahan melalui CC serta menambah dokumen lampiran.
-2) Maklumat yang boleh diisi termasuk CC (jika diperlukan) serta lampiran dalam format PDF, DOC, DOCX, JPG atau PNG.
+2) Maklumat yang boleh diisi termasuk CC (jika diperlukan) serta lampiran dalam format PDF, JPG atau PNG.
 ![cc](/image/admin/cc.png)
 
 ![lampiran](/image/admin/lampiran.png)
@@ -76,7 +76,7 @@ Template boleh:
 
 #### Butang "Menghantar Emel"
 ::: tip Menghantar Emel 
-- Klik butang biru **"Hantar Emel Jemputan"** last Emel untuk menghantar
+- Klik butang biru **"Hantar Emel Jemputan"** untuk menghantar emel
 
 ![hantar](/image/admin/hntr-email.png)
 

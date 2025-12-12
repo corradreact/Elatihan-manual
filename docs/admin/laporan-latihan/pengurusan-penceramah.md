@@ -71,5 +71,5 @@ Jika penceramah tidak lagi terlibat dalam latihan:
 
 ::: warning Nota
 - Pastikan nama penceramah adalah tepat sebelum disimpan kerana ia akan dipaparkan pada borang penilaian latihan dalaman.
-- Pemadaman penceramah adalah kekal dan tidak boleh dibatalkan.
+- Tindakan memadam nama penceramah adalah kekal dan tidak boleh dibatalkan atau dipinda semula​.
 :::

@@ -21,7 +21,7 @@ hero:
 features:
   - icon: 👤
     title: Pengurusan Akaun
-    details: Daftar akaun, log masuk, dan urus tetapan kata laluan dengan mudah.
+    details: Daftar akaun,log masuk dan lihat profil dengan mudah melalui integrasi dengan Sistem SIM.​
     link: /kakitangan/pengurusan-akaun/log-masuk
 
   - icon: 📝
@@ -36,17 +36,17 @@ features:
 # admin
   - icon: 📊
     title: Laporan Latihan
-    details: Lihat, semak dan urus kehadiran, penilaian serta maklumat latihan dengan mudah.
+    details: Laporan Latihan (Pengguna Admin sahaja).
     link: /admin/laporan-latihan/pengurusan-peserta
 
   - icon: 👩🏻‍💻
     title: Pengurusan Pengguna
-    details: Tambah, kemas kini dan urus akaun pengguna dalam sistem.
+    details: Pengurusan Pengguna (Admin IT sahaja)
     link: /admin/pengurusan-pengguna/kemaskini-pengguna
 
   - icon: 📩
     title: Blast Emel
-    details: Hantar emel hebahan kursus secara pukal kepada peserta dengan pantas.
+    details: Blast Emel (Pengguna Admin sahaja)​.
     link: /admin/pengurusan-emel/blast-emel
 
 ---

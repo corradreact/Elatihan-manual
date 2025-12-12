@@ -11,7 +11,7 @@ Membantu pengguna admin untuk melihat senarai semua permohonan latihan mereka da
 ::: tip Langkah 1
 1. Log masuk ke dalam sistem
 2. Pilih menu **Senarai Permohonan**
-3. Sistem akan memaparkan senarai semua permohonan anda
+3. Sistem akan memaparkan senarai semua permohonan dari kakitangan
 :::
 
 ### 2. Paparan Halaman Senarai Permohonan
