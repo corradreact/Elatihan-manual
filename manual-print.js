@@ -16,20 +16,26 @@ const STAFF_ROUTES = [
   '/kakitangan/pengurusan-akaun/kemaskini-profil',
   '/kakitangan/pengurusan-permohonan/permohonan-latihan-luaran',
   '/kakitangan/pengurusan-permohonan/senarai-permohonan',
-  '/kakitangan/latihan-luaran-dalaman/daftar-kedatangan',
-  '/kakitangan/latihan-luaran-dalaman/daftar-ketidakhadiran',
-  '/kakitangan/latihan-luaran-dalaman/penilaian-latihan',
-  '/kakitangan/latihan-luaran-dalaman/cetak-sijil-latihan-dalaman',
-  '/kakitangan/latihan-luaran-dalaman/senarai-latihan-terlibat',
-  // ...tambah lagi kalau ada
+  '/kakitangan/latihan/daftar-kedatangan',
+  '/kakitangan/latihan/daftar-ketidakhadiran',
+  '/kakitangan/latihan/penilaian-latihan',
+  '/kakitangan/latihan/cetak-sijil',
+  '/kakitangan/latihan/senarai-latihan',
+
+
 ];
 
 const ADMIN_ROUTES = [
   // contoh je – kau tukar ikut route manual admin
-  '/admin/pengurusan-akaun/senarai-pengguna',
-  '/admin/pengurusan-akaun/tetapan-peranan',
-  '/admin/laporan/senarai-latihan',
-  // ...tambah semua page admin di sini
+ '/admin/laporan-latihan/pengurusan-peserta',
+  '/admin/laporan-latihan/pengurusan-penceramah',
+  '/admin/laporan-latihan/pengurusan-penilaian',
+  '/admin/pengurusan-permohonan/lihat-senarai',
+  '/admin/pengurusan-permohonan/tempoh-permohonan',
+  '/admin/pengurusan-pengguna/tambah-pengguna',
+  '/admin/pengurusan-pengguna/kemaskini-pengguna',
+  '/admin/pengurusan-emel/template-emel',
+  '/admin/pengurusan-emel/blast-emel',
 ];
 
 // =============================
