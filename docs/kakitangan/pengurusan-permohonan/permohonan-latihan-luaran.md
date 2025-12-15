@@ -32,7 +32,7 @@ Pastikan semua maklumat peribadi adalah tepat dan terkini sebelum meneruskan.
 
 Lengkapkan maklumat latihan yang ingin diikuti:
 
-### Medan-Medan Wajib:
+### Ruangan Wajib:
 ![Borang B](/image/kakitangan/bahagian-B.png)
 
 ## Bahagian C: Faedah Latihan
@@ -61,8 +61,8 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 ### Hantar Permohonan
 
 1. Setelah semua maklumat lengkap, klik butang **Simpan Permohonan** atau **Hantar** 
-2. Sistem akan mengesahkan semua medan wajib
-3. Jika ada medan yang belum diisi, sistem akan menunjukkan mesej ralat
+2. Sistem akan mengesahkan semua maklumat wajib
+3. Jika ada maklumat yang belum diisi, sistem akan menunjukkan mesej ralat
 
 ![Ralat1](/image/kakitangan/ralat1.png)
 

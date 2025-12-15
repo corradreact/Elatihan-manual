@@ -80,7 +80,7 @@ Template boleh:
 
 ![hantar](/image/admin/hntr-email.png)
 
-- Jika terdapat medan yang belum lengkap, sistem akan memaparkan mesej ralat.
+- Jika terdapat maklumat yang belum lengkap, sistem akan memaparkan mesej ralat.
 
 ![ralat](/image/admin/ralat.png)
 - Jika berjaya, sistem akan memaparkan mesej pengesahan.
