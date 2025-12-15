@@ -31,7 +31,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 
 ::: tip Langkah 3
 1. Isi atau kemaskini gambar pengguna klik butang **Choose Files**
-2. Klik butang **Upload** untuk menyimpan 
+2. Klik butang **Muat Naik** untuk menyimpan 
 3. Setelah berjaya dikemaskini, sistem akan memaparkan mesej "Avatar dikemas kini"
 :::
 
@@ -40,6 +40,7 @@ Sistem akan memaparkan maklumat profil sedia ada yang telah didaftarkan:
 ![Avatar](/image/kakitangan/success3-avatar.png)
 
 ::: warning Nota
+- Semua maklumat dipaparkan adalah dari Sistem SIM. Pastikan semua maklumat adalah tepat dan terkini.
 - Pastikan semua maklumat yang adalah tepat dan terkini.
 - Maklumat ini akan digunakan untuk pengisian borang permohonan.
 - Sesetengah maklumat seperti Nama Pengguna, Emel tidak boleh dikemaskini kerana ia adalah maklumat asas pendaftaran.

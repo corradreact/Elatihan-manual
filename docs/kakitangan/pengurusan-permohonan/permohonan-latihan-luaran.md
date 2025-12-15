@@ -52,7 +52,7 @@ Tulis dengan jelas dan ringkas tentang manfaat yang relevan dengan tugas kerja a
 Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 
 ::: tip Langkah Muat Naik
-1. Klik butang **Choose Files** untuk memilih dokumen dari komputer anda
+1. Klik butang **Choose File** untuk memilih dokumen dari komputer anda
 2. Pilih fail yang akan dimuat naik (format: PDF, JPG, PNG)
 3. Saiz maksimum fail: 5MB
 :::

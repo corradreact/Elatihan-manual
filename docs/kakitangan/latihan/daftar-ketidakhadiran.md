@@ -8,10 +8,10 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Anda akan melihat **Papan Pemuka Pengguna** dengan tab-tab:
+2. Anda akan melihat **Dashboard Pengguna** dengan tab-tab:
    - **Hari Ini** - Latihan hari ini
    - **Akan Datang** - Latihan yang akan datang
-   - **Sejarah** - Latihan yang telah selesai
+   - **Senarai Latihan** - Latihan yang telah selesai
 3. Di halaman ini, anda dapat melihat senarai latihan yang telah dicalonkan
 :::
 ![Senarai Calon Latihan](/image/kakitangan/senarai-dicalonkan.png)
@@ -23,6 +23,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 ::: tip Langkah 1
 1. Pada papan pemuka, cari latihan yang ingin anda daftarkan kehadirannya
 2. Klik pada latihan atau butang **"Kehadiran"** 
+![Kehadiran](/image/kakitangan/kehadiran.png)
 3. Satu modal akan muncul memaparkan maklumat latihan dan pilihan kehadiran
 :::
 
@@ -41,13 +42,14 @@ Pilih salah satu:
 ![Pilih Kehadiran](/image/kakitangan/pilih-kehadiran2.png)
 
 ### 3. Muatnaik Bukti Kehadiran
-
 ::: tip Langkah 3
-1. Pada bahagian **"Muatnaik Gambar Bukti Kehadiran"**
-2. Klik butang **"Pilih Fail"** untuk memilih fail.
-3. Pilih fail bukti kehadiran (format: JPG, PNG, PDF)
-4. Saiz maksimum: 5MB
-5. Fail yang dipilih akan dipaparkan di bawah butang (contoh: "Dokumen Sokogan [Contoh].pdf")
+
+1. Nyatakan alasan ketidakhadiran ke latihan (jika berkaitan).
+2. Tandakan kotak pengesahan maklumat sebagai bukti persetujuan.
+3. Pada bahagian "Muat Naik Dokumen Sokongan":
+- Klik butang **"Choose File"**.
+- Pilih fail bukti kehadiran yang berkaitan dalam format JPG, PNG, atau PDF.
+- Saiz maksimum bagi setiap fail adalah 5MB.
 :::
 ![Bukti Hadir](/image/kakitangan/bukti-hadir.png)
 
@@ -62,8 +64,7 @@ Pilih salah satu:
 Jika berjaya:
 - Akan muncul mesej **"Kehadiran Direkodkan"**
 ![Hantar](/image/kakitangan/success2-hadir.png)
-- Status kehadiran akan berubah menjadi **"Hadir"** pada papan pemuka
-- Anda akan menerima pengesahan melalui sistem
+- Status kehadiran akan berubah menjadi **"Tidak Hadir"** pada papan pemuka
 
 Jika ada ralat:
 - Akan muncul mesej ralat merah: **"Sila pilih gambar untuk dimuat naik"**
@@ -74,7 +75,7 @@ Jika ada ralat:
 
 Selepas berjaya menghantar, status akan berubah:
 
-<!-- ![Status Kehadiran](/image/kakitangan/.png) -->
+![Status](/image/kakitangan/status-kehadiran2.png)
 
 ## Perkara Penting
 

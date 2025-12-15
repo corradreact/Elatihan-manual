@@ -7,9 +7,9 @@ Pemohon boleh melihat senarai latihan yang pernah terlibat.
 ::: tip Langkah 1
 1. Log masuk ke sistem
 2. Anda akan melihat **Dashboard** dengan tab:
-   - **Sejarah** - Latihan yang telah terlibat
+   - **Senarai Latihan** - Latihan yang telah terlibat
 3. Di halaman ini, anda dapat melihat senarai latihan yang anda pernah hadir
-4. Klik tab **"Sejarah"** pada dashboard
+4. Klik tab **"Senarai Latihan"** pada dashboard
 5. Anda akan melihat senarai latihan yang sudah dilalui dengan maklumat berikut:
 :::
 ![Senarai Latihan](/image/kakitangan/senarai-latihan.png)
@@ -22,7 +22,7 @@ Pemohon boleh melihat senarai latihan yang pernah terlibat.
 
 ::: warning Nota 
 
-- Tab **Sejarah** hanya menunjukkan latihan yang telah tamat
-- Latihan di tab **Akan Datang** akan berpindah ke **Sejarah** selepas tarikh akhir latihan
+- Tab **Senarai Latihan** hanya menunjukkan latihan yang telah tamat
+- Latihan di tab **Akan Datang** akan berpindah ke **Senarai Latihan** selepas tarikh akhir latihan
 :::
 

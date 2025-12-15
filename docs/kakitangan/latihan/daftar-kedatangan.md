@@ -7,10 +7,10 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Anda akan melihat **Dashboard** dengan tab-tab:
+2. Anda akan melihat **Dashboard Pengguna** dengan tab-tab:
    - **Hari Ini** - Latihan hari ini
    - **Akan Datang** - Latihan yang akan datang
-   - **Sejarah** - Latihan yang telah selesai
+   - **Senarai Latihan** - Latihan yang telah selesai
 3. Di halaman ini, anda dapat melihat senarai latihan yang telah dicalonkan
 :::
 ![Senarai Calon Latihan](/image/kakitangan/senarai-dicalonkan.png)
@@ -22,6 +22,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 ::: tip Langkah 1
 1. Pada papan pemuka, cari latihan yang ingin anda daftarkan kehadirannya
 2. Klik pada latihan atau butang **"Kehadiran"** 
+![Kehadiran](/image/kakitangan/kehadiran.png)
 3. Satu modal akan muncul memaparkan maklumat latihan dan pilihan kehadiran
 :::
 
@@ -30,7 +31,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
 ### 2. Pilih Status Kehadiran
 
 ::: tip Langkah 2
-Modal akan muncul dengan pertanyaan: **"Pengesahan Kehadiran Latihan"**
+Modal akan muncul dengan pertanyaan: **"Pengesahan Kehadiran"**
 
 Pilih salah satu:
 - **Hadir** (Butang Biru) - Jika anda akan hadir atau telah hadir di latihan
@@ -43,7 +44,7 @@ Pilih salah satu:
 
 ::: tip Langkah 3
 1. Pada bahagian **"Muatnaik Gambar Bukti Kehadiran"**
-2. Klik butang **"Pilih Fail"** untuk memilih fail.
+2. Klik butang **"Choose File"** untuk memilih fail.
 3. Pilih fail bukti kehadiran (format: JPG, PNG, PDF)
 4. Saiz maksimum: 5MB
 5. Fail yang dipilih akan dipaparkan di bawah butang (contoh: "Dokumen Sokogan [Contoh].pdf")
@@ -72,7 +73,7 @@ Jika ada ralat:
 
 Selepas berjaya menghantar, status akan berubah:
 
-<!-- ![Status Kehadiran](/image/kakitangan/.png) -->
+![Status](/image/kakitangan/status-kehadiran.png)
 
 ## Perkara Penting
 
