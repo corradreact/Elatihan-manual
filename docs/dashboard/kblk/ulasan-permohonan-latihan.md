@@ -1,0 +1,66 @@
+# Panduan Dashboard Ketua Bahagian Latihan & Kompetensi (KBLK)
+
+:::info Tujuan
+Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyemak permohonan latihan luaran yang telah disokong oleh Pengarah Jabatan (PJ), dan disemak serta diisi anggaran perbelanjaan oleh Admin Jabatan.
+:::
+
+## Langkah-langkah Semakan oleh KBLK
+### 1. Log Masuk sebagai Ketua Bahagian Latihan & Kompetensi
+
+::: tip Langkah 1
+
+1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Ketua Bahagian Latihan & Kompetensi**
+2. Setelah berjaya log masuk, sistem akan memaparkan **Papan Pemuka Ketua Bahagian Latihan & Kompetensi**
+:::
+
+### 2. Melihat Senarai Permohonan dan menyemak Permohonan
+::: tip Langkah 2
+
+1. Klik butang **Semak** pada permohonan yang ingin disemak
+![Semak](/image/dashboard/semak.png)
+
+2. Sistem akan memaparkan butiran penuh permohonan
+:::
+
+### 3. Menyemak Ulasan dan Sokongan Pengarah Jabatan (Bahagian D)
+
+::: tip Langkah 3
+
+1) Di **Bahagian D: Ulasan / Sokongan Pengarah Jabatan**
+2) Semak perkara berikut:
+- Status sokongan Pengarah Jabatan (Disokong / Tidak Disokong)
+- Ulasan yang diberikan oleh Pengarah Jabatan
+- Pastikan sokongan dan ulasan adalah selaras dengan permohonan
+
+![Bahagian D](/image/dashboard/bahagian-d1.png)
+
+3. Membuat **Semakan Permohonan & Anggaran Perbelanjaan (Bahagian E)**
+4. Semak maklumat yang telah diisi oleh Admin Jabatan
+
+![Bahagian E](/image/dashboard/bahagian-e1.png)
+
+:::
+
+### 4. Isikan ulasan pada ruangan Ulasan Ketua Bahagian Latihan & Kompetensi
+![Ulasan](/image/dashboard/ulasan-kblk.png)
+::: warning Tips Pengisian
+Pastikan ulasan:
+- Jelas
+- Profesional
+- Berkaitan dengan keperluan latihan dan peruntukan
+
+Ulasan mestilah:
+- Minimum 10 aksara
+- Maksimum 255 aksara
+:::
+
+### 5. Menghantar Ulasan KBLK
+::: tip Langkah 4
+
+1. Setelah semakan selesai, klik butang **Hantar Ulasan**
+![Hantar Ulasan](/image/dashboard/btn-hantar.png)
+
+2. Klik **Batal** sekiranya ingin membuat semakan semula
+![Batal](/image/dashboard/batal.png)
+
+3. Sistem akan mengemas kini status permohonan secara automatik.

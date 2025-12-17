@@ -5,10 +5,8 @@ export default defineConfig({
   title: 'E-Latihan',
   description: 'Manual Pengguna kakitangan dan Admin untuk Sistem Latihan',
   head: [
-    ['link', { rel: 'icon', href: '/elatihan-logo.png' }] // icon tab
+    ['link', { rel: 'icon', href: '/elatihan-logo.png' }]
   ],
-
-  // 👇 sini kita beritahu VitePress: jangan bising kalau link /admin/... tak wujud dalam docs
 
   themeConfig: {
     logo: '/elatihan-logo.png',
@@ -34,6 +32,18 @@ export default defineConfig({
           { text: 'Pengurusan Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai' },
           { text: 'Pengurusan Pengguna', link: '/admin/pengurusan-pengguna/tambah-pengguna' },
           { text: 'Pengurusan Emel', link: '/admin/pengurusan-emel/template-emel' }
+        ]
+      },
+
+      {
+        text: 'Dashboard',
+        items: [
+          { text: 'Pengarah Jabatan', link: '/dashboard/pengarah-jabatan/permohonan-latihan' },
+          { text: 'Admin Jabatan', link: '/dashboard/admin-jabatan/anggaran-perbelanjaan' },
+          { text: 'KBLK', link: '/dashboard/kblk/ulasan-permohonan-latihan' },
+          { text: 'JKP', link: '/dashboard/jkp/sokong-permohonan' },
+          { text: 'YDP', link: '/dashboard/ydp/kelulusan-latihan' },
+          { text: 'TYDP', link: '/dashboard/tydp/kelulusan-latihan' },
         ]
       }
     ],
@@ -66,6 +76,7 @@ export default defineConfig({
           ]
         }
       ],
+
       '/admin/': [
         {
           text: 'Laporan Latihan',
@@ -94,6 +105,48 @@ export default defineConfig({
           items: [
             { text: 'Menambah Template Emel', link: '/admin/pengurusan-emel/template-emel' },
             { text: 'Blast Emel', link: '/admin/pengurusan-emel/blast-emel' }
+          ]
+        }
+      ],
+
+      '/dashboard/': [
+        {
+          text: 'Dashboard Pengarah Jabatan',
+          items: [
+            { text: 'Sokong Permohonan Latihan', link: '/dashboard/pengarah-jabatan/permohonan-latihan' },
+            { text: 'Sokong Ketidakhadiran', link: '/dashboard/pengarah-jabatan/ketidakhadiran' }
+          ]
+        },
+        {
+          text: 'Dashboard Admin Jabatan',
+          items: [
+            { text: 'Isi Anggaran Perbelanjaan', link: '/dashboard/admin-jabatan/anggaran-perbelanjaan' },
+            { text: 'Daftar Peserta Latihan', link: '/dashboard/admin-jabatan/peserta-latihan' }
+          ]
+        },
+         {
+          text: ' Dashboard KBLK',
+          items: [
+            { text: 'Ulasan Permohonan Latihan', link: '/dashboard/kblk/ulasan-permohonan-latihan' }
+          ]
+        },
+        {
+          text: 'Dashboard Pengarah JKP',
+          items: [
+            { text: 'Sokongan Permohonan Latihan', link: '/dashboard/jkp/sokong-permohonan' }
+          ]
+        },
+        {
+          text: 'Dashboard YDP',
+          items: [
+            { text: 'Kelulusan Latihan', link: '/dashboard/ydp/kelulusan-latihan' }
+          ]
+        },
+        {
+          text: 'Dashboard (TYDP)',
+          items: [
+            { text: 'Kelulusan Latihan', link: '/dashboard/tydp/kelulusan-latihan' },
+            { text: 'Pengarah Jabatan', link: '/dashboard/tydp/pengarah-jabatan' }
           ]
         }
       ]
