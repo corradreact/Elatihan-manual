@@ -1,4 +1,4 @@
-# Panduan Sokongan Pengesahan Ketidakhadiran Kursus
+# Panduan Sokongan Pengesahan Ketidakhadiran Kursus 
 
 ::: info Tujuan
 Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan ketidakhadiran kursus bagi pemohon yang tidak menghadiri kursus atau latihan yang telah diluluskan.
@@ -9,7 +9,7 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 ::: tip Langkah 1
 1. Log masuk ke dalam Sistem E-Latihan
 2. Pilih menu Dashboard Tugasan
-3. Klik modul Sokongan Pengesahan Ketidakhadiran
+3. Klik modul **Sokongan Pengesahan Ketidakhadiran**
 4. Sistem akan memaparkan senarai pengguna yang tidak menghadiri kursus
 :::
 ![Senarai Tidak Hadir](/image/dashboard/senarai-tidk.png)
@@ -46,7 +46,6 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 
 ![Contoh 1](/image/dashboard/contoh1.png)
 :::
-
 ::: warning Nota
 
 1. Sistem akan memaparkan mesej **Diluluskan** atau **Ditolak** secara automatik

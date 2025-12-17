@@ -1,4 +1,4 @@
-# Panduan Sokongan Permohonan Latihan
+# Panduan Sokongan Permohonan Latihan Pengarah Jabatan
 
 ::: info Tujuan
 Membantu Pengarah Jabatan mengurus permohonan baharu yang dihantar oleh pemohon, termasuk membuat ulasan, memberi sokongan atau tidak melalui Sistem E-Latihan.
@@ -28,7 +28,7 @@ Membantu Pengarah Jabatan mengurus permohonan baharu yang dihantar oleh pemohon,
 :::
 ![Button Sokong 1](/image/dashboard/borang-1.png)
 
-### 3. Memberi Ulasan dan Sokongan Permohonan
+### 3. Memberi Ulasan dan Sokongan Permohonan (Bahagian D: Ulasan / Sokongan Pengarah Jabatan)
 ::: tip Langkah 3
 1. Pada bahagian Bahagian D: Ulasan / Sokongan Pengarah Jabatan
 2. Pilih salah satu pilihan berikut:

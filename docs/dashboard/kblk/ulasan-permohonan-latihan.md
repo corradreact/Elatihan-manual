@@ -10,8 +10,10 @@ Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyem
 ::: tip Langkah 1
 
 1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Ketua Bahagian Latihan & Kompetensi**
-2. Setelah berjaya log masuk, sistem akan memaparkan **Papan Pemuka Ketua Bahagian Latihan & Kompetensi**
+2. Pilih menu Dashboard Tugasan
+2. Sistem akan memaparkan **Papan Pemuka Ketua Bahagian Latihan & Kompetensi**
 :::
+![Dashboard](/image/dashboard/dashboard-kblk.png)
 
 ### 2. Melihat Senarai Permohonan dan menyemak Permohonan
 ::: tip Langkah 2
@@ -20,15 +22,17 @@ Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyem
 ![Semak](/image/dashboard/semak.png)
 
 2. Sistem akan memaparkan butiran penuh permohonan
-:::
 
+![Butiran](/image/dashboard/butiran-dashboard.png)
+
+:::
 ### 3. Menyemak Ulasan dan Sokongan Pengarah Jabatan (Bahagian D)
 
 ::: tip Langkah 3
 
-1) Di **Bahagian D: Ulasan / Sokongan Pengarah Jabatan**
+1) Di **Bahagian D: Ulasan Pengarah Jabatan**
 2) Semak perkara berikut:
-- Status sokongan Pengarah Jabatan (Disokong / Tidak Disokong)
+- Status sokongan Pengarah Jabatan (Diluluskan / Tidak Diluluskan)
 - Ulasan yang diberikan oleh Pengarah Jabatan
 - Pastikan sokongan dan ulasan adalah selaras dengan permohonan
 
@@ -41,17 +45,17 @@ Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyem
 
 :::
 
-### 4. Isikan ulasan pada ruangan Ulasan Ketua Bahagian Latihan & Kompetensi
+### 4. Memberi Ulasan dan Sokongan (Bahagian E: Ulasan Ketua Bahagian Latihan & Kompetensi)
 ![Ulasan](/image/dashboard/ulasan-kblk.png)
 ::: warning Tips Pengisian
-Pastikan ulasan:
-- Jelas
+1) Pastikan ulasan:
+- Jelas dan terperinci
 - Profesional
 - Berkaitan dengan keperluan latihan dan peruntukan
 
-Ulasan mestilah:
-- Minimum 10 aksara
-- Maksimum 255 aksara
+Ulasan hendaklah:
+- Mengandungi sekurang-kurangnya 10 aksara
+- Tidak melebihi 255 aksara
 :::
 
 ### 5. Menghantar Ulasan KBLK

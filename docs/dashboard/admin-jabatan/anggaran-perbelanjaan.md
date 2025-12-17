@@ -1,7 +1,7 @@
 # Anggaran Perbelanjaan oleh Admin Jabatan
 
 ::: info Tujuan 
-Panduan ini bertujuan membantu Admin Jabatan membuat semakan dan pengisian anggaran perbelanjaan latihan setelah permohonan disokong oleh Pengarah Jabatan, sebelum dihantar untuk proses seterusnya.
+Panduan ini bertujuan membantu Admin Jabatan membuat semakan dan pengisian anggaran perbelanjaan latihan setelah permohonan diluluskan oleh Pengarah Jabatan, sebelum dihantar untuk proses seterusnya.
 :::
 
 ## 1. Langkah-langkah Mengisi Anggaran Perbelanjaan
@@ -27,9 +27,9 @@ Panduan ini bertujuan membantu Admin Jabatan membuat semakan dan pengisian angga
 1. Setelah borang dibuka, skrin akan memaparkan maklumat permohonan lengkap
 2. Admin Jabatan perlu menyemak:
 - Bahagian D: Ulasan / Sokongan Pengarah Jabatan
-- Status sokongan (Disokong)
+- Status sokongan (Diluluskan)
 - Ulasan yang diberikan oleh Pengarah Jabatan
-- Pastikan permohonan telah disokong sebelum meneruskan pengisian anggaran perbelanjaan
+- Pastikan permohonan telah diluluskan sebelum meneruskan pengisian anggaran perbelanjaan
 :::
 ![Bahagian D](/image/dashboard/bahagian-d.png)
 
