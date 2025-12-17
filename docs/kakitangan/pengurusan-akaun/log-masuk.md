@@ -13,6 +13,7 @@ Manual ini menerangkan dua cara log masuk ke sistem.
 3. Pilih sistem **Latihan** dalam senarai sistem yang dipaparkan.
 4. Jika akaun anda aktif, anda akan terus dibawa ke papan pemuka (dashboard) sistem latihan.
 :::
+![Paparan Log Masuk](/image/kakitangan/login-sso.png)
 
 ## Cara 2 – Log Masuk Terus ke Halaman Sistem
 ::: tip Langkah 2

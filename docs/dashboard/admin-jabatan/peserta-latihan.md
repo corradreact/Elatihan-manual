@@ -55,13 +55,11 @@ Panduan ini bertujuan membantu Admin Jabatan mendaftarkan latihan setelah permoh
 2. Sistem memaparkan mesej:
 "Anda pasti mahu didaftarkan permohonan ini ke dalam rekod (status = Diluluskan)"
 ![Sahkan](/image/dashboard/sahkan-daftar.png)
-:::
 3. Klik **Batal** sekiranya ingin membuat semakan semula
 ![Batal](/image/dashboard/batal.png)
 
-3. Sistem akan mengemas kini status permohonan secara automatik.
+4. Sistem akan mengemas kini status permohonan secara automatik.
 :::
-
 ::: warning Nota
 - Pendaftaran latihan hanya boleh dibuat selepas kelulusan YDP
 - Course ID adalah maklumat **WAJIB** untuk tujuan rekod dan pengesanan latihan

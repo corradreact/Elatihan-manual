@@ -22,7 +22,7 @@ Membantu pengguna baru membuat pendaftaran ke dalam Sistem E-Latihan menggunakan
 
 ## 3. Pengesahan Pendaftaran
 ::: tip Nota
-1) Setelah menekan butang Daftar:
+1) Setelah menekan butang **Daftar Pengguna**:
 ![Button daftar](/image/kakitangan/btn-dftr.png)
 - Sistem akan menyemak No.Kad Pelanggan
 - Jika No.Kad Pelanggan sah dan belum pernah didaftarkan, sistem akan mencipta akaun pengguna baharu
