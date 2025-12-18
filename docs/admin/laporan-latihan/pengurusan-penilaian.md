@@ -18,7 +18,7 @@ Membantu admin untuk melihat dan mengurus status penilaian peserta bagi sesuatu 
 Setiap latihan mempunyai beberapa tindakan termasuk Peserta, Penceramah, dan Penilaian.
 
 ::: warning Tindakan
-Klik butang **"Penilaian"** untuk mengurus senarai penceramah bagi latihan tersebut.
+Klik butang **"Penilaian"** untuk melihat maklum balas (penilaian) yang diberikan oleh peserta.
 ![Penilaian](/image/admin/penilaian.png)
 :::
 
