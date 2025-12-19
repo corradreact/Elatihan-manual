@@ -8,6 +8,8 @@ Membantu pengguna baru membuat pendaftaran ke dalam Sistem Pengurusan Latihan On
 ::: tip Langkah 1
 1. Akses Halaman Utama
 2. Pada halaman utama, pilih menu **Daftar Pengguna**
+
+![Daftar](/image/kakitangan/daftar.png)
 :::
 
 ## 2. Masukkan No.Kad Pelanggan

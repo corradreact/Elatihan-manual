@@ -11,14 +11,14 @@ Manual ini menerangkan dua cara log masuk ke sistem.
 1. Buka pelayar web anda.
 2. Klik pautan **SSO** yang disediakan oleh MPS.
 3. Pilih sistem **Latihan** dalam senarai sistem yang dipaparkan.
-4. Jika akaun anda aktif, anda akan terus dibawa ke papan pemuka (dashboard) sistem latihan.
+4. Jika akaun anda aktif, anda akan terus dibawa ke papan pemuka (dashboard) Sistem Pengurusan Latihan Online (Smart Training).
 :::
 ![Paparan Log Masuk](/image/kakitangan/login-sso.png)
 
 ## Cara 2 – Log Masuk Terus ke Halaman Sistem
 ::: tip Langkah 2
 1. Buka pelayar web (contohnya Google Chrome).
-2. Layari URL halaman log masuk sistem latihan.  
+2. Layari URL halaman log masuk Sistem Pengurusan Latihan Online (Smart Training)  
    _Contoh:_ https://latihan.mps.gov.my.
 3. Masukkan:
    - **Username** SIM MPS anda

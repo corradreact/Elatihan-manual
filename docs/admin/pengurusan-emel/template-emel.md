@@ -44,9 +44,9 @@ Isikan maklumat berikut pada borang Template Emel:
 ![Edit](/image/admin/edit.png)  
 
 2) Sistem akan memaparkan maklumat sedia ada dalam borang
-3) Kemas kini nama, subjek atau kandungan template
-4) Klik butang **Simpan** untuk menyimpan perubahan
-![Simpan](/image/admin/btn-simpan.png)
+3) Kemaskini nama, subjek atau kandungan template
+4) Klik butang **Kemaskini** untuk menyimpan perubahan
+![Kemaskini](/image/admin/kemaskini.png)
 :::
 
 ### 5. Padam Template Emel Sedia Ada
