@@ -4,8 +4,8 @@
 Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyemak permohonan latihan luaran yang telah disokong oleh Pengarah Jabatan (PJ), dan disemak serta diisi anggaran perbelanjaan oleh Admin Jabatan.
 :::
 
-## Langkah-langkah Semakan oleh KBLK
-### 1. Log Masuk sebagai Ketua Bahagian Latihan & Kompetensi
+## Langkah-langkah Semakan oleh Ketua Bahagian Latihan & Kompetensi (KBLK)
+### 1. Log Masuk sebagai KBLK
 
 ::: tip Langkah 1
 
