@@ -59,19 +59,19 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 ![Dokumen Sokongan](/image/kakitangan/dokumen-sokongan.png)
 
 ### Hantar Permohonan
-
-1. Setelah semua maklumat lengkap, klik butang **Simpan Permohonan** atau **Hantar** 
-2. Sistem akan mengesahkan semua maklumat wajib
-3. Jika ada maklumat yang belum diisi, sistem akan menunjukkan mesej ralat
+::: warning Nota
+1. Setelah semua maklumat lengkap, klik butang **Simpan Permohonan** atau **Hantar** .
+2. Sistem akan mengesahkan semua maklumat wajib.
+3. Jika ada maklumat yang belum diisi, sistem akan menunjukkan mesej ralat.
 
 ![Ralat1](/image/kakitangan/ralat1.png)
 
 ### Pengesahan Penyerahan
 
 Apabila permohonan berjaya dihantar:
-- Sistem akan memaparkan mesej "Permohonan latihan luar dihantar untuk kelulusan"
-- Anda akan menerima emel pengesahan di alamat emel berdaftar
-- Permohonan akan masuk ke dalam sistem untuk semakan oleh pengurusan
+- Sistem akan memaparkan mesej "Permohonan latihan luar dihantar untuk kelulusan".
+- Anda akan menerima emel pengesahan di alamat emel berdaftar.
+- Permohonan akan masuk ke dalam sistem untuk semakan oleh pengurusan.
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
 
 ![Success1](/image/kakitangan/Success1.png)
