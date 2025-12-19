@@ -9,7 +9,7 @@ Panduan ini bertujuan membantu Ketua Bahagian Latihan & Kompetensi (KBLK) menyem
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Ketua Bahagian Latihan & Kompetensi**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Ketua Bahagian Latihan & Kompetensi**
 2. Pilih menu Dashboard Tugasan
 2. Sistem akan memaparkan **Papan Pemuka Ketua Bahagian Latihan & Kompetensi**
 :::

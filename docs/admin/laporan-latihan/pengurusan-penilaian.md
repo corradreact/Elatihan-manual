@@ -1,7 +1,7 @@
 # Panduan Penilaian Peserta
 
 ::: info Tujuan
-Membantu admin untuk melihat dan mengurus status penilaian peserta bagi sesuatu latihan. Modul ini memaparkan senarai peserta beserta kehadiran dan status penilaian mereka.
+Membantu admin untuk melihat dan mengurus status penilaian peserta bagi sesuatu latihan. Modul ini memaparkan senarai peserta beserta kehadiran dan status penilaian.
 :::
 
 ## Senarai Latihan

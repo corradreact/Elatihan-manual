@@ -7,7 +7,7 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 ## 1. Akses Modul Sokongan Ketidakhadiran
 
 ::: tip Langkah 1
-1. Log masuk ke dalam Sistem E-Latihan
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training)
 2. Pilih menu Dashboard Tugasan
 3. Klik modul **Sokongan Pengesahan Ketidakhadiran**
 4. Sistem akan memaparkan senarai pengguna yang tidak menghadiri kursus
@@ -37,8 +37,8 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 2. Klik butang **Sokong** pada lajur Tindakan
 ![SokongTidak Hadir](/image/dashboard/btn-skg-tak.png)
 
-3. Sistem akan memparkan Borang Pelepasan Tidak Menghadiri Latihan beserta Maklumat Pemohon dan Pengesahan Pengarah Jabatan
-4. Pengarah perlu mengisi ulasan (wajib) dan tick pada pengesahan keputusan
+3. Sistem akan memaparkan Borang Pelepasan Tidak Menghadiri Latihan beserta Maklumat Pemohon dan Pengesahan Pengarah Jabatan
+4. Pengarah perlu mengisi ulasan (wajib) dan tick -> tanda sah pada pengesahan keputusan
 
 ![Pengesahan](/image/dashboard/pengesahan.png)
 

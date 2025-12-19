@@ -1,13 +1,13 @@
 # Panduan Dashboard Timbalan Yang Dipertua (TYDP)
 ::: info Tujuan
-Panduan ini bertujuan membantu Timbalan Yang Dipertua (TYDP) membuat sokongan atau tidak sokong terhadap permohonan latihan Pengarah Jabatan (PJ) setelah permohonan yang dikemukakan.
+Panduan ini bertujuan membantu Timbalan Yang Dipertua (TYDP) membuat sokongan atau tidak disokong terhadap permohonan latihan Pengarah Jabatan (PJ) setelah permohonan yang dikemukakan.
 :::
 
 ## Langkah-langkah Semakan dan Sokongan oleh TYDP
 ### 1. Log Masuk sebagai Timbalan Yang Dipertua (TYDP)
 
 ::: tip Langkah 1
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Timbalan Yang Dipertua (TYDP)**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Timbalan Yang Dipertua (TYDP)**
 2. Pilih menu **Dashboard TYDP**
 3. Sistem akan memaparkan Papan Pemuka Timbalan Yang Dipertua
 :::

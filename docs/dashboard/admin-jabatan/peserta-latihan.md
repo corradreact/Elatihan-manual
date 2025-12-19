@@ -1,7 +1,7 @@
 # Panduan Pendaftaran Latihan oleh Admin Jabatan
 
 ::: info Tujuan
-Panduan ini bertujuan membantu Admin Jabatan mendaftarkan latihan setelah permohonan telah diluluskan oleh Yang Dipertua (YDP) melalui Sistem E-Latihan.
+Panduan ini bertujuan membantu Admin Jabatan mendaftarkan latihan setelah permohonan telah diluluskan oleh Yang Dipertua (YDP) melalui Sistem Pengurusan Latihan Online (Smart Training).
 :::
 
 ## Langkah-langkah Pendaftaran Latihan
@@ -9,7 +9,7 @@ Panduan ini bertujuan membantu Admin Jabatan mendaftarkan latihan setelah permoh
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Admin Jabatan**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Admin Jabatan**
 2. Pilih menu Dashboard Admin
 3. Sistem akan memaparkan Dashboard (Tindakan) yang memfokuskan kepada tindakan yang perlu dibuat oleh **Admin Jabatan**
 
@@ -62,6 +62,7 @@ Panduan ini bertujuan membantu Admin Jabatan mendaftarkan latihan setelah permoh
 :::
 ::: warning Nota
 - Pendaftaran latihan hanya boleh dibuat selepas kelulusan YDP
-- Course ID adalah maklumat **WAJIB** untuk tujuan rekod dan pengesanan latihan
+- Course ID adalah maklumat **WAJIB** untuk tujuan rekod pengesanan latihan dan peserta latihan
 - Pastikan maklumat yang didaftarkan adalah tepat bagi mengelakkan sebarang isu pentadbiran
+- Kegagalan untuk mendaftar Course ID yang tepat akan menyebabkan peserta tidak dapat melihat Latihan yang perlu disertai.
 :::

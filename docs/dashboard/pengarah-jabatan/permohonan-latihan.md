@@ -1,14 +1,14 @@
 # Panduan Sokongan Permohonan Latihan Pengarah Jabatan
 
 ::: info Tujuan
-Membantu Pengarah Jabatan mengurus permohonan baharu yang dihantar oleh pemohon, termasuk membuat ulasan, memberi sokongan atau tidak melalui Sistem E-Latihan.
+Membantu Pengarah Jabatan mengurus permohonan baharu yang dihantar oleh pemohon, termasuk membuat ulasan, memberi sokongan atau tidak melalui Sistem Pengurusan Latihan Online (Smart Training).
 :::
 ## Langkah-langkah Membuat Sokongan Permohonan Latihan
 ### 1. Akses Dashboard Pengarah Jabatan
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training)
 2. Pilih menu **Dashboard Tugasan**
 3. Dashboard ini akan memaparkan senarai Permohonan Baharu daripada pemohon
 :::
@@ -32,7 +32,7 @@ Membantu Pengarah Jabatan mengurus permohonan baharu yang dihantar oleh pemohon,
 ::: tip Langkah 3
 1. Pada bahagian Bahagian D: Ulasan / Sokongan Pengarah Jabatan
 2. Pilih salah satu pilihan berikut:
-- Disokong / Tidak Sokong 
+- Disokong / Tidak disokong 
 3. Isikan ulasan Pengarah Jabatan pada ruangan Ulasan
 ![Ulasan PJ](/image/dashboard/ulasan-pj.png)
 

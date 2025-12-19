@@ -1,7 +1,7 @@
 # Panduan Senarai Permohonan & Lihat Butiran
 
 ::: info Tujuan
-Membantu pengguna admin untuk melihat senarai semua permohonan latihan mereka dan melihat detail lengkap setiap permohonan termasuk Status Permohonan, Butiran dan Lampiran Dokumen
+Membantu pengguna admin untuk melihat senarai semua permohonan latihan dan melihat detail lengkap setiap permohonan termasuk Status Permohonan, Butiran dan Lampiran Dokumen
 :::
 
 ## Senarai Permohonan

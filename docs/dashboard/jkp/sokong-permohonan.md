@@ -7,12 +7,12 @@ Panduan ini bertujuan membantu Jawatankuasa Kelulusan Program (JKP) menyemak per
 - Disokong oleh Ketua Bahagian Latihan & Kompetensi (KBLK)
 :::
 
-## Langkah-langkah Semakan oleh KBLK
+## Langkah-langkah Semakan oleh Jawatankuasa Kelulusan Program (JKP)
 ### 1. Log Masuk sebagai Ketua Bahagian Latihan & Kompetensi
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Jawatankuasa Kelulusan Program (JKP)**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Jawatankuasa Kelulusan Program (JKP)**
 2. Pilih menu Dashboard Tugasan
 2. Sistem akan memaparkan **Papan Pemuka Jawatankuasa Kelulusan Program**
 :::

@@ -4,12 +4,12 @@
 Panduan ini bertujuan membantu Yang Dipertua (YDP) membuat keputusan diluluskan atau tidak diluluskan bagi permohonan latihan luaran setelah meneliti keseluruhan borang permohonan dan sokongan yang telah diberikan.
 :::
 
-## Langkah-langkah Semakan oleh KBLK
+## Langkah-langkah Semakan oleh Yang Dipertua (YDP)
 ### 1. Log Masuk sebagai Ketua Bahagian Latihan & Kompetensi
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Yang Dipertua (YDP)**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Yang Dipertua (YDP)**
 2. Pilih menu Dashboard Tugasan
 2. Sistem akan memaparkan **Papan Pemuka Yang Dipertua**
 :::

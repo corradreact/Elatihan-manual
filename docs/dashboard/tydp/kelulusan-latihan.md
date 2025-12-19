@@ -4,14 +4,14 @@
 Panduan ini bertujuan membantu Timbalan Yang Dipertua (TYDP) membuat keputusan diluluskan atau tidak diluluskan bagi permohonan latihan luaran setelah meneliti keseluruhan borang permohonan dan sokongan yang telah diberikan.
 :::
 
-## Langkah-langkah Semakan oleh KBLK
+## Langkah-langkah Semakan oleh Timbalan Yang Dipertua (TYDP)
 ### 1. Log Masuk sebagai Ketua Bahagian Latihan & Kompetensi
 
 ::: tip Langkah 1
 
-1. Log masuk ke dalam Sistem E-Latihan menggunakan peranan **Timbalan Yang Dipertua (YDP)**
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Timbalan Yang Dipertua (YDP)**
 2. Pilih menu Dashboard TYDP
-2. Sistem akan memaparkan **Papan Pemuka Yang Dipertua**
+2. Sistem akan memaparkan **Papan Pemuka Timbalan Yang Dipertua**
 :::
 ![Dashboard](/image/dashboard/dashboard-tydp.png)
 

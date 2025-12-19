@@ -6,7 +6,7 @@ Panduan ini bertujuan membantu Admin Jabatan membuat semakan dan pengisian angga
 
 ## 1. Langkah-langkah Mengisi Anggaran Perbelanjaan
 ::: tip Langkah 1
-1. Log masuk ke dalam Sistem E-Latihan sebagai Admin Jabatan
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) sebagai Admin Jabatan
 2. Pilih menu Dashboard Admin
 3. Senarai permohonan yang telah mendapat Sokongan Pengarah Jabatan akan dipaparkan
 

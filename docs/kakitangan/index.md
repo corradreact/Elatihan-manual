@@ -4,7 +4,7 @@ title: Manual Pengguna Kakitangan
 
 # Manual Pengguna Kakitangan
 
-Selamat datang ke Manual Pengguna Sistem E-Latihan. Halaman ini mengandungi pautan cepat untuk modul-modul yang paling kerap digunakan oleh pegawai/kakitangan.
+Selamat datang ke Manual Pengguna Sistem Pengurusan Latihan Online (Smart Training). Halaman ini mengandungi pautan cepat untuk modul-modul yang paling kerap digunakan oleh pegawai/kakitangan.
 
 ## Utama
 

@@ -4,8 +4,8 @@ title: E-Latihan
 
 hero:
   name: E-Latihan
-  text: Manual Pengguna Sistem E-Latihan
-  tagline: Panduan lengkap penggunaan Sistem E-Latihan untuk Kkai dan admin.
+  text: Manual Pengguna Sistem Pengurusan Latihan Online (Smart Training)
+  tagline: Panduan lengkap penggunaan Sistem Pengurusan Latihan Online (Smart Training) untuk Kkai dan admin.
   image:
     src: /elatihan-logo.png
     alt: Logo Majlis Perbandaran Selayang

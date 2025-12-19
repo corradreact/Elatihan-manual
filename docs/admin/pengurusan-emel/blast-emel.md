@@ -11,7 +11,7 @@ Membantu admin menghantar emel kursus secara pukal (blast) kepada peserta latiha
 
 1. Log masuk ke dalam sistem
 2. Pilih menu **Blast Emel**
-3. Sistem akan memaparkan senarai kursus, jenis template, protonton dan serta senarai pemphon.
+3. Sistem akan memaparkan senarai kursus, jenis template, protonton dan serta senarai penerima.
 :::
 ![Blast Emel](/image/admin/blast-emel.png)
 

@@ -1,7 +1,7 @@
 # Panduan Pendaftaran Pengguna
 
 ::: info Tujuan
-Membantu pengguna baru membuat pendaftaran ke dalam Sistem E-Latihan menggunakan No Kad Pengenalan. Setelah pendaftaran berjaya, pengguna boleh log masuk menggunakan kata laluan sama seperti Sistem SIM.
+Membantu pengguna baru membuat pendaftaran ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan No Kad Pengenalan. Setelah pendaftaran berjaya, pengguna boleh log masuk menggunakan kata laluan sama seperti Sistem SIM.
 :::
 
 ## 1. Langkah-langkah Pendaftaran Pengguna

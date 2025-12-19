@@ -1,6 +1,6 @@
 # Panduan Daftar Kehadiran Latihan
 ::: info Tujuan
-Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran mereka.
+Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran.
 ::: 
 
 ## Papan Pemuka Pengguna

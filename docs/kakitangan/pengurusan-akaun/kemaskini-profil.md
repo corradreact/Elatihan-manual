@@ -1,7 +1,7 @@
 # Panduan Kemaskini Profil
 
 ::: info Tujuan
-Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
+Membantu pengguna untuk mengemaskini maklumat profil dalam Sistem Pengurusan Latihan Online (Smart Training).
 :::
 
 ## Langkah-langkah Kemaskini Profil
@@ -9,7 +9,7 @@ Membantu pengguna untuk mengemaskini maklumat profil dalam sistem E-Latihan.
 ### 1. Akses Menu Kemaskini Profil
 
 ::: tip Langkah 1
-1. Log masuk ke dalam sistem E-Latihan
+1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training)
 2. Pada paparan Dashboard, klik pada kad **Profil**
 3. Kad ini membolehkan anda mengemaskini maklumat profil anda
 :::
