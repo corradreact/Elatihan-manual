@@ -238,7 +238,7 @@ export default defineConfig({
         text: 'TYDP',
           items: [
             { text: 'Kelulusan Latihan', link: '/tydp/tydp/kelulusan-latihan' },
-            { text: 'Pandangan Pengarah Jabatan', link: '/tydp/tydp/pengarah-jabatan' }
+            { text: 'Pengarah Jabatan', link: '/tydp/tydp/pengarah-jabatan' }
           ]
         },
         {
