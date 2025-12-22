@@ -1,12 +1,8 @@
 
----
-title: Manual Pengguna Admin Jabatan
----
 
 # Manual Pengguna Admin Jabatan
 
-Selamat datang ke Manual Pengguna **Admin Jabatan** bagi Sistem Pengurusan Latihan Online (Smart Training).  
-Peranan ini bertanggungjawab mengurus penyertaan latihan, anggaran perbelanjaan, laporan serta tetapan berkaitan latihan di peringkat jabatan.
+Peranan  **Admin Jabatan** ini bertanggungjawab mengurus penyertaan latihan, anggaran perbelanjaan, laporan serta tetapan berkaitan latihan di peringkat jabatan.
 
 ## Utama
 

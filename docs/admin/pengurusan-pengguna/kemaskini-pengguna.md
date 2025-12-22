@@ -1,7 +1,7 @@
 # Panduan Kemaskini Maklumat Pengguna
 
 ::: info Tujuan
-Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang mempunyai butang Enable Edit boleh dikemaskini.
+Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang mempunyai butang Edit boleh dikemaskini.
 :::
 
 ## Langkah-langkah Kemaskini Pengguna
@@ -17,7 +17,7 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 
 ::: tip Langkah 2 
 1) Pilih Pengguna Untuk Dikemaskini
-2) Admin hanya boleh mengedit pengguna yang mempunyai butang **Enable Edit**.
+2) Admin hanya boleh mengedit pengguna yang mempunyai butang **Edit**.
 :::
 
 ![Edit](/image/admin/btn-edit.png)
@@ -32,12 +32,12 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 :::
 
 ::: warning Nota
-- Jika butang Enable Edit tidak wujud atau tidak aktif, pengguna tersebut tidak boleh dikemaskini oleh admin.
+- Jika butang edit tidak wujud atau tidak aktif, pengguna tersebut tidak boleh dikemaskini oleh admin.
 :::
 
 ::: tip Langkah 3
 
-1) Setelah klik Enable Edit, borang kemaskini akan dipaparkan.
+1) Setelah klik edit, borang kemaskini akan dipaparkan.
 2) Maklumat yang boleh dikemaskini termasuk:
 - Nama pengguna
 - Emel
