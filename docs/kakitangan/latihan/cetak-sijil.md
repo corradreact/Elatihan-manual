@@ -1,7 +1,7 @@
 
 # Cetak Sijil
 ::: info Tujuan
-Pemohon boleh memuat turun sijil penyertaan selepas penilaian diserahkan dan latihan berstatus **Selesai**.
+Pemohon boleh memuat turun sijil penyertaan selepas penilaian dihantar dan latihan berstatus **Selesai**.
 :::
 
 ## Cara Mendapatkan Sijil

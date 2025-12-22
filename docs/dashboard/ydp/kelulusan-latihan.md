@@ -11,7 +11,7 @@ Panduan ini bertujuan membantu Yang Dipertua (YDP) membuat keputusan diluluskan 
 
 1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Yang Dipertua (YDP)**
 2. Pilih menu Dashboard Tugasan
-2. Sistem akan memaparkan **Papan Pemuka Yang Dipertua**
+2. Sistem akan memaparkan **Paparan Utama Yang Dipertua**
 :::
 ![Dashboard](/image/dashboard/dashboard-jkp.png)
 

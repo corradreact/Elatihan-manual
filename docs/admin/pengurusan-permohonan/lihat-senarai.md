@@ -16,7 +16,8 @@ Membantu pengguna admin untuk melihat senarai semua permohonan latihan dan melih
 
 ### 2. Paparan Halaman Senarai Permohonan
 
-Halaman ini memaparkan jadual berikut dengan lajur-lajur:
+Halaman ini memaparkan senarai permohonan:
+
 ![Senarai Permohonan](/image/admin/senarai-permohonan.png)
 
 ### 3. Status Permohonan
@@ -36,7 +37,7 @@ Sistem menggunakan beberapa status untuk permohonan:
 
 ::: tip Mencari Permohonan
 Gunakan kolum "Cari Tajuk" untuk:
-- Mengetik nama atau sebahagian daripada tajuk latihan
+- Masukkan nama atau sebahagian daripada tajuk latihan
 - Sistem akan menapis senarai secara automatik
 :::
 
@@ -49,15 +50,15 @@ Gunakan kolum "Cari Tajuk" untuk:
    - **Dalam Proses** - Hanya permohonan yang masih dalam proses
    - **Selesai** - Hanya permohonan yang telah diluluskan
    - **Gagal** - Hanya permohonan yang telah ditolak
-3. Jadual akan dikemas kini secara automatik
+3. Senarai akan dikemas kini secara automatik
 :::
 
-#### CarianTarikh
+#### Carian Tarikh
 
 ::: tip Menggunakan CarianTarikh
 1. Pada kolum **"Tarikh Mula Latihan (dari)"**
 2. Pilih tarikh menggunakan pemilih tarikh
-3. Sistem akan menampilkan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
+3. Sistem akan menyenaraikan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
 :::
 ![Carian1](/image/admin/Carian1.png)
 
@@ -73,7 +74,7 @@ Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
 
 ## Halaman Lihat Butiran Permohonan
 ::: tip Butiran Permohonan
-Setelah klik butang **"Lihat Butiran"**, anda akan melihat modal atau halaman baru yang menunjukkan semua detail permohonan.
+Setelah klik butang **"Lihat Butiran"**, anda akan melihat paparan atau halaman baru yang menunjukkan semua detail permohonan.
 :::
 ![Lihat Butiran](/image/admin/lihat-butiran.png)
 

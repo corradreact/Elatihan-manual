@@ -14,7 +14,7 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 ---
 
 
-### 2. Semua 4 bahagian **WAJIB** diisi sebelum diserahkan.
+### 2. Semua 4 bahagian **WAJIB** diisi sebelum dihantar.
 ### Bahagian A: Pelaksanaan Kursus
 
 ![Bahagian A](/image/kakitangan/bahagiana.png)
@@ -38,7 +38,7 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 ::: tip Langkah 3
 Setelah mengisi semua 4 bahagian:
 1. Periksa semua jawapan
-2. Klik **"Sahkan dan Serah"**
+2. Klik **"Sahkan dan Hantar"**
 :::
 
 ### 4. Popup Pengesahan
@@ -49,8 +49,8 @@ Setelah mengisi semua 4 bahagian:
 ![Sahkan](/image/kakitangan/Sahkan.png)
 
 Pilih:
-- **Batal** - Kembali ke borang untuk ubah jawaban
-- **Sahkan** - Sahkan dan serahkan penilaian
+- **Batal** - Kembali ke borang untuk ubah jawapan
+- **Sahkan** - Sahkan dan hantar penilaian
 Selepas klik **"Sahkan"**, penilaian akan dihantar.
 ![Sahlan](/image/kakitangan/success4.png)
 :::
@@ -59,7 +59,7 @@ Selepas klik **"Sahkan"**, penilaian akan dihantar.
 ::: warning Nota
 - Semua 4 bahagian **WAJIB** diisi
 - Tidak boleh ada soalan yang kosong
-- Tidak dapat diubah setelah diserahkan
+- Tidak dapat diubah setelah dihantar
 - Isi segera setelah kursus selesai
 :::
 

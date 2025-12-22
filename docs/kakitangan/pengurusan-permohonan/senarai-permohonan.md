@@ -16,7 +16,7 @@ Membantu pengguna kakitangan untuk melihat senarai semua permohonan latihan dan 
 
 ### 2. Paparan Halaman Senarai Permohonan
 
-Halaman ini memaparkan jadual berikut dengan lajur-lajur:
+Halaman ini memaparkan senarai permohonan berikut:
 ![Senarai Permohonan](/image/kakitangan/senarai-permohonan.png)
 
 ### 3. Status Permohonan
@@ -44,11 +44,11 @@ Klik butang biru **"Mohon Latihan Luar Baru"** di bahagian atas halaman untuk me
 
 ::: tip Mencari Permohonan
 Gunakan kolum "Cari Tajuk" untuk:
-- Mengetik nama atau sebahagian daripada tajuk latihan
+- Masukkan nama atau sebahagian daripada tajuk latihan
 - Sistem akan menapis senarai secara automatik
 :::
 
-#### CarianStatus
+#### Carian Status
 
 ::: tip Menggunakan CarianStatus
 1. Klik pada dropdown **"Status Permohonan"**
@@ -57,22 +57,25 @@ Gunakan kolum "Cari Tajuk" untuk:
    - **Menunggu Kelulusan** - Hanya permohonan yang masih dalam proses
    - **Selesai** - Hanya permohonan yang telah diluluskan
    - **Ditolak** - Hanya permohonan yang telah ditolak
-3. Jadual akan dikemas kini secara automatik
+3. Senarai akan dikemas kini secara automatik
 :::
 
-#### CarianTarikh
+#### Carian Tarikh
 
 ::: tip Menggunakan CarianTarikh
 1. Pada kolum **"Tarikh Mula Latihan (dari)"**
 2. Pilih tarikh menggunakan pemilih tarikh
-3. Sistem akan menampilkan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
-:::
+3. Sistem akan menyenaraikan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
+
 ![Carian1](/image/kakitangan/Carian1.png)
+:::
 
 #### Butang Lihat Butiran
 
 ::: warning Tindakan
+![Senarai Permohonan](/image/kakitangan/lihat-butiran2.png) 
 Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
+
 - Semua maklumat detail permohonan
 - Semua bahagian borang (A, B, C, D, E)
 - Status kelulusan
@@ -81,7 +84,7 @@ Klik pada butang **"Lihat Butiran"** di lajur Tindakan untuk melihat:
 
 ## Halaman Lihat Butiran Permohonan
 ::: tip Butiran Permohonan
-Setelah klik butang **"Lihat Butiran"**, anda akan melihat modal atau halaman baru yang menunjukkan semua detail permohonan.
+Setelah klik butang **"Lihat Butiran"**, anda akan melihat paparan atau halaman baru yang menunjukkan semua detail permohonan.
 :::
 ![Lihat Butiran](/image/kakitangan/lihat-butiran.png)
 

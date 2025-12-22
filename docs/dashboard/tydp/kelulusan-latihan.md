@@ -11,7 +11,7 @@ Panduan ini bertujuan membantu Timbalan Yang Dipertua (TYDP) membuat keputusan d
 
 1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Timbalan Yang Dipertua (YDP)**
 2. Pilih menu Dashboard TYDP
-2. Sistem akan memaparkan **Papan Pemuka Timbalan Yang Dipertua**
+2. Sistem akan memaparkan **Paparan Utama Timbalan Yang Dipertua**
 :::
 ![Dashboard](/image/dashboard/dashboard-tydp.png)
 

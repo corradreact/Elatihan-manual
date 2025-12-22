@@ -14,7 +14,7 @@ Panduan ini bertujuan membantu Jawatankuasa Kelulusan Program (JKP) menyemak per
 
 1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Jawatankuasa Kelulusan Program (JKP)**
 2. Pilih menu Dashboard Tugasan
-2. Sistem akan memaparkan **Papan Pemuka Jawatankuasa Kelulusan Program**
+2. Sistem akan memaparkan **Paparan Utama Jawatankuasa Kelulusan Program**
 :::
 ![Dashboard](/image/dashboard/dashboard-jkp.png)
 

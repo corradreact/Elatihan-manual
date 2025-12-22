@@ -68,8 +68,8 @@ export default defineConfig({
         {
           text: 'Latihan Luaran / Dalaman',
           items: [
-            { text: 'Daftar Kedatangan', link: '/kakitangan/latihan/daftar-kedatangan' },
-            { text: 'Daftar Ketidakhadiran', link: '/kakitangan/latihan/daftar-ketidakhadiran' },
+            { text: 'Daftar Kedatangan (Hadir)', link: '/kakitangan/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/kakitangan/latihan/daftar-ketidakhadiran' },
             { text: 'Penilaian Latihan', link: '/kakitangan/latihan/penilaian-latihan' },
             { text: 'Cetak Sijil (Latihan Dalaman)', link: '/kakitangan/latihan/cetak-sijil' },
             { text: 'Senarai Latihan Terlibat', link: '/kakitangan/latihan/senarai-latihan' }

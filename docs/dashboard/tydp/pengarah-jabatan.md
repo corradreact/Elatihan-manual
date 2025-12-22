@@ -9,13 +9,13 @@ Panduan ini bertujuan membantu Timbalan Yang Dipertua (TYDP) membuat sokongan at
 ::: tip Langkah 1
 1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training) menggunakan peranan **Timbalan Yang Dipertua (TYDP)**
 2. Pilih menu **Dashboard TYDP**
-3. Sistem akan memaparkan Papan Pemuka Timbalan Yang Dipertua
+3. Sistem akan memaparkan Paparan Utama Timbalan Yang Dipertua
 :::
 
 ### 2. Melihat Senarai Permohonan Menunggu Sokongan
 
 ::: tip Langkah 2
-1. Pada papan pemuka, sistem akan memaparkan senarai **Sokongan Permohonan Latihan Pengarah Jabatan**
+1. Pada paparan utama, sistem akan memaparkan senarai **Sokongan Permohonan Latihan Pengarah Jabatan**
 ![PJ](/image/dashboard/senarai-pj.png)
 2. Permohonan ini melibatkan latihan yang dipohon oleh Pengarah Jabatan (PJ)
 3. Klik butang **Sokong** untuk melihat butiran permohonan

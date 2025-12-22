@@ -3,11 +3,11 @@
 Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran.
 ::: 
 
-## Papan Pemuka Pengguna
+## Paparan Utama Pengguna
 
 ::: tip Langkah 1
 1. Log masuk ke sistem
-2. Anda akan melihat **Dashboard Pengguna** dengan tab-tab:
+2. Anda akan melihat **Dashboard Pengguna** dengan paparan:
    - **Hari Ini** - Latihan hari ini
    - **Akan Datang** - Latihan yang akan datang
    - **Senarai Latihan** - Latihan yang telah selesai
@@ -20,10 +20,10 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran.
 ### 1. Pilih Latihan
 
 ::: tip Langkah 1
-1. Pada papan pemuka, cari latihan yang ingin anda daftarkan kehadirannya
+1. Pada paparan utama, cari latihan yang ingin anda daftarkan kehadirannya
 2. Klik pada latihan atau butang **"Kehadiran"** 
 ![Kehadiran](/image/kakitangan/kehadiran.png)
-3. Satu modal akan muncul memaparkan maklumat latihan dan pilihan kehadiran
+3. Satu paparan akan muncul memaparkan maklumat latihan dan pilihan kehadiran
 :::
 
 <!-- ![Pilih Kehadiran](/image/kakitangan/pilih-kehadiran.png) -->
@@ -31,7 +31,7 @@ Peserta latihan dapat melihat senarai latihan dan mendaftar kehadiran.
 ### 2. Pilih Status Kehadiran
 
 ::: tip Langkah 2
-Modal akan muncul dengan pertanyaan: **"Pengesahan Kehadiran"**
+Paparan akan muncul dengan pertanyaan: **"Pengesahan Kehadiran"**
 
 Pilih salah satu:
 - **Hadir** (Butang Biru) - Jika anda akan hadir atau telah hadir di latihan
@@ -62,14 +62,14 @@ Pilih salah satu:
 Jika berjaya:
 - Akan muncul mesej **"Kehadiran Direkodkan"**
 ![Hantar](/image/kakitangan/success2-hadir.png)
-- Status kehadiran akan berubah menjadi **"Hadir"** pada papan pemuka
+- Status kehadiran akan berubah menjadi **"Hadir"** pada paparan utama
 
 Jika ada ralat:
 - Akan muncul mesej ralat merah: **"Sila pilih gambar untuk dimuat naik"**
 ![Ralat](/image/kakitangan/ralat2.png)
 - Pastikan sudah memilih fail sebelum tekan butang hantar.
 :::
-## Status Kehadiran Pada Papan Pemuka
+## Semak Status Kehadiran
 
 Selepas berjaya menghantar, status akan berubah:
 
