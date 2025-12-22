@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'ms-MY',
   title: 'E-Latihan',
-  description: 'Manual Pengguna kakitangan dan Admin untuk Sistem Latihan',
+  description: 'Manual Pengguna Kakitangan dan Admin untuk Sistem Latihan',
+
   head: [
     ['link', { rel: 'icon', href: '/elatihan-logo.png' }]
   ],
@@ -11,51 +12,21 @@ export default defineConfig({
   themeConfig: {
     logo: '/elatihan-logo.png',
 
-    nav: [
-      { text: 'Utama', link: '/' },
-
-      {
-        text: 'Kakitangan',
-        items: [
-          { text: 'Manual Kakitangan (Utama)', link: '/kakitangan/' },
-          { text: 'Pengurusan Akaun', link: '/kakitangan/pengurusan-akaun/pendaftaran-pengguna' },
-          { text: 'Pengurusan Permohonan', link: '/kakitangan/pengurusan-permohonan/permohonan-latihan-luaran' },
-          { text: 'Latihan Luaran / Dalaman', link: '/kakitangan/latihan/daftar-kedatangan' }
-        ]
-      },
-
-      {
-        text: 'Admin',
-        items: [
-          { text: 'Manual Admin (Utama)', link: '/admin/' },
-          { text: 'Laporan Latihan', link: '/admin/laporan-latihan/pengurusan-peserta' },
-          { text: 'Pengurusan Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai' },
-          { text: 'Pengurusan Pengguna', link: '/admin/pengurusan-pengguna/tambah-pengguna' },
-          { text: 'Pengurusan Emel', link: '/admin/pengurusan-emel/template-emel' }
-        ]
-      },
-
-      {
-        text: 'Dashboard',
-        items: [
-          { text: 'Pengarah Jabatan', link: '/dashboard/pengarah-jabatan/permohonan-latihan' },
-          { text: 'Admin Jabatan', link: '/dashboard/admin-jabatan/anggaran-perbelanjaan' },
-          { text: 'KBLK', link: '/dashboard/kblk/ulasan-permohonan-latihan' },
-          { text: 'JKP', link: '/dashboard/jkp/sokong-permohonan' },
-          { text: 'YDP', link: '/dashboard/ydp/kelulusan-latihan' },
-          { text: 'TYDP', link: '/dashboard/tydp/kelulusan-latihan' },
-        ]
-      }
-    ],
+    // nav sengaja kosong – entry guna index.md
+    // nav: [],
 
     sidebar: {
+
+      /* =======================
+         KAKITANGAN
+         ======================= */
       '/kakitangan/': [
         {
-          text: 'Pengurusan Akaun',
+          text: 'Dashboard (Latihan Luaran / Dalaman)',
           items: [
-            { text: 'Pendaftaran Pengguna', link: '/kakitangan/pengurusan-akaun/pendaftaran-pengguna' },
-            { text: 'Log Masuk', link: '/kakitangan/pengurusan-akaun/log-masuk' },
-            { text: 'Kemaskini Profil', link: '/kakitangan/pengurusan-akaun/kemaskini-profil' }
+            { text: 'Daftar Kedatangan (Hadir)', link: '/kakitangan/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/kakitangan/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/kakitangan/latihan/senarai-latihan' }
           ]
         },
         {
@@ -66,87 +37,107 @@ export default defineConfig({
           ]
         },
         {
-          text: 'Latihan Luaran / Dalaman',
+          text: 'Penilaian Latihan & Cetakan Sijil',
           items: [
-            { text: 'Daftar Kedatangan (Hadir)', link: '/kakitangan/latihan/daftar-kedatangan' },
-            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/kakitangan/latihan/daftar-ketidakhadiran' },
-            { text: 'Penilaian Latihan', link: '/kakitangan/latihan/penilaian-latihan' },
-            { text: 'Cetak Sijil (Latihan Dalaman)', link: '/kakitangan/latihan/cetak-sijil' },
-            { text: 'Senarai Latihan Terlibat', link: '/kakitangan/latihan/senarai-latihan' }
+            { text: 'Penilaian Latihan (Dalaman)', link: '/kakitangan/latihan/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan (Dalaman)', link: '/kakitangan/latihan/cetak-sijil' }
           ]
         }
       ],
 
-      '/admin/': [
+      /* =======================
+         ADMIN IT
+         ======================= */
+      '/adminIT/': [
+        {
+          text: 'Pengurusan Pengguna',
+          items: [
+            { text: 'Tambah Pengguna', link: '/adminIT/pengurusan-pengguna/tambah-pengguna' },
+            { text: 'Kemaskini Pengguna', link: '/adminIT/pengurusan-pengguna/kemaskini-pengguna' }
+          ]
+        },
         {
           text: 'Laporan Latihan',
           items: [
-            { text: 'Pengurusan Peserta', link: '/admin/laporan-latihan/pengurusan-peserta' },
-            { text: 'Pengurusan Penceramah (Latihan Dalaman)', link: '/admin/laporan-latihan/pengurusan-penceramah' },
-            { text: 'Pengurusan Penilaian', link: '/admin/laporan-latihan/pengurusan-penilaian' }
+            { text: 'Pengurusan Peserta', link: '/adminIT/laporan-latihan/pengurusan-peserta' },
+            { text: 'Pengurusan Penceramah (Dalaman)', link: '/adminIT/laporan-latihan/pengurusan-penceramah' },
+            { text: 'Pengurusan Penilaian', link: '/adminIT/laporan-latihan/pengurusan-penilaian' }
           ]
         },
         {
           text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Lihat Senarai Permohonan', link: '/admin/pengurusan-permohonan/lihat-senarai' },
-            { text: 'Tetapan Tempoh Permohonan Latihan Luaran', link: '/admin/pengurusan-permohonan/tempoh-permohonan' }
-          ]
-        },
-        {
-          text: 'Pengurusan Pengguna (Admin IT)',
-          items: [
-            { text: 'Tambah Pengguna (Admin Jabatan Sahaja)', link: '/admin/pengurusan-pengguna/tambah-pengguna' },
-            { text: 'Kemaskini Pengguna', link: '/admin/pengurusan-pengguna/kemaskini-pengguna' }
-          ]
-        },
-        {
-          text: 'Pengurusan Emel',
-          items: [
-            { text: 'Menambah Template Emel', link: '/admin/pengurusan-emel/template-emel' },
-            { text: 'Blast Emel', link: '/admin/pengurusan-emel/blast-emel' }
+            { text: 'Lihat Senarai Permohonan', link: '/adminIT/pengurusan-permohonan/senarai-permohonan' }
           ]
         }
       ],
 
-      '/dashboard/': [
+      /* =======================
+         ADMIN JABATAN
+         ======================= */
+      '/adminjab/': [
         {
-          text: 'Dashboard Pengarah Jabatan',
+          text: 'Dashboard Admin',
           items: [
-            { text: 'Sokong Permohonan Latihan', link: '/dashboard/pengarah-jabatan/permohonan-latihan' },
-            { text: 'Sokong Ketidakhadiran', link: '/dashboard/pengarah-jabatan/ketidakhadiran' }
+            { text: 'Isi Anggaran Perbelanjaan', link: '/adminjab/tugasan/anggaran-perbelanjaan' },
+            { text: 'Daftar Peserta Latihan', link: '/adminjab/tugasan/peserta-latihan' }
           ]
         },
         {
-          text: 'Dashboard Admin Jabatan',
+          text: 'Laporan Latihan',
           items: [
-            { text: 'Isi Anggaran Perbelanjaan', link: '/dashboard/admin-jabatan/anggaran-perbelanjaan' },
-            { text: 'Daftar Peserta Latihan', link: '/dashboard/admin-jabatan/peserta-latihan' }
-          ]
-        },
-         {
-          text: ' Dashboard KBLK',
-          items: [
-            { text: 'Ulasan Permohonan Latihan', link: '/dashboard/kblk/ulasan-permohonan-latihan' }
+            { text: 'Pengurusan Peserta', link: '/adminjab/laporan-latihan/pengurusan-peserta' },
+            { text: 'Pengurusan Penceramah (Dalaman)', link: '/adminjab/laporan-latihan/pengurusan-penceramah' },
+            { text: 'Pengurusan Penilaian', link: '/adminjab/laporan-latihan/pengurusan-penilaian' }
           ]
         },
         {
-          text: 'Dashboard Pengarah JKP',
+          text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Sokongan Permohonan Latihan', link: '/dashboard/jkp/sokong-permohonan' }
+            { text: 'Lihat Senarai Permohonan', link: '/adminjab/pengurusan-permohonan/senarai-permohonan' }
           ]
         },
         {
-          text: 'Dashboard YDP',
+          text: 'Tetapan & Pengurusan Emel',
           items: [
-            { text: 'Kelulusan Latihan', link: '/dashboard/ydp/kelulusan-latihan' }
+            { text: 'Urus Tempoh Permohonan', link: '/adminjab/pengurusan-emel/tempoh-permohonan' },
+            { text: 'Urus Template Emel', link: '/adminjab/pengurusan-emel/template-emel' },
+            { text: 'Blast Emel Jemputan', link: '/adminjab/pengurusan-emel/blast-emel' }
+          ]
+        }
+      ],
+
+      /* =======================
+         PENGARAH JABATAN (PJ)
+         ======================= */
+      '/pj/': [
+        {
+          text: 'Dashboard Tugasan',
+          items: [
+            { text: 'Sokong Permohonan Latihan Luaran', link: '/pj/tugasan/permohonan-latihan' },
+            { text: 'Sokong Ketidakhadiran', link: '/pj/tugasan/ketidakhadiran' }
           ]
         },
         {
-          text: 'Dashboard (TYDP)',
+          text: 'Latihan Saya (Luaran / Dalaman)',
           items: [
-            { text: 'Kelulusan Latihan', link: '/dashboard/tydp/kelulusan-latihan' },
-            { text: 'Pengarah Jabatan', link: '/dashboard/tydp/pengarah-jabatan' }
+            { text: 'Daftar Kedatangan (Hadir)', link: '/pj/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/pj/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/pj/latihan/senarai-latihan' }
+          ]
+        },
+        {
+          text: 'Pengurusan Permohonan',
+          items: [
+            { text: 'Permohonan Latihan Luaran', link: '/pj/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/pj/pengurusan-permohonan/senarai-permohonan' }
+          ]
+        },
+        {
+          text: 'Penilaian Latihan & Cetakan Sijil',
+          items: [
+            { text: 'Penilaian Latihan (Dalaman)', link: '/pj/penilaian/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan', link: '/pj/penilaian/cetak-sijil' }
           ]
         }
       ]
