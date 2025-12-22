@@ -40,9 +40,9 @@ Gunakan kolum "Cari Tajuk" untuk:
 - Sistem akan menapis senarai secara automatik
 :::
 
-#### Penapis Status
+#### Carian Status
 
-::: tip Menggunakan Penapis Status
+::: tip Menggunakan Carian Status
 1. Klik pada dropdown **"Status Permohonan"**
 2. Pilih salah satu pilihan:
    - **Semua** - Menunjukkan semua permohonan
@@ -52,9 +52,9 @@ Gunakan kolum "Cari Tajuk" untuk:
 3. Jadual akan dikemas kini secara automatik
 :::
 
-#### Penapis Tarikh
+#### CarianTarikh
 
-::: tip Menggunakan Penapis Tarikh
+::: tip Menggunakan CarianTarikh
 1. Pada kolum **"Tarikh Mula Latihan (dari)"**
 2. Pilih tarikh menggunakan pemilih tarikh
 3. Sistem akan menampilkan permohonan dengan tarikh mula latihan dari tarikh yang dipilih
