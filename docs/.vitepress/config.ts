@@ -140,7 +140,130 @@ export default defineConfig({
             { text: 'Cetak Sijil Penyertaan', link: '/pj/penilaian/cetak-sijil' }
           ]
         }
-      ]
+      ],
+
+       '/kblk/': [
+        {
+          text: 'Dashboard Tugasan',
+           items: [
+            { text: 'Ulasan Permohonan Latihan', link: '/kblk/kblk/ulasan-permohonan-latihan' }
+          ]
+        },
+        {
+          text: 'Latihan Saya (Luaran / Dalaman)',
+          items: [
+            { text: 'Daftar Kedatangan (Hadir)', link: '/kblk/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/kblk/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/kblk/latihan/senarai-latihan' }
+          ]
+        },
+        {
+          text: 'Pengurusan Permohonan',
+          items: [
+            { text: 'Permohonan Latihan Luaran', link: '/kblk/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/kblk/pengurusan-permohonan/senarai-permohonan' }
+          ]
+        },
+        {
+          text: 'Penilaian Latihan & Cetakan Sijil',
+          items: [
+            { text: 'Penilaian Latihan (Dalaman)', link: '/kblk/penilaian/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan', link: '/kblk/penilaian/cetak-sijil' }
+          ]
+        }
+      ],
+      '/jkp/': [
+        {
+          text: 'Dashboard Tugasan',
+           items: [
+            { text: 'Sokong Permohonan Latihan', link: '/jkp/jkp/sokong-permohonan' }
+          ]
+        },
+        {
+          text: 'Latihan Saya (Luaran / Dalaman)',
+          items: [
+            { text: 'Daftar Kedatangan (Hadir)', link: '/jkp/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/jkp/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/jkp/latihan/senarai-latihan' }
+          ]
+        },
+        {
+          text: 'Pengurusan Permohonan',
+          items: [
+            { text: 'Permohonan Latihan Luaran', link: '/jkp/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/jkp/pengurusan-permohonan/senarai-permohonan' }
+          ]
+        },
+        {
+          text: 'Penilaian Latihan & Cetakan Sijil',
+          items: [
+            { text: 'Penilaian Latihan (Dalaman)', link: '/jkp/penilaian/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan', link: '/jkp/penilaian/cetak-sijil' }
+          ]
+        }
+      ],
+       '/ydp/': [
+        {
+         text: 'Dashboard Tugasan',
+          items: [
+            { text: 'Kelulusan Latihan', link: '/ydp/ydp/kelulusan-latihan' }
+          ]
+
+        },
+        {
+          text: 'Latihan Saya (Luaran / Dalaman)',
+          items: [
+            { text: 'Daftar Kedatangan (Hadir)', link: '/ydp/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/ydp/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/ydp/latihan/senarai-latihan' }
+          ]
+        },
+        {
+          text: 'Pengurusan Permohonan',
+          items: [
+            { text: 'Permohonan Latihan Luaran', link: '/ydp/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/ydp/pengurusan-permohonan/senarai-permohonan' }
+          ]
+        },
+        {
+          text: 'Penilaian Latihan & Cetakan Sijil',
+          items: [
+            { text: 'Penilaian Latihan (Dalaman)', link: '/ydp/penilaian/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan', link: '/ydp/penilaian/cetak-sijil' }
+          ]
+        }
+      ],
+       '/tydp/': [
+        {
+        text: 'TYDP',
+          items: [
+            { text: 'Kelulusan Latihan', link: '/tydp/tydp/kelulusan-latihan' },
+            { text: 'Pandangan Pengarah Jabatan', link: '/tydp/tydp/pengarah-jabatan' }
+          ]
+        },
+        {
+          text: 'Latihan Saya (Luaran / Dalaman)',
+          items: [
+            { text: 'Daftar Kedatangan (Hadir)', link: '/tydp/latihan/daftar-kedatangan' },
+            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/tydp/latihan/daftar-ketidakhadiran' },
+            { text: 'Senarai Latihan Terlibat', link: '/tydp/latihan/senarai-latihan' }
+          ]
+        },
+        {
+          text: 'Pengurusan Permohonan',
+          items: [
+            { text: 'Permohonan Latihan Luaran', link: '/tydp/pengurusan-permohonan/permohonan-latihan-luaran' },
+            { text: 'Senarai Permohonan', link: '/tydp/pengurusan-permohonan/senarai-permohonan' }
+          ]
+        },
+        {
+          text: 'Penilaian Latihan & Cetakan Sijil',
+          items: [
+            { text: 'Penilaian Latihan (Dalaman)', link: '/tydp/penilaian/penilaian-latihan' },
+            { text: 'Cetak Sijil Penyertaan', link: '/tydp/penilaian/cetak-sijil' }
+          ]
+        }
+      ],
     }
   }
 })
