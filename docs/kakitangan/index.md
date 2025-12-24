@@ -6,15 +6,6 @@ title: Manual Pengguna Kakitangan
 
 Selamat datang ke Manual Pengguna Sistem Pengurusan Latihan Online (Smart Training). Halaman ini mengandungi pautan cepat untuk modul-modul yang paling kerap digunakan oleh pegawai/kakitangan.
 
-## Utama
-
-Ringkasan modul penting untuk kakitangan:
-
-- **Pengurusan Akaun**: Pendaftaran pengguna, log masuk, kemaskini gambar profil
-- **Pengurusan Permohonan**: Borang permohonan latihan luaran, semak senarai permohonan
-- **Latihan (Kehadiran & Penilaian)**: Daftar kedatangan, daftar ketidakhadiran, penilaian latihan, cetak sijil
-
----
 
 ## Pengurusan Akaun
 

@@ -6,14 +6,6 @@ title: Manual Pengguna Pengarah Jabatan
 
 Manual ini ditujukan kepada **Pengarah Jabatan** bagi tujuan sokongan, semakan dan penyertaan latihan.
 
-## Utama
-
-- **Dashboard Tugasan**: Sokongan permohonan latihan dan ketidakhadiran
-- **Latihan Saya**: Rekod latihan, kehadiran dan ketidakhadiran
-- **Permohonan Latihan**: Permohonan dan semakan status
-- **Penilaian & Sijil**: Penilaian latihan dan cetakan sijil
-
----
 
 ## Dashboard Tugasan
 

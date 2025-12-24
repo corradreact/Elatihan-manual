@@ -4,20 +4,9 @@
 
 Peranan  **Admin Jabatan** ini bertanggungjawab mengurus penyertaan latihan, anggaran perbelanjaan, laporan serta tetapan berkaitan latihan di peringkat jabatan.
 
-## Utama
-
-Ringkasan modul utama untuk Admin Jabatan:
-
-- **Dashboard Admin**: Urus anggaran perbelanjaan dan pendaftaran peserta latihan
-- **Laporan Latihan**: Pengurusan peserta, penceramah dan penilaian
-- **Pengurusan Permohonan**: Semakan senarai permohonan latihan
-- **Tetapan & Emel**: Tetapan tempoh permohonan dan komunikasi emel
-
----
-
 ## Dashboard Admin
 
-- [Isi Anggaran Perbelanjaan](/adminjab/tugasan/anggaran-perbelanjaan)
+- [Mengisi Anggaran Perbelanjaan](/adminjab/tugasan/anggaran-perbelanjaan)
 - [Daftar Peserta Latihan](/adminjab/tugasan/peserta-latihan)
 
 ## Laporan Latihan

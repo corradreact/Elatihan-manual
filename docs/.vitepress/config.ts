@@ -79,7 +79,7 @@ export default defineConfig({
         {
           text: 'Dashboard Admin',
           items: [
-            { text: 'Isi Anggaran Perbelanjaan', link: '/adminjab/tugasan/anggaran-perbelanjaan' },
+            { text: 'Mengisi Anggaran Perbelanjaan', link: '/adminjab/tugasan/anggaran-perbelanjaan' },
             { text: 'Daftar Peserta Latihan', link: '/adminjab/tugasan/peserta-latihan' }
           ]
         },

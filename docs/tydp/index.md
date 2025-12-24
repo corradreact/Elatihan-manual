@@ -6,15 +6,6 @@ title: Manual Pengguna TYDP
 
 Manual ini adalah panduan kepada **TYDP** bagi kelulusan latihan dan pemantauan peranan pengarah jabatan.
 
-## Utama
-
-- **Kelulusan Latihan**
-- **Pemantauan Pengarah Jabatan**
-- **Latihan Saya**
-- **Permohonan, Penilaian & Sijil**
-
----
-
 ## Tugasan TYDP
 
 - [Kelulusan Latihan](/tydp/tydp/kelulusan-latihan)

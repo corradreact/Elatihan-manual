@@ -6,15 +6,6 @@ title: Manual Pengguna YDP
 
 Manual ini untuk **YDP** dalam membuat kelulusan latihan serta pengurusan latihan peribadi.
 
-## Utama
-
-- **Dashboard Tugasan**: Kelulusan latihan
-- **Latihan Saya**
-- **Permohonan Latihan**
-- **Penilaian & Sijil**
-
----
-
 ## Dashboard Tugasan
 
 - [Kelulusan Latihan](/ydp/ydp/kelulusan-latihan)

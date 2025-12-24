@@ -20,7 +20,7 @@ Membantu pengguna kakitangan untuk membuat permohonan latihan luaran dengan meng
 
 ## Bahagian A: Keterangan Diri  Kakitangan
 
-Maklumat dalam bahagian ini diisi secara automatik (autofill) berdasarkan profil sistem anda dan tidak boleh diubah oleh pengguna. 
+Maklumat dalam bahagian ini diisi secara automatik (autofill) berdasarkan Sistem Personalia (SIM) dan tidak boleh diubah.
 
 ![Borang A](/image/kakitangan/bahagian-A.png)
 

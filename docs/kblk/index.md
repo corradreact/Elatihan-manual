@@ -6,15 +6,6 @@ title: Manual Pengguna KBLK
 
 Manual ini adalah panduan untuk **KBLK** dalam membuat ulasan permohonan serta pengurusan latihan sendiri.
 
-## Utama
-
-- **Dashboard Tugasan**: Ulasan permohonan latihan
-- **Latihan Saya**: Kehadiran dan senarai latihan
-- **Permohonan Latihan**: Permohonan dan semakan
-- **Penilaian & Sijil**
-
----
-
 ## Dashboard Tugasan
 
 - [Ulasan Permohonan Latihan](/kblk/kblk/ulasan-permohonan-latihan)

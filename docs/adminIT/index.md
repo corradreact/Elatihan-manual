@@ -6,14 +6,6 @@ title: Manual Pengguna Admin IT
 
 Manual ini disediakan untuk **Admin IT** yang bertanggungjawab terhadap pengurusan pengguna sistem, pemantauan laporan latihan dan sokongan teknikal sistem.
 
-## Utama
-
-- **Pengurusan Pengguna**: Tambah dan kemaskini pengguna sistem
-- **Laporan Latihan**: Pantauan peserta, penceramah dan penilaian
-- **Pengurusan Permohonan**: Akses senarai permohonan latihan
-
----
-
 ## Pengurusan Pengguna
 
 - [Tambah Pengguna](/adminIT/pengurusan-pengguna/tambah-pengguna)
