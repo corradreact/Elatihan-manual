@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   lang: 'ms-MY',
-  title: 'E-Latihan',
+  title: 'Smart Training',
   description: 'Manual Pengguna Kakitangan dan Admin untuk Sistem Latihan',
 
   head: [
