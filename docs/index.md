@@ -1,9 +1,9 @@
 <!-- ---
 layout: home
-title: E-Latihan
+title: Smart Training
 
 hero:
-  name: E-Latihan
+  name: Smart Training
   text: Manual Pengguna Sistem Pengurusan Latihan Online (Smart Training)
   tagline: Panduan lengkap penggunaan Sistem Pengurusan Latihan Online (Smart Training) untuk Kkai dan admin.
   image:
