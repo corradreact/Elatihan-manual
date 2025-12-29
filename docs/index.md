@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: home
 title: Smart Training
 
@@ -49,4 +49,4 @@ features:
     details: Blast Emel (Pengguna Admin sahaja)​.
     link: /admin/pengurusan-emel/blast-emel
 
---- -->
+---
