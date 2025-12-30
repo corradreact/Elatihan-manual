@@ -50,8 +50,8 @@ Setelah mengisi semua 4 bahagian:
 
 Pilih:
 - **Batal** - Kembali ke borang untuk ubah jawapan
-- **Sahkan** - Sahkan dan hantar penilaian
-Selepas klik **"Sahkan"**, penilaian akan dihantar.
+- **Hantar** - Sahkan dan hantar penilaian
+Selepas klik **"Hantar"**, penilaian akan dihantar.
 ![Sahlan](/image/kakitangan/success4.png)
 :::
 

@@ -45,13 +45,13 @@ Setelah mengisi semua 4 bahagian:
 
 ::: tip Langkah 4
 1. Popup akan muncul untuk pengesahan akhir:
-**"Sahkan Penyerahan Penilaian"**
+**"Sahkan Hantar Penilaian"**
 ![Sahkan](/image/kakitangan/Sahkan.png)
 
 Pilih:
 - **Batal** - Kembali ke borang untuk ubah jawapan
-- **Sahkan** - Sahkan dan hantar penilaian
-Selepas klik **"Sahkan"**, penilaian akan dihantar.
+- **Hantar** - Sahkan dan hantar penilaian
+Selepas klik **"Hantar"**, penilaian akan dihantar.
 ![Sahlan](/image/kakitangan/success4.png)
 :::
 
