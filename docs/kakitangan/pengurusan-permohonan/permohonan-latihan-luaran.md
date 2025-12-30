@@ -70,7 +70,6 @@ Muat naik dokumen yang diperlukan untuk menyokong permohonan anda:
 
 Apabila permohonan berjaya dihantar:
 - Sistem akan memaparkan mesej "Permohonan latihan luar dihantar untuk kelulusan".
-- Anda akan menerima emel pengesahan di alamat emel berdaftar.
 - Permohonan akan masuk ke dalam sistem untuk semakan oleh pengurusan.
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
 
