@@ -9,7 +9,7 @@ Manual ini untuk **YDP** dalam membuat kelulusan latihan serta pengurusan latiha
 ## Dashboard Tugasan
 
 - [Kelulusan Latihan](/ydp/ydp/kelulusan-latihan)
-
+<!-- 
 ## Latihan Saya
 
 - [Daftar Kedatangan](/ydp/latihan/daftar-kedatangan)
@@ -25,4 +25,4 @@ Manual ini untuk **YDP** dalam membuat kelulusan latihan serta pengurusan latiha
 
 - [Penilaian Latihan](/ydp/penilaian/penilaian-latihan)
 - [Cetak Sijil](/ydp/penilaian/cetak-sijil)
-
+ -->
