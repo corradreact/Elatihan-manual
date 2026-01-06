@@ -11,7 +11,7 @@ Manual ini adalah panduan kepada **TYDP** bagi kelulusan latihan dan pemantauan 
 - [Kelulusan Latihan](/tydp/tydp/kelulusan-latihan)
 - [Pengarah Jabatan](/tydp/tydp/pengarah-jabatan)
 
-## Latihan Saya
+<!-- ## Latihan Saya
 
 - [Daftar Kedatangan](/tydp/latihan/daftar-kedatangan)
 - [Daftar Ketidakhadiran](/tydp/latihan/daftar-ketidakhadiran)
@@ -25,4 +25,4 @@ Manual ini adalah panduan kepada **TYDP** bagi kelulusan latihan dan pemantauan 
 ## Penilaian & Sijil
 
 - [Penilaian Latihan](/tydp/penilaian/penilaian-latihan)
-- [Cetak Sijil](/tydp/penilaian/cetak-sijil)
+- [Cetak Sijil](/tydp/penilaian/cetak-sijil) -->

@@ -241,29 +241,29 @@ export default defineConfig({
             { text: 'Kelulusan Latihan', link: '/tydp/tydp/kelulusan-latihan' },
             { text: 'Pengarah Jabatan', link: '/tydp/tydp/pengarah-jabatan' }
           ]
-        },
-        {
-          text: 'Latihan Saya (Luaran / Dalaman)',
-          items: [
-            { text: 'Daftar Kedatangan (Hadir)', link: '/tydp/latihan/daftar-kedatangan' },
-            { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/tydp/latihan/daftar-ketidakhadiran' },
-            { text: 'Senarai Latihan Terlibat', link: '/tydp/latihan/senarai-latihan' }
-          ]
-        },
-        {
-          text: 'Pengurusan Permohonan',
-          items: [
-            { text: 'Permohonan Latihan Luaran', link: '/tydp/pengurusan-permohonan/permohonan-latihan-luaran' },
-            { text: 'Senarai Permohonan', link: '/tydp/pengurusan-permohonan/senarai-permohonan' }
-          ]
-        },
-        {
-          text: 'Penilaian Latihan & Cetakan Sijil',
-          items: [
-            { text: 'Penilaian Latihan (Dalaman)', link: '/tydp/penilaian/penilaian-latihan' },
-            { text: 'Cetak Sijil Penyertaan', link: '/tydp/penilaian/cetak-sijil' }
-          ]
         }
+        // {
+        //   text: 'Latihan Saya (Luaran / Dalaman)',
+        //   items: [
+        //     { text: 'Daftar Kedatangan (Hadir)', link: '/tydp/latihan/daftar-kedatangan' },
+        //     { text: 'Daftar Ketidakhadiran (Tidak Hadir)', link: '/tydp/latihan/daftar-ketidakhadiran' },
+        //     { text: 'Senarai Latihan Terlibat', link: '/tydp/latihan/senarai-latihan' }
+        //   ]
+        // },
+        // {
+        //   text: 'Pengurusan Permohonan',
+        //   items: [
+        //     { text: 'Permohonan Latihan Luaran', link: '/tydp/pengurusan-permohonan/permohonan-latihan-luaran' },
+        //     { text: 'Senarai Permohonan', link: '/tydp/pengurusan-permohonan/senarai-permohonan' }
+        //   ]
+        // },
+        // {
+        //   text: 'Penilaian Latihan & Cetakan Sijil',
+        //   items: [
+        //     { text: 'Penilaian Latihan (Dalaman)', link: '/tydp/penilaian/penilaian-latihan' },
+        //     { text: 'Cetak Sijil Penyertaan', link: '/tydp/penilaian/cetak-sijil' }
+        //   ]
+        // }
       ],
     }
   }
