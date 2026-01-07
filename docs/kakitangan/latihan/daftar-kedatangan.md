@@ -49,7 +49,7 @@ Pilih salah satu:
 4. Saiz maksimum: 5MB
 5. Fail yang dipilih akan dipaparkan di bawah butang (contoh: "Dokumen Sokogan [Contoh].pdf")
 :::
-![Bukti Hadir](/image/kakitangan/bukti-hadir.png)
+![Bukti Hadir](/image/kakitangan/bukti-hadir1.png)
 
 ### 4. Hantar Kehadiran
 
