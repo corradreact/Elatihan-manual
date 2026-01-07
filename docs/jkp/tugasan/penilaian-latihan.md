@@ -38,14 +38,14 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 ::: tip Langkah 3
 Setelah mengisi semua 4 bahagian:
 1. Periksa semua jawapan
-2. Klik **"Sahkan dan Hantar"**
+2. Klik **"Hantar"**
 :::
 
 ### 4. Popup Pengesahan
 
 ::: tip Langkah 4
 1. Popup akan muncul untuk pengesahan akhir:
-**"Sahkan Hantar Penilaian"**
+**"Hantar Penilaian"**
 <!-- ![Sahkan](/image/kakitangan/Sahkan.png) -->
 
 Pilih:
