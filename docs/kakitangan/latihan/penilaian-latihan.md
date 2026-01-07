@@ -45,7 +45,7 @@ Setelah mengisi semua 4 bahagian:
 
 ::: tip Langkah 4
 1. Popup akan muncul untuk pengesahan akhir:
-**"Hantar"**
+**"Hantar Penilaian"**
 ![Sahkan](/image/kakitangan/Sahkan.png)
 
 Pilih:
