@@ -72,5 +72,6 @@ Apabila permohonan berjaya dihantar:
 - Sistem akan memaparkan mesej "Permohonan latihan luar dihantar untuk kelulusan".
 - Permohonan akan masuk ke dalam sistem untuk semakan oleh pengurusan.
 - Anda boleh menjejaki status permohonan melalui menu **Status Permohonan.**
+- Dokumen sokongan yang telah dihantar tidak boleh dibuang atau dikemas kini. Sebarang perubahan hendaklah dimaklumkan kepada pihak atasan.
 
 ![Success1](/image/kakitangan/Success1.png)

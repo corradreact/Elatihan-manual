@@ -50,7 +50,7 @@ Gunakan kolum "Cari Tajuk" untuk:
 
 #### Carian Status
 
-::: tip Menggunakan CarianStatus
+::: tip Menggunakan Carian Status
 1. Klik pada dropdown **"Status Permohonan"**
 2. Pilih salah satu pilihan:
    - **Semua** - Menunjukkan semua permohonan

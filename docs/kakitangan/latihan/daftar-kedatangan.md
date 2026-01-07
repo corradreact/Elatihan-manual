@@ -43,7 +43,7 @@ Pilih salah satu:
 ### 3. Muatnaik Bukti Kehadiran
 
 ::: tip Langkah 3
-1. Pada bahagian **"Muatnaik Gambar Bukti Kehadiran"**
+1. Pada bahagian **"Muat naik Gambar Bukti Kehadiran"**
 2. Klik butang **"Choose File"** untuk memilih fail.
 3. Pilih fail bukti kehadiran (format: JPG, PNG, PDF)
 4. Saiz maksimum: 5MB
