@@ -8,18 +8,18 @@ Manual ini disediakan untuk **Admin IT** yang bertanggungjawab terhadap pengurus
 
 ## Pengurusan Pengguna
 
-- [Tambah Pengguna](/adminit/pengurusan-pengguna/tambah-pengguna)
-- [Kemaskini Pengguna](/adminit/pengurusan-pengguna/kemaskini-pengguna)
+- [Tambah Pengguna](/adminIT/pengurusan-pengguna/tambah-pengguna)
+- [Kemaskini Pengguna](/adminIT/pengurusan-pengguna/kemaskini-pengguna)
 
 ## Laporan Latihan
 
-- [Pengurusan Peserta](/adminit/laporan-latihan/pengurusan-peserta)
-- [Pengurusan Penceramah (Dalaman)](/adminit/laporan-latihan/pengurusan-penceramah)
-- [Pengurusan Penilaian](/adminit/laporan-latihan/pengurusan-penilaian)
+- [Pengurusan Peserta](/adminIT/laporan-latihan/pengurusan-peserta)
+- [Pengurusan Penceramah (Dalaman)](/adminIT/laporan-latihan/pengurusan-penceramah)
+- [Pengurusan Penilaian](/adminIT/laporan-latihan/pengurusan-penilaian)
 
 ## Pengurusan Permohonan
 
-- [Senarai Permohonan](/adminit/pengurusan-permohonan/senarai-permohonan)
+- [Senarai Permohonan](/adminIT/pengurusan-permohonan/senarai-permohonan)
 
 ---
 

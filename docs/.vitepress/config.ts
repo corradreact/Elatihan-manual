@@ -48,26 +48,26 @@ export default defineConfig({
       /* =======================
          ADMIN IT
          ======================= */
-      '/adminit/': [
+      '/adminIT/': [
         {
           text: 'Pengurusan Pengguna',
           items: [
-            { text: 'Tambah Pengguna', link: '/adminit/pengurusan-pengguna/tambah-pengguna' },
-            { text: 'Kemaskini Pengguna', link: '/adminit/pengurusan-pengguna/kemaskini-pengguna' }
+            { text: 'Tambah Pengguna', link: '/adminIT/pengurusan-pengguna/tambah-pengguna' },
+            { text: 'Kemaskini Pengguna', link: '/adminIT/pengurusan-pengguna/kemaskini-pengguna' }
           ]
         },
         {
           text: 'Laporan Latihan',
           items: [
-            { text: 'Pengurusan Peserta', link: '/adminit/laporan-latihan/pengurusan-peserta' },
-            { text: 'Pengurusan Penceramah (Dalaman)', link: '/adminit/laporan-latihan/pengurusan-penceramah' },
-            { text: 'Pengurusan Penilaian', link: '/adminit/laporan-latihan/pengurusan-penilaian' }
+            { text: 'Pengurusan Peserta', link: '/adminIT/laporan-latihan/pengurusan-peserta' },
+            { text: 'Pengurusan Penceramah (Dalaman)', link: '/adminIT/laporan-latihan/pengurusan-penceramah' },
+            { text: 'Pengurusan Penilaian', link: '/adminIT/laporan-latihan/pengurusan-penilaian' }
           ]
         },
         {
           text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Lihat Senarai Permohonan', link: '/adminit/pengurusan-permohonan/senarai-permohonan' }
+            { text: 'Lihat Senarai Permohonan', link: '/adminIT/pengurusan-permohonan/senarai-permohonan' }
           ]
         }
       ],
