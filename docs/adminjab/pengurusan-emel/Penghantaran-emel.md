@@ -19,25 +19,26 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 
 ### 2. Template Emel
 ::: tip Langkah 2
-
 1) Admin boleh memilih template emel yang disediakan dalam sistem.
 Template boleh:
 - Dipilih
 - Dibaca isi kandungannya
 - Dikemaskini atau diubah suai jika perlu
+![Template Emel](/image/admin/template.png)
 
+:::
 
-### 3. Pilih Tarikh & Jenis Kursus
+### 3. Carian Kursus Latihan
 ::: tip Langkah 3
-1. Admin perlu memasukkan **Bulan , Tahun, Kod Kursus dan Jenis Kursus (dalaman / luaran )** untuk mendapatkan senarai peserta yang berkaitan.
+1. Admin perlu memasukkan **Bulan, Tahun, Kod Kursus dan Jenis Kursus (Dalaman / Luaran )** untuk mendapatkan senarai peserta yang berkaitan.
 2. Sistem akan memaparkan senarai kursus berdasarkan pilihan tersebut.
 3. Admin boleh memilih kursus yang ingin dihantar 
 ![Pilih Kursus](/image/admin/pilih-kursus.png)
 :::
 
-## 4. Maklumat Emel Pengantaran Penerima
+## 4. Maklumat Emel Penerima
 ::: tip Langkah 5
-1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Emel)
+1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Emel).
 2. Admin boleh:
 - Menyemak alamat emel penerima
 - Mengubah emel jika terdapat maklumat tidak tepat
@@ -48,7 +49,7 @@ Template boleh:
 
 ### 5. Maklumat Jemputan
 ::: tip Langkah 5
-1. Admin boleh memasukkan atau mengemaskini maklumat jemputan melalui borang yang disediakan (sekiranya diperlukan) seperti:
+1. Admin boleh memasukkan atau mengemaskini maklumat jemputan melalui ruangan yang disediakan (sekiranya diperlukan) seperti:
 - Subjek
 - Tarikh
 - Masa
@@ -58,22 +59,21 @@ Template boleh:
 - Urus Setia
 - Pemakluman tambahan
 
-2. Admin boleh:
-Semua maklumat yang diisi boleh:
+2. Semua maklumat yang diisi boleh:
 - Ditambah
 - Dikemaskini
 - Dikosongkan (jika tidak berkaitan)
 
-3.Sistem akan mengemas kini paparan Protonton Emel secara automatik berdasarkan maklumat yang dimasukkan oleh admin.
+3. Maklumat yang diisi akan dipaparkan secara automatik dalam paparan Protonton Emel.
 
 4. Admin boleh menyemak susun atur, kandungan dan ketepatan maklumat emel melalui bahagian Protonton sebelum emel dihantar kepada penerima.
 
-![Penerima](/image/admin/penerima.png)
+![Penerima](/image/admin/jemputan.png)
 :::
 
 ::: warning Nota
 - Sebarang perubahan pada borang input akan terus dipaparkan dalam Protonton Emel.
-- Jika jumlah penerima lebih daripada 100 orang, admin perlu mengisi sendiri alamat emel penerima pada ruangan yang disediakan.
+- Jika jumlah penerima lebih daripada 100 orang, admin perlu mengisi secara manual (taip) alamat emel penerima pada ruangan yang disediakan.
 - Admin juga boleh mengubah alamat emel bagi penerima sebelum menghantar emel.
 - Pastikan semua maklumat jemputan adalah tepat sebelum emel dihantar.
 :::
