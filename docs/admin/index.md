@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: Manual Pengguna Admin
 ---
 
@@ -36,4 +36,4 @@ Halaman ini mengandungi panduan untuk pengguna admin yang mengurus modul latihan
 - [Tambah Template Emel](/admin/pengurusan-emel/template-emel)
 - [Penghantaran Emel](/admin/pengurusan-emel/Penghantaran-emel)
 
-Untuk sokongan lanjut, hubungi Admin Sistem. -->
+Untuk sokongan lanjut, hubungi Admin Sistem.

@@ -67,7 +67,7 @@ export default defineConfig({
         {
           text: 'Pengurusan Permohonan',
           items: [
-            { text: 'Lihat Senarai Permohonan', link: '/adminiy/pengurusan-permohonan/senarai-permohonan' }
+            { text: 'Lihat Senarai Permohonan', link: '/adminit/pengurusan-permohonan/senarai-permohonan' }
           ]
         }
       ],
