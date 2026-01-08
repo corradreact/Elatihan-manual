@@ -27,7 +27,7 @@ Panduan ini bertujuan membantu Admin Jabatan membuat semakan dan pengisian angga
 1. Setelah borang dibuka, skrin akan memaparkan maklumat permohonan lengkap
 2. Admin Jabatan perlu menyemak:
 - Bahagian D: Ulasan / Sokongan Pengarah Jabatan
-- Status sokongan (Diluluskan)
+- Status sokongan (Disokong)
 - Ulasan yang diberikan oleh Pengarah Jabatan
 - Pastikan permohonan telah diluluskan sebelum meneruskan pengisian anggaran perbelanjaan
 :::
