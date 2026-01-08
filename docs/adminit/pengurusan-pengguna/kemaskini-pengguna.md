@@ -1,7 +1,7 @@
 # Panduan Kemaskini Maklumat Pengguna
 
 ::: info Tujuan
-Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang mempunyai butang Edit boleh dikemaskini.
+Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang mempunyai butang **Kemaskini** boleh dikemaskini.
 :::
 
 ## Langkah-langkah Kemaskini Pengguna
@@ -15,29 +15,26 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 :::
 ![kemaskini](/image/admin/menu-kemaskini.png)
 
-::: tip Langkah 2 
-1) Pilih Pengguna Untuk Dikemaskini
-2) Admin hanya boleh mengedit pengguna yang mempunyai butang **Edit**.
-:::
+::: tip Langkah 2
+1) Pilih rekod pengguna yang ingin dikemaskini.  
+2) Pengemaskinian hanya dibenarkan bagi pengguna yang mempunyai butang **Kemaskini**.
 
 ![Edit](/image/admin/btn-edit.png)
 
-## Tindakan yang tersedia:
+3) Kemudian klik butang **Kemaskini**.
 
-::: tip Butang  Edit
-1) Klik butang **Edit** pada pengguna yang ingin dikemaskini
-![Edit](/image/admin/edit-p.png)
-2) Sistem akan membuka borang maklumat pengguna untuk diedit
+![Edit](/image/admin/kemaskini.png)
+4) Sistem akan membuka borang maklumat pengguna untuk dikemaskini
 ![Borang Edit](/image/admin/borang-edit.png)
-:::
 
 ::: warning Nota
-- Jika butang edit tidak wujud atau tidak aktif, pengguna tersebut tidak boleh dikemaskini oleh admin.
+- Hanya maklumat pengguna Admin IT dan Admin Jabatan dibenarkan untuk dikemaskini.
+- Maklumat pengguna Pemohon tidak boleh dikemaskini oleh Admin IT.
 :::
 
 ::: tip Langkah 3
 
-1) Setelah klik Edit, borang kemaskini akan dipaparkan.
+1) Setelah klik Kemaskini, borang kemaskini akan dipaparkan.
 2) Maklumat yang boleh dikemaskini termasuk:
 - Nama pengguna
 - Emel
