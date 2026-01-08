@@ -64,5 +64,5 @@ Isikan maklumat berikut pada borang Template Emel:
 ::: warning Nota
 - Pastikan semua maklumat wajib diisi sebelum menekan Simpan.
 - Kandungan HTML perlu dirangka dengan betul untuk mengelakkan paparan emel menjadi tidak teratur.
-- Template yang disimpan boleh digunakan semasa penghantaran blast emel.
+- Template yang disimpan boleh digunakan semasa penghantaran Penghantaran emel.
 :::

@@ -35,7 +35,7 @@ const ADMIN_ROUTES = [
   '/admin/pengurusan-pengguna/tambah-pengguna',
   '/admin/pengurusan-pengguna/kemaskini-pengguna',
   '/admin/pengurusan-emel/template-emel',
-  '/admin/pengurusan-emel/blast-emel',
+  '/admin/pengurusan-emel/Penghantaran-emel',
 ];
 
 // =============================

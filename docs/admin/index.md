@@ -11,7 +11,7 @@ Halaman ini mengandungi panduan untuk pengguna admin yang mengurus modul latihan
 - **Laporan Latihan**: Pengurusan peserta, pengurusan penceramah, laporan penilaian
 - **Pengurusan Permohonan**: Semak permohonan, tetapkan tempoh permohonan
 - **Pengurusan Pengguna (Admin IT)**: Tambah/kemaskini akaun admin jabatan
-- **Pengurusan Emel**: Tambah template emel, hantar blast emel
+- **Pengurusan Emel**: Tambah template emel, hantar Penghantaran emel
 
 ---
 
@@ -34,6 +34,6 @@ Halaman ini mengandungi panduan untuk pengguna admin yang mengurus modul latihan
 ## Pengurusan Emel
 
 - [Tambah Template Emel](/admin/pengurusan-emel/template-emel)
-- [Blast Emel](/admin/pengurusan-emel/blast-emel)
+- [Penghantaran Emel](/admin/pengurusan-emel/Penghantaran-emel)
 
 Untuk sokongan lanjut, hubungi Admin Sistem.

@@ -37,7 +37,7 @@ features:
    
 
   - icon: 📩
-    title: Blast Emel
-    details: Blast Emel (Pengguna Admin sahaja)​.
+    title: Penghantaran Emel
+    details: Penghantaran Emel (Pengguna Admin sahaja)​.
 
 ---

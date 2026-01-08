@@ -1,19 +1,19 @@
-# Panduan Blast Emel Kursus
+# Panduan Penghantaran Emel Kursus
 
 ::: info Tujuan
-Membantu admin menghantar emel kursus secara pukal (blast) kepada peserta latihan dalam atau luaran berdasarkan tarikh kursus dan jenis kursus yang dipilih.
+Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta latihan dalam atau luaran berdasarkan tarikh kursus dan jenis kursus yang dipilih.
 :::
 
-## Langkah-langkah Blast Emel Kursus
-### 1. Akses Modul Blast Emel
+## Langkah-langkah Penghantaran Emel Kursus
+### 1. Akses Modul Penghantaran Emel
 
 ::: tip Langkah 1
 
 1. Log masuk ke dalam sistem
-2. Pilih menu **Blast Emel**
+2. Pilih menu **Penghantaran Emel**
 3. Sistem akan memaparkan senarai kursus, jenis template, protonton dan serta senarai penerima.
 :::
-![Blast Emel](/image/admin/blast-emel.png)
+![Penghantaran Emel](/image/admin/Penghantaran-emel.png)
 
 ### 2. Pilih Tarikh & Jenis Kursus
 ::: tip Langkah 2
@@ -65,7 +65,7 @@ Template boleh:
 :::
 
 
-### 5. Menghantar Blast Emel
+### 5. Menghantar Penghantaran Emel
 ::: tip Langkah 6
 1) Setelah semua maklumat lengkap, admin boleh menghantar emel.
 2) Semak semua maklumat penerima.

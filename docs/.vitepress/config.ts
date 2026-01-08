@@ -102,7 +102,7 @@ export default defineConfig({
           items: [
             { text: 'Urus Tempoh Permohonan', link: '/adminjab/pengurusan-emel/tempoh-permohonan' },
             { text: 'Urus Template Emel', link: '/adminjab/pengurusan-emel/template-emel' },
-            { text: 'Blast Emel Jemputan', link: '/adminjab/pengurusan-emel/blast-emel' }
+            { text: 'Penghantaran Emel Jemputan', link: '/adminjab/pengurusan-emel/Penghantaran-emel' }
           ]
         }
       ],

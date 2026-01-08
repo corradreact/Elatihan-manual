@@ -23,7 +23,7 @@ Peranan  **Admin Jabatan** ini bertanggungjawab mengurus penyertaan latihan, ang
 
 - [Urus Tempoh Permohonan](/adminjab/pengurusan-emel/tempoh-permohonan)
 - [Urus Template Emel](/adminjab/pengurusan-emel/template-emel)
-- [Blast Emel Jemputan](/adminjab/pengurusan-emel/blast-emel)
+- [Penghantaran Emel Jemputan](/adminjab/pengurusan-emel/Penghantaran-emel)
 
 ---
 
