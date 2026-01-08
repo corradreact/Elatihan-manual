@@ -5,6 +5,8 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 :::
 
 ## Langkah-langkah Penghantaran Emel Kursus
+
+
 ### 1. Akses Modul Penghantaran Emel
 
 ::: tip Langkah 1
@@ -15,16 +17,27 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 :::
 ![Penghantaran Emel](/image/admin/Penghantaran-emel.png)
 
-### 2. Pilih Tarikh & Jenis Kursus
+### 2. Template Emel
 ::: tip Langkah 2
-1. Admin perlu memilih **Bulan , Tahun dan Jenis Kursus (dalaman / luaran )** untuk mendapatkan senarai peserta yang berkaitan.
+
+1) Admin boleh memilih template emel yang disediakan dalam sistem.
+Template boleh:
+- Dipilih
+- Dibaca isi kandungannya
+- Dikemaskini atau diubah suai jika perlu
+
+
+### 3. Pilih Tarikh & Jenis Kursus
+::: tip Langkah 3
+1. Admin perlu memasukkan **Bulan , Tahun, Kod Kursus dan Jenis Kursus (dalaman / luaran )** untuk mendapatkan senarai peserta yang berkaitan.
 2. Sistem akan memaparkan senarai kursus berdasarkan pilihan tersebut.
 3. Admin boleh memilih kursus yang ingin dihantar 
 ![Pilih Kursus](/image/admin/pilih-kursus.png)
 :::
 
-::: tip Langkah 3 
-1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Email)
+## 4. Maklumat Emel Pengantaran Penerima
+::: tip Langkah 5
+1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Emel)
 2. Admin boleh:
 - Menyemak alamat emel penerima
 - Mengubah emel jika terdapat maklumat tidak tepat
@@ -33,25 +46,41 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 ![Penerima](/image/admin/penerima.png)
 :::
 
-::: warning Nota
-- Jika jumlah penerima lebih daripada 30 orang, admin perlu mengisi sendiri alamat emel penerima pada ruangan yang disediakan.
-- Admin juga boleh mengubah alamat emel bagi penerima sebelum menghantar emel.
-:::
-
-### 3. Template Emel
-::: tip Langkah 4
-
-1) Admin boleh memilih template emel yang disediakan dalam sistem.
-Template boleh:
-- Dipilih
-- Dibaca isi kandungannya
-- Dikemaskini atau diubah suai jika perlu
-
-![Template](/image/admin/template.png)
-:::
-
-### 4. Tambah CC & Lampiran
+### 5. Maklumat Jemputan
 ::: tip Langkah 5
+1. Admin boleh memasukkan atau mengemaskini maklumat jemputan melalui borang yang disediakan (sekiranya diperlukan) seperti:
+- Subjek
+- Tarikh
+- Masa
+- Tempat
+- Yuran Penyertaan
+- Pengangkutan
+- Urus Setia
+- Pemakluman tambahan
+
+2. Admin boleh:
+Semua maklumat yang diisi boleh:
+- Ditambah
+- Dikemaskini
+- Dikosongkan (jika tidak berkaitan)
+
+3.Sistem akan mengemas kini paparan Protonton Emel secara automatik berdasarkan maklumat yang dimasukkan oleh admin.
+
+4. Admin boleh menyemak susun atur, kandungan dan ketepatan maklumat emel melalui bahagian Protonton sebelum emel dihantar kepada penerima.
+
+![Penerima](/image/admin/penerima.png)
+:::
+
+::: warning Nota
+- Sebarang perubahan pada borang input akan terus dipaparkan dalam Protonton Emel.
+- Jika jumlah penerima lebih daripada 100 orang, admin perlu mengisi sendiri alamat emel penerima pada ruangan yang disediakan.
+- Admin juga boleh mengubah alamat emel bagi penerima sebelum menghantar emel.
+- Pastikan semua maklumat jemputan adalah tepat sebelum emel dihantar.
+:::
+
+
+### 6. Tambah CC & Lampiran
+::: tip Langkah 6
 1) Admin boleh memasukkan penerima tambahan melalui CC serta menambah dokumen lampiran.
 2) Maklumat yang boleh diisi termasuk CC (jika diperlukan) serta lampiran dalam format PDF, JPG atau PNG.
 ![cc](/image/admin/cc.png)
@@ -65,8 +94,8 @@ Template boleh:
 :::
 
 
-### 5. Menghantar Penghantaran Emel
-::: tip Langkah 6
+### 7. Menghantar Penghantaran Emel
+::: tip Langkah 7
 1) Setelah semua maklumat lengkap, admin boleh menghantar emel.
 2) Semak semua maklumat penerima.
 3) Semak atau kemas kini template emel.
