@@ -24,8 +24,11 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 3) Kemudian klik butang **Kemaskini**.
 
 ![Edit](/image/admin/kemaskini.png)
+
 4) Sistem akan membuka borang maklumat pengguna untuk dikemaskini
+
 ![Borang Edit](/image/admin/borang-edit.png)
+:::
 
 ::: warning Nota
 - Hanya maklumat pengguna Admin IT dan Admin Jabatan dibenarkan untuk dikemaskini.
