@@ -46,6 +46,7 @@ Status ini membantu admin memantau peserta yang telah atau belum membuat penilai
 
 3) Memuat turun laporan penilaian.
 ![Print](/image/admin/print.png)
+![Borang](/image/admin/borang-penilaian.png)
 :::
 
 ::: warning Nota
