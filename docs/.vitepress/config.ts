@@ -48,7 +48,7 @@ export default defineConfig({
       /* =======================
          ADMIN IT
          ======================= */
-      '/adminit/': [
+      '/adminIT/': [
         {
           text: 'Pengurusan Pengguna',
           items: [
