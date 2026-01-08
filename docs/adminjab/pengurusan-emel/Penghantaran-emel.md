@@ -61,14 +61,9 @@ Template boleh:
 - Urus Setia
 - Pemakluman tambahan
 
-2. Semua maklumat yang diisi boleh:
-- Ditambah
-- Dikemaskini
-- Dikosongkan (jika tidak berkaitan)
+2. Semua maklumat yang diisi boleh ditambah dikemaskini dan dikosongkan (jika tidak berkaitan).
 
-3. Maklumat yang diisi akan dipaparkan secara automatik dalam paparan Protonton Emel.
-
-4. Admin boleh menyemak susun atur, kandungan dan ketepatan maklumat emel melalui bahagian Protonton sebelum emel dihantar kepada penerima.
+3. Admin boleh menyemak susun atur, kandungan dan ketepatan maklumat emel melalui bahagian Protonton sebelum emel dihantar kepada penerima.
 
 ![Penerima](/image/admin/jemputan.png)
 :::
