@@ -18,9 +18,6 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 ::: tip Langkah 2
 1) Pilih rekod pengguna yang ingin dikemaskini.  
 2) Pengemaskinian hanya dibenarkan bagi pengguna yang mempunyai butang **Kemaskini**.
-
-![Edit](/image/admin/btn-edit.png)
-
 3) Kemudian klik butang **Kemaskini**.
 
 ![Edit](/image/admin/kemaskini.png)
@@ -45,7 +42,7 @@ Membantu admin mengemaskini maklumat pengguna dalam sistem. Hanya pengguna yang 
 - Kata Laluan (Pilihan)
 3) Klik butang **Simpan** untuk menyimpan perubahan
 ![Simpan](/image/admin/btn-simpan.png)
-4) Sistem akan memaparkan mesej "Maklumat pengguna berjaya dikemaskini"
+4) Sistem akan memaparkan mesej **"Maklumat pengguna berjaya dikemaskini"**.
 :::
 
 ::: warning Nota
