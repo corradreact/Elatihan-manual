@@ -54,8 +54,7 @@ Klik pada butang "Peserta" untuk melihat senarai peserta yang hadir bagi latihan
 
 ### 4. Borang Kehadiran
 Setiap peserta mempunyai ruangan **"Borang Tidak Hadir?"** dalam sistem, yang memaparkan status berkaitan penyerahan borang ketidakhadiran.
-
-Terdapat tiga (3) pilihan status yang dipaparkan:
+::: tip Terdapat tiga (3) pilihan status yang dipaparkan:
 
 1) Ada – Peserta hadir ke sesi/aktiviti, maka tiada borang ketidakhadiran diperlukan.
 2) Tidak Dihantar – Peserta tidak hadir, dan tiada sebarang borang atau sokongan rasmi dihantar.
