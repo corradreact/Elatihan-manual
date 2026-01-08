@@ -31,7 +31,7 @@ Template boleh:
 
 ### 3. Carian Kursus Latihan
 ::: tip Langkah 3
-1. Admin perlu memasukkan **Bulan, Tahun, Kod Kursus dan Jenis Kursus (Dalaman / Luaran )** untuk mendapatkan senarai kursus yang berkaitan.
+1. Admin perlu memasukkan **Kod Kursus, Bulan, Tahun dan Jenis Kursus (Dalaman / Luaran )** untuk mendapatkan senarai kursus yang berkaitan.
 2. Sistem akan memaparkan senarai kursus berdasarkan pilihan tersebut.
 3. Admin boleh memilih kursus yang ingin dihantar.
 
@@ -61,16 +61,18 @@ Template boleh:
 - Urus Setia
 - Pemakluman tambahan
 
+![Penerima](/image/admin/jemputan.png)
+
+
 2. Semua maklumat yang diisi boleh ditambah dikemaskini dan dikosongkan (jika tidak berkaitan).
 
 3. Admin boleh menyemak susun atur, kandungan dan ketepatan maklumat emel melalui bahagian Protonton sebelum emel dihantar kepada penerima.
 
-![Penerima](/image/admin/jemputan.png)
 :::
 
 ::: warning Nota
 - Sebarang perubahan pada borang input akan terus dipaparkan dalam Protonton Emel.
-- Jika jumlah penerima lebih daripada 100 orang, admin perlu mengisi secara manual (taip) alamat emel penerima pada ruangan yang disediakan.
+- Bagi jumlah penerima melebihi 100 orang, alamat emel perlu dimasukkan secara manual oleh admin.
 - Admin juga boleh mengubah alamat emel bagi penerima sebelum menghantar emel.
 - Pastikan semua maklumat jemputan adalah tepat sebelum emel dihantar.
 :::
@@ -86,7 +88,7 @@ Template boleh:
 
 :::
 
-### 7. Menghantar Penghantaran Emel
+### 7. Menghantar Emel
 ::: tip Langkah 7
 1) Setelah semua maklumat lengkap, admin boleh menghantar emel.
 2) Semak semua maklumat penerima.
@@ -95,7 +97,7 @@ Template boleh:
 5) Masukkan CC dan lampiran yang diperlukan.
 :::
 
-#### Butang "Menghantar Emel"
+#### Butang "Hantar Emel Jemputan"
 ::: tip Menghantar Emel 
 - Klik butang biru **"Hantar Emel Jemputan"** untuk menghantar emel
 
@@ -106,7 +108,7 @@ Template boleh:
 ![ralat](/image/admin/ralat.png)
 - Jika berjaya, sistem akan memaparkan mesej pengesahan.
 
-- Sistem akan memaparkan mesej "Berjaya dihantar kepada ** penerima".
+- Sistem akan memaparkan mesej **"Berjaya dihantar kepada (jumlah) penerima"**.
 ![Success](/image/admin/success6.png)
 
 - Emel dihantar kepada semua penerima dalam senarai.
