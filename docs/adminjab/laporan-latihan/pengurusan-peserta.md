@@ -52,6 +52,18 @@ Klik pada butang "Peserta" untuk melihat senarai peserta yang hadir bagi latihan
 ![Kehadiran Peserta](/image/admin/tindakan-khdirn.png)
 :::
 
+### 4. Borang Kehadiran
+Setiap peserta mempunyai ruangan **"Borang Tidak Hadir?"** dalam sistem, yang memaparkan status berkaitan penyerahan borang ketidakhadiran.
+
+Terdapat tiga (3) pilihan status yang dipaparkan:
+
+1) Ada – Peserta hadir ke sesi/aktiviti, maka tiada borang ketidakhadiran diperlukan.
+2) Tidak Dihantar – Peserta tidak hadir, dan tiada sebarang borang atau sokongan rasmi dihantar.
+3) Disokong Pengarah Jabatan – Peserta tidak hadir, tetapi ketidakhadiran disahkan melalui borang rasmi yang disokong oleh Pengarah Jabatan.
+![Kehadiran Peserta](/image/admin/borang-tidakhadir.png)
+:::
+
 ::: warning Nota
-Pastikan maklumat kehadiran adalah tepat kerana ia akan digunakan untuk laporan HR dan pengesahan latihan kakitangan.
+- Paparan status ini membantu pihak urus setia untuk mengesahkan dan merekod kehadiran peserta dengan tepat berdasarkan dokumen yang telah diterima. 
+- Pastikan maklumat kehadiran adalah tepat kerana ia akan digunakan untuk laporan HR dan pengesahan latihan kakitangan.
 :::
