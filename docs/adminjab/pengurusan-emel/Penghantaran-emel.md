@@ -23,20 +23,22 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 Template boleh:
 - Dipilih
 - Dibaca isi kandungannya
-- Dikemaskini atau diubah suai jika perlu
+- Dikemaskini atau diubah suai jika perlu.
+
 ![Template Emel](/image/admin/template.png)
 
 :::
 
 ### 3. Carian Kursus Latihan
 ::: tip Langkah 3
-1. Admin perlu memasukkan **Bulan, Tahun, Kod Kursus dan Jenis Kursus (Dalaman / Luaran )** untuk mendapatkan senarai peserta yang berkaitan.
+1. Admin perlu memasukkan **Bulan, Tahun, Kod Kursus dan Jenis Kursus (Dalaman / Luaran )** untuk mendapatkan senarai kursus yang berkaitan.
 2. Sistem akan memaparkan senarai kursus berdasarkan pilihan tersebut.
-3. Admin boleh memilih kursus yang ingin dihantar 
+3. Admin boleh memilih kursus yang ingin dihantar.
+
 ![Pilih Kursus](/image/admin/pilih-kursus.png)
 :::
 
-## 4. Maklumat Emel Penerima
+### 4. Maklumat Emel Penerima
 ::: tip Langkah 5
 1. Setelah memilih kursus, alamat emel penerima akan diisi secara automatik di bahagian Penerima (Emel).
 2. Admin boleh:
