@@ -90,11 +90,6 @@ Template boleh:
 ![lampiran](/image/admin/lampiran.png)
 
 :::
-::: warning Nota
-- Maksimum 5 fail 
-- Saiz maksimum fail: 5MB 
-:::
-
 
 ### 7. Menghantar Penghantaran Emel
 ::: tip Langkah 7
