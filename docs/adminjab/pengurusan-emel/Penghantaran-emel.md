@@ -13,7 +13,7 @@ Membantu admin menghantar emel kursus secara pukal (Penghantaran) kepada peserta
 2. Pilih menu **Penghantaran Emel**
 3. Sistem akan memaparkan senarai kursus, jenis template, protonton dan serta senarai penerima.
 :::
-<!-- ![Penghantaran Emel](/image/admin/Penghantaran-emel.png) -->
+![Penghantaran Emel](/image/admin/Penghantaran-emel.png)
 
 ### 2. Pilih Tarikh & Jenis Kursus
 ::: tip Langkah 2
