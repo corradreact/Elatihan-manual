@@ -1,7 +1,7 @@
 # Panduan Sokongan Pengesahan Ketidakhadiran Kursus 
 
 ::: info Tujuan
-Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan ketidakhadiran kursus bagi pemohon yang tidak menghadiri kursus atau latihan yang telah diluluskan.
+Panduan ini bertujuan membantu KBLK membuat sokongan pengesahan ketidakhadiran kursus bagi pemohon yang tidak menghadiri kursus atau latihan yang telah diluluskan.
 :::
 
 ## 1. Akses Modul Sokongan Ketidakhadiran
@@ -9,10 +9,10 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 ::: tip Langkah 1
 1. Log masuk ke dalam Sistem Pengurusan Latihan Online (Smart Training)
 2. Pilih menu Dashboard Tugasan
-3. Klik modul **Sokongan Pengesahan Ketidakhadiran**
+3. Klik modul **Pengesahan Ketidakhadiran**
 4. Sistem akan memaparkan senarai pengguna yang tidak menghadiri kursus
 :::
-![Senarai Tidak Hadir](/image/dashboard/senarai-tidk.png)
+![Senarai Tidak Hadir](/image/dashboard/senarai-tidk1.png)
 
 ## 2. Menyemak Maklumat Ketidakhadiran
 
@@ -34,21 +34,18 @@ Panduan ini bertujuan membantu Pengarah Jabatan membuat sokongan pengesahan keti
 ## 3. Membuat Sokongan Ketidakhadiran
 ::: tip Langkah 3
 1. Setelah meneliti maklumat ketidakhadiran pemohon
-2. Klik butang **Sokong** pada lajur Tindakan
-![SokongTidak Hadir](/image/dashboard/btn-skg-tak.png)
+2. Klik butang **Semak** pada lajur Tindakan
+![SokongTidak Hadir](/image/dashboard/btn-skg-tak1.png)
 
 3. Sistem akan memaparkan Borang Pelepasan Tidak Menghadiri Latihan beserta Maklumat Pemohon dan Pengesahan Pengarah Jabatan
-4. Pengarah perlu mengisi ulasan (wajib) dan tick -> tanda sah pada pengesahan keputusan
+4. KBLK perlu mengisi ulasan (wajib) dan tick -> tanda sah pada pengesahan keputusan
 
-![Pengesahan](/image/dashboard/pengesahan.png)
+![Pengesahan](/image/dashboard/pengesahan1.png)
 
-5. Klik butang **Tolak** = tolak alasan atau **Lulus** = terima alasan
-
-![Contoh 1](/image/dashboard/contoh1.png)
 :::
 ::: warning Nota
 
-1. Sistem akan memaparkan mesej **Diluluskan** atau **Ditolak** secara automatik
+1. Sistem akan memaparkan mesej **Semakan hadir/tidak hadir berjaya dihantar** secara automatik
 2. Rekod sokongan akan disimpan untuk:
 - Rujukan pihak pentadbiran
 - Penilaian kelulusan atau tindakan lanjut
