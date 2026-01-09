@@ -146,7 +146,8 @@ export default defineConfig({
         {
           text: 'Dashboard Tugasan',
            items: [
-            { text: 'Ulasan Permohonan Latihan', link: '/kblk/kblk/ulasan-permohonan-latihan' }
+            { text: 'Ulasan Permohonan Latihan', link: '/kblk/kblk/ulasan-permohonan-latihan' },
+             { text: 'Sokong Ketidakhadiran', link: '/kblk/tugasan/ketidakhadiran' }
           ]
         },
         {
