@@ -36,6 +36,7 @@ Panduan ini bertujuan membantu Bahagian Latihan & Kompetensi (KBLK) membuat soko
 1. Setelah meneliti maklumat ketidakhadiran pemohon
 2. Klik butang **Semak** pada lajur Tindakan
 ![SokongTidak Hadir](/image/dashboard/btn-skg-tak1.png)
+
 ![Semak](/image/dashboard/semak.png)
 
 3. Sistem akan memaparkan Borang Pelepasan Tidak Menghadiri Latihan beserta Maklumat Pemohon dan Pengesahan Pengarah Jabatan
