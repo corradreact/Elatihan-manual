@@ -35,6 +35,7 @@ Panduan ini bertujuan membantu Bahagian Latihan & Kompetensi (KBLK) membuat soko
 ::: tip Langkah 3
 1. Setelah meneliti maklumat ketidakhadiran pemohon
 2. Klik butang **Semak** pada lajur Tindakan
+
 ![SokongTidak Hadir](/image/dashboard/btn-skg-tak1.png)
 
 ![Semak](/image/dashboard/semak.png)
