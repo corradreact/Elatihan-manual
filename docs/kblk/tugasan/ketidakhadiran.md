@@ -1,7 +1,7 @@
 # Panduan Sokongan Pengesahan Ketidakhadiran Kursus 
 
 ::: info Tujuan
-Panduan ini bertujuan membantu KBLK membuat sokongan pengesahan ketidakhadiran kursus bagi pemohon yang tidak menghadiri kursus atau latihan yang telah diluluskan.
+Panduan ini bertujuan membantu Bahagian Latihan & Kompetensi (KBLK) membuat sokongan pengesahan ketidakhadiran kursus bagi pemohon yang tidak menghadiri kursus atau latihan yang telah diluluskan. 
 :::
 
 ## 1. Akses Modul Sokongan Ketidakhadiran
@@ -36,6 +36,7 @@ Panduan ini bertujuan membantu KBLK membuat sokongan pengesahan ketidakhadiran k
 1. Setelah meneliti maklumat ketidakhadiran pemohon
 2. Klik butang **Semak** pada lajur Tindakan
 ![SokongTidak Hadir](/image/dashboard/btn-skg-tak1.png)
+![Semak](/image/dashboard/semak.png)
 
 3. Sistem akan memaparkan Borang Pelepasan Tidak Menghadiri Latihan beserta Maklumat Pemohon dan Pengesahan Pengarah Jabatan
 4. KBLK perlu mengisi ulasan (wajib) dan tick -> tanda sah pada pengesahan keputusan
