@@ -19,7 +19,7 @@ Peserta latihan dapat membuat penilaian untuk latihan yang telah dihadiri.
 
 ![Bahagian A](/image/kakitangan/bahagiana.png)
 
-### Bahagian B: Perkhidmatan dan Kemudahan Kursus/latihan (Jika Berkenaan)
+### Bahagian B: Perkhidmatan dan Kemudahan Latihan (Jika Berkenaan)
 
 ![Bahagian B](/image/kakitangan/bahagianb.png)
 
