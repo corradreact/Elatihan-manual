@@ -1,5 +1,5 @@
 import { defineConfig } from 'vitepress'
-
+import DefaultTheme from 'vitepress/theme'
 export default defineConfig({
   lang: 'ms-MY',
   title: 'Smart Training',

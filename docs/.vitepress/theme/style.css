@@ -92,7 +92,12 @@ body {
 }
 
 /* Butang */
-
+.VPNavBarTitle a {
+  pointer-events: none;
+  cursor: default;
+  text-decoration: none;
+  color: inherit;
+}
 .hero-actions {
   margin-top: 1.75rem;
   display: flex;
