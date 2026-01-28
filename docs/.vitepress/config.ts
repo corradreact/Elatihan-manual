@@ -6,7 +6,7 @@ export default defineConfig({
   description: 'Manual Pengguna Kakitangan dan Admin untuk Sistem Latihan',
 
   head: [
-    ['link', { rel: 'icon', href: '/elatihan-logo.png' }]
+    ['link', { href: '/elatihan-logo.png' }]
   ],
 
   themeConfig: {
