@@ -9,10 +9,10 @@ hero:
   image:
     src: /elatihan-logo.png
     alt: Logo Majlis Perbandaran Selayang
-  actions:
-    - theme: brand
-      text: Manual Kakitangan
-      link: /kakitangan/
+  # actions:
+  #   - theme: brand
+  #     text: Manual Kakitangan
+  #     link: /kakitangan/
 
 # # 👉 features letak sambung sini, jangan ada '---' lain
 # features:
