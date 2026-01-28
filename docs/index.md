@@ -5,7 +5,7 @@ title: Smart Training
 hero:
   name: Smart Training
   text: Manual Pengguna Sistem Pengurusan Latihan Online (Smart Training)
-  tagline: Panduan lengkap penggunaan Sistem Pengurusan Latihan Online (Smart Training) untuk Kkai dan admin.
+  tagline: Panduan lengkap penggunaan Sistem Pengurusan Latihan Online (Smart Training) untuk Kaki dan admin.
   image:
     src: /elatihan-logo.png
     alt: Logo Majlis Perbandaran Selayang
